@@ -16,7 +16,7 @@ responsive performance (e.g., 3D).
 # D:
 - [Dragon]() - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
 # E: 
-- [Enact] (https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
+- [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
 # F:  
 - [Formality](https://github.com/moonad/Formality) - Formality is an efficient proof language. An lightweight proof-gramming language. It aims to be:
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
@@ -49,9 +49,9 @@ responsive performance (e.g., 3D).
 # Q: 
 # R: 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
-- [Ribbon] (https://github.com/AvivC/RibbonLang) - Ribbon is a dynamic interpreted programming language. It's inspired by the likes of Python, Javascript and a little bit of Lua.
-- [Rio] (https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
-- [Roy] (https://github.com/puffnfresh/roy) - Roy is a small functional language that compiles to JavaScript. It has a few main features:
+- [Ribbon](https://github.com/AvivC/RibbonLang) - Ribbon is a dynamic interpreted programming language. It's inspired by the likes of Python, Javascript and a little bit of Lua.
+- [Rio](https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
+- [Roy](https://github.com/puffnfresh/roy) - Roy is a small functional language that compiles to JavaScript. It has a few main features:
   * Damas-Hindley-Milner type inference
   * Whitespace significant syntax
   * Simple tagged unions
@@ -77,9 +77,9 @@ responsive performance (e.g., 3D).
 # V: 
 - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
 # W: 
-- [Wu] (https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
-- [Wren] (https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
+- [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
+- [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
 # X: 
 # Y: 
 # Z: 
-- [Zig] (https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
