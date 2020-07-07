@@ -18,6 +18,7 @@ responsive performance (e.g., 3D).
 # E: 
 - [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
 # F:  
+- [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Formality](https://github.com/moonad/Formality) - Formality is an efficient proof language. An lightweight proof-gramming language. It aims to be:
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
   * Secure: a powerful type system capable of proving mathematical theorems.
