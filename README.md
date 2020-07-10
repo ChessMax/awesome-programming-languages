@@ -38,6 +38,7 @@ responsive performance (e.g., 3D).
 - [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
 - [Kit](https://github.com/kitlang/kit) - Kit is a programming language designed for creating concise, high performance cross-platform applications. Kit compiles to C, so it's highly portable; it can be used in addition to or as an alternative to C, and was designed with game development in mind.
 # L: 
+- [Lever](https://github.com/cheery/lever/) - Lever programming language is dynamically typed language designed & programmed by Henri Tuhola. It has capabilities to absorb features from other languages. Otherwise it is very generic purpose programming system with a hint of inclination towards interactive graphics and audio programming.
 # M: 
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
@@ -49,6 +50,7 @@ responsive performance (e.g., 3D).
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 # P: 
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+- [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
 # Q: 
 # R: 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
