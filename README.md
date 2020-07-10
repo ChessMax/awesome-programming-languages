@@ -40,6 +40,7 @@ responsive performance (e.g., 3D).
 # L: 
 - [Lever](https://github.com/cheery/lever/) - Lever programming language is dynamically typed language designed & programmed by Henri Tuhola. It has capabilities to absorb features from other languages. Otherwise it is very generic purpose programming system with a hint of inclination towards interactive graphics and audio programming.
 # M: 
+- [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/). 
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
@@ -66,6 +67,7 @@ responsive performance (e.g., 3D).
   * Not-horrible JS output
  
 # S: 
+- [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Spry](https://github.com/gokr/spry) - Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, words of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO. Spry is dynamically typed and while trying to recreate the "feeling" of Smalltalk this is an experiment in trying out "interesting" approaches.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
