@@ -83,6 +83,7 @@ responsive performance (e.g., 3D).
 - [Umka](https://github.com/vtereshkov/umka-lang) - Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
 # V: 
 - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
+- [Vale](https://github.com/Verdagon/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
 # W: 
 - [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
