@@ -48,6 +48,7 @@ responsive performance (e.g., 3D).
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
 # N: 
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
+- [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 # O: 
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 # P: 
