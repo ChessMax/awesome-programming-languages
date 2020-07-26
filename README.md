@@ -51,6 +51,7 @@ responsive performance (e.g., 3D).
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 # O: 
+- [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 # P: 
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
