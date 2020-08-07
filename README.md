@@ -60,6 +60,7 @@ responsive performance (e.g., 3D).
 # P: 
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
+- [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 # Q: 
 # R: 
