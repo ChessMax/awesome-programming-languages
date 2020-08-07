@@ -60,6 +60,7 @@ responsive performance (e.g., 3D).
 # P: 
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
+- [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 # Q: 
 # R: 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
