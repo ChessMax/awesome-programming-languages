@@ -57,6 +57,7 @@ responsive performance (e.g., 3D).
 # O: 
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
+- [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 # P: 
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
