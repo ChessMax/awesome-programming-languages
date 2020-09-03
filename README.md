@@ -67,6 +67,7 @@ responsive performance (e.g., 3D).
 # Q: 
 # R: 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
+- [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
 - [Ribbon](https://github.com/AvivC/RibbonLang) - Ribbon is a dynamic interpreted programming language. It's inspired by the likes of Python, Javascript and a little bit of Lua.
 - [Rio](https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
 - [Roy](https://github.com/puffnfresh/roy) - Roy is a small functional language that compiles to JavaScript. It has a few main features:
