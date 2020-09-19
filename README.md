@@ -6,6 +6,7 @@ If you like exploring programming languages or you are making your own programmi
 # A:
 # B:
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language. 
+- [Belch](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
 # C:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language. 
