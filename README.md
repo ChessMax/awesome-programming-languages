@@ -5,6 +5,7 @@ If you like exploring programming languages or you are making your own programmi
 ## Contents
 # A:
 # B:
+- [Beads](http://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language. 
 - [Belch](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
 # C:
