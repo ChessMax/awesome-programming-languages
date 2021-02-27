@@ -54,6 +54,7 @@ responsive performance (e.g., 3D).
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/). 
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
+- [MetaLang 99](https://github.com/Hirrolot/metalang99) - A functional language for C99 preprocessor metaprogramming.
 - [MiniLisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
