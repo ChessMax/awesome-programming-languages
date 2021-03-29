@@ -15,6 +15,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe
 systems programming language. Ideal for complex, data-rich programs requiring
 responsive performance (e.g., 3D).
+- [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html). 
 # D:
 - [Dragon]() - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
