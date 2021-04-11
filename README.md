@@ -67,6 +67,7 @@ responsive performance (e.g., 3D).
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
+- [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
 # P: 
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
