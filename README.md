@@ -94,6 +94,7 @@ responsive performance (e.g., 3D).
   * Not-horrible JS output
  
 # S: 
+- [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Spry](https://github.com/gokr/spry) - Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, words of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO. Spry is dynamically typed and while trying to recreate the "feeling" of Smalltalk this is an experiment in trying out "interesting" approaches.
