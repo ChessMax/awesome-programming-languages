@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 87 awesome programming languages that you might be interested in.
+The list of 88 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -26,9 +26,15 @@ responsive performance (e.g., 3D).
 - [Elm](https://elm-lang.org/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [EmojiCode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis. Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
 - [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
-# F (4):  
+# F (5):  
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
+- [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
+Flix is a principled functional, imperative, and logic programming language developed at Aarhus University, at the University of Waterloo, and by a community of open source contributors.
+
+   Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks like Scala, but its type system is based on Hindley-Milner. Two unique features of Flix are its polymorphic effect system and its support for first-class Datalog constraints.
+
+   Flix compiles JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
 - [Formality](https://github.com/moonad/Formality) - Formality is an efficient proof language. An lightweight proof-gramming language. It aims to be:
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
   * Secure: a powerful type system capable of proving mathematical theorems.
