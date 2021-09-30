@@ -126,6 +126,7 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Provide a sensible API over Standard Library/STL.
   * Other lofty goals :)
 # U (3): 
+- [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
 - [Umka](https://github.com/vtereshkov/umka-lang) - Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program. 
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
