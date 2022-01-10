@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 92 awesome programming languages that you might be interested in.
+The list of 93 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -71,8 +71,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
 - [Lever](https://github.com/cheery/lever/) - Lever programming language is dynamically typed language designed & programmed by Henri Tuhola. It has capabilities to absorb features from other languages. Otherwise it is very generic purpose programming system with a hint of inclination towards interactive graphics and audio programming.
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
-# M (7): 
+# M (8): 
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/). 
+- [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
 - [MetaLang 99](https://github.com/Hirrolot/metalang99) - A functional language for C99 preprocessor metaprogramming.
