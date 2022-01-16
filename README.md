@@ -53,6 +53,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed programming language, cross-compiles to many different targets.
+- [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 - [Hugorm](https://github.com/nilq/hugorm) - Hugorm is a dynamically typed programming language. Hugorm strives to be better version of the other snake language, with a heightened focus on <good things here>. The syntax is designed to be easy to read and easy to write, and runs on a constantly improving bytecode virtual machine.
 # I (1):  
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
