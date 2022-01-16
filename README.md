@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 94 awesome programming languages that you might be interested in.
+The list of 95 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -8,12 +8,13 @@ If you like exploring programming languages or you are making your own programmi
 - [Beads](http://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language. 
 - [Belch](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
-# C (7):
+# C (8):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language. 
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
 engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
+- [Cicada] - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe
 systems programming language. Ideal for complex, data-rich programs requiring
 responsive performance (e.g., 3D).
