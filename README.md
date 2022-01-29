@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 95 awesome programming languages that you might be interested in.
+The list of 96 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -29,7 +29,7 @@ responsive performance (e.g., 3D).
 - [Elm](https://elm-lang.org/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [EmojiCode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis. Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
 - [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
-# F (5):  
+# F (6):  
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
@@ -42,6 +42,7 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
   * Secure: a powerful type system capable of proving mathematical theorems.
   * Portable: the entire language desugars to a 500 lines core type-theory.
+- [FreeBASIC](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inline assembly, and many others.
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 # G (6):  
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
