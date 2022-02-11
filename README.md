@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 97 awesome programming languages that you might be interested in.
+The list of 98 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -29,7 +29,8 @@ responsive performance (e.g., 3D).
 - [Elm](https://elm-lang.org/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [EmojiCode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis. Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
 - [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
-# F (7):  
+# F (8):  
+- [F*](https://github.com/FStarLang/FStar) - F* (pronounced F star) is a general-purpose functional programming language with effects aimed at program verification. It puts together the automation of an SMT-backed deductive verification tool with the expressive power of a proof assistant based on dependent types. After verification, F* programs can be extracted to efficient OCaml, F#, C, WASM, or ASM code. This enables verifying the functional correctness and security of realistic applications. The main ongoing use case of F* is building a verified, drop-in replacement for the whole HTTPS stack in Project Everest. This includes verified implementations of TLS 1.2 and 1.3 and of the underlying cryptographic primitives.
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
