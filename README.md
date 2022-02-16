@@ -1,9 +1,10 @@
 # Awesome programming languages
-The list of 100 awesome programming languages that you might be interested in.
+The list of 101 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
-# A (1):
+# A (2):
+- [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none
 # B (3):
 - [Beads](http://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
