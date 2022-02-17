@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 102 awesome programming languages that you might be interested in.
+The list of 103 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -108,7 +108,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
 # Q: 
-# R (6): 
+# R (7): 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 - [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
 - [Ribbon](https://github.com/AvivC/RibbonLang) - Ribbon is a dynamic interpreted programming language. It's inspired by the likes of Python, Javascript and a little bit of Lua.
