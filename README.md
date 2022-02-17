@@ -122,6 +122,7 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Structural typing
   * Monad syntax
   * Not-horrible JS output
+- [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java. 
  
 # S (6): 
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
