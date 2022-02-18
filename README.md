@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 103 awesome programming languages that you might be interested in.
+The list of 104 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -89,9 +89,10 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [MiniLisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
-# N (4): 
+# N (5): 
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
 - [Never](https://github.com/never-lang/never) - Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.
+- [NewLang](https://github.com/rsashka/newlang) - NewLang is a high-level programming language that combines standard algorithmic constructs with declarative programming and tensor computing for machine learning problems. The main feature of the language is an easy, logical and non-contradictory syntax, which is not based on the use of reserved keywords, but on a strict system of grammatical rules using punctuation marks (which also includes language operators).
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
 # O (4): 
