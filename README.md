@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 107 awesome programming languages that you might be interested in.
+The list of 108 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -102,7 +102,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
-# P (7): 
+# P (8): 
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
