@@ -107,6 +107,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
+- [Preql](https://github.com/erezsh/Preql) - Preql is an interpreted, relational programming language, that specializes in database queries and compiles to SQL.
 - [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
