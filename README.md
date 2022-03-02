@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 109 awesome programming languages that you might be interested in.
+The list of 111 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -112,8 +112,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
 # Q: 
-# R (10):
-- [r4](https://github.com/phreda4/r4) [r3](https://github.com/phreda4/r3) - R4/R3 is a Colorforth like laneguage, a FORTH dialect, r4 is 32bits and r3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi. 
+# R (11):
+- [r3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, r3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
+- [r4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, r4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi. 
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 - [Req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language. It is designed for easily making HTTP requests, and working with their responses. Below is an example that calls out to the GitHub API and displays the user making the call.
 - [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
