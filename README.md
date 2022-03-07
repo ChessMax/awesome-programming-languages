@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 112 awesome programming languages that you might be interested in.
+The list of 113 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -69,10 +69,11 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - Jai is a high-level programming language developed by Jonathan Blow, creator of indie games Braid and, most recently, The Witness. It is an imperative static/strongly typed C-style language, but with a variety of modern language features that C lacks. Blow began work on Jai in late September 2014. It is still in development and as of yet is unavailable to the general public. Blow developed it with an eye towards video games, but in fact it’s a general purpose programming language that could be used for any task.
 - [JS++](https://www.onux.com/jspp/) JS++ is a programming language designed for high-quality web and mobile development.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
-# K (6):  
+# K (7):  
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
 - [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
+- [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it. 
 - [Kit](https://github.com/kitlang/kit) - Kit is a programming language designed for creating concise, high performance cross-platform applications. Kit compiles to C, so it's highly portable; it can be used in addition to or as an alternative to C, and was designed with game development in mind.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 - [Konna](https://github.com/eashanhatti/konna) - A fast functional language based on two level type theory. An experimental language for exploring the practical applications of two level type theory.
