@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 114 awesome programming languages that you might be interested in.
+The list of 115 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -99,10 +99,11 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [NewLang](https://github.com/rsashka/newlang) - NewLang is a high-level programming language that combines standard algorithmic constructs with declarative programming and tensor computing for machine learning problems. The main feature of the language is an easy, logical and non-contradictory syntax, which is not based on the use of reserved keywords, but on a strict system of grammatical rules using punctuation marks (which also includes language operators).
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
-# O (4): 
+# O (5): 
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
+- [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it’s still in its childhood, aims to provide a simple platform to create low level, efficient software.
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
 # P (8): 
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
