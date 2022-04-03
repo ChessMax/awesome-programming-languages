@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 121 awesome programming languages that you might be interested in.
+The list of 122 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -102,12 +102,13 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [NewLang](https://github.com/rsashka/newlang) - NewLang is a high-level programming language that combines standard algorithmic constructs with declarative programming and tensor computing for machine learning problems. The main feature of the language is an easy, logical and non-contradictory syntax, which is not based on the use of reserved keywords, but on a strict system of grammatical rules using punctuation marks (which also includes language operators).
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
-# O (5): 
+# O (6): 
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it’s still in its childhood, aims to provide a simple platform to create low level, efficient software.
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
+- [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 # P (9): 
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
