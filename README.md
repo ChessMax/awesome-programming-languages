@@ -56,6 +56,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 # G (6):  
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
 - [Gravity](https://github.com/marcobambini/gravity) - Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
+- [Glaz](https://github.com/glaz-lang/glaz) - A general-purpose language, designed for the safe, fast and stable creation of software.
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
