@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 129 awesome programming languages that you might be interested in.
+The list of 130 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -9,10 +9,11 @@ If you like exploring programming languages or you are making your own programmi
 - [Ark](https://github.com/spargle/ark) - Ark is a tiny, fast, and **somewhat** useful programming language focused on runtime stability and simple code syntax. Every instruction is a single character, but it is NOT an esolang. (anymore)
 - [ArkScript](https://arkscript-lang.dev) - ArkScript is a small, fast, functional and scripting language for C++ projects ; the syntax is inspired by Lisp. It's a scripting language aiming for high portability and easily embedding in C++ projects, with a few nice features such as tail call optimization and macros.
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none
-# B (3):
+# B (4):
 - [Beads](http://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language. 
 - [Belch](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
+- [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
 # C (8):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language. 
