@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 127 awesome programming languages that you might be interested in.
+The list of 128 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -155,8 +155,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (2): 
+# T (3): 
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
+- [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
 - [Tlön](https://github.com/nesteruk/Tlon) - Tlön is a programming language transpiled into Modern C++. These are the key goals:
   * Add features which C++ is missing.
   * Throw out all the legacy crap that's been dragged into C++ over the years.
