@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 133 awesome programming languages that you might be interested in.
+The list of 134 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
@@ -21,6 +21,7 @@ If you like exploring programming languages or you are making your own programmi
 engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
+- [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe
 systems programming language. Ideal for complex, data-rich programs requiring
 responsive performance (e.g., 3D).
@@ -91,7 +92,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Lever](https://github.com/cheery/lever/) - Lever programming language is dynamically typed language designed & programmed by Henri Tuhola. It has capabilities to absorb features from other languages. Otherwise it is very generic purpose programming system with a hint of inclination towards interactive graphics and audio programming.
 - [Lobster](https://github.com/aardappel/lobster) - Lobster is a statically typed programming language with a Python-esque syntax that combines the advantages of an expressive type system and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you.
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
-- [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).   
+- [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 # M (10):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
