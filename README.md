@@ -2,6 +2,9 @@
 The list of 136 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
+[![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
+[![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
+
 ## Contents
 # A (6):
 - [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
