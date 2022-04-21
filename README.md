@@ -1,9 +1,10 @@
 # Awesome programming languages
-The list of 135 awesome programming languages that you might be interested in.
+The list of 136 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Contents
-# A (5):
+# A (6):
+- [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
 - [Ark](https://github.com/spargle/ark) - Ark is a tiny, fast, and **somewhat** useful programming language focused on runtime stability and simple code syntax. Every instruction is a single character, but it is NOT an esolang. (anymore)
