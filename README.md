@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 140 awesome programming languages that you might be interested in.
+The list of 141 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
@@ -160,10 +160,11 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Not-horrible JS output
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 
-# S (8):
+# S (9):
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [Soul](https://github.com/egel-lang/soul ) - Soul is an esoteric concatenative one-stack language, a small explorative language with an interpreter written in a day. Most concatenative languages work on a state, often that's another stack. For example, Forth has a data and return stack and Postscript has an extra stack outputting to a page. Soul is a minimalist language that provides one thing, and one thing only, the one sole stack.
+- [Sphinx](https://github.com/mwerezak/sphinx-lang) - Sphinx is a dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust!
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Spry](https://github.com/gokr/spry) - Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, words of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO. Spry is dynamically typed and while trying to recreate the "feeling" of Smalltalk this is an experiment in trying out "interesting" approaches.
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
