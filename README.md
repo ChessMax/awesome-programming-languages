@@ -64,7 +64,6 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 # G (8):
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
-- [Glaz](https://github.com/glaz-lang/glaz) - A general-purpose language, designed for the safe, fast and stable creation of software.
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
 - [Gravity](https://github.com/marcobambini/gravity) - Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
@@ -153,7 +152,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Rio](https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
 - [Rhovas](https://github.com/Rhovas/Compiler) - Rhovas is a programming language for API design and enforcement. Using Rhovas, developers can better express the contracts and intention of their code to help create correct, maintainable software.
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
-- [Roman II] - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
+- [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [Roy](https://github.com/puffnfresh/roy) - Roy is a small functional language that compiles to JavaScript. It has a few main features:
   * Damas-Hindley-Milner type inference
   * Whitespace significant syntax
