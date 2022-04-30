@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 145 awesome programming languages that you might be interested in.
+The list of 144 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
@@ -62,7 +62,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Forscape](https://github.com/JohnDTill/Forscape) - Scientific computing language. Forscape solves engineering problems with an unprecedented level of abstraction so you get reliable results quickly. This high-level approach starts with intuitive syntax. Program with the same notation you use to write equations thanks to our innovative math rendering with semantic formatting. Matrices, fractions, symbols– write code using the same notation you use to think through problems on the whiteboard.
 - [FreeBASIC](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inline assembly, and many others.
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
-# G (8):
+# G (7):
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
