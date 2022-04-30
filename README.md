@@ -73,7 +73,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 # H (8):
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
-- [Hare](https://sr.ht/~sircmpwn/hare/sources) - Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
+- [Hare](https://harelang.org/) - Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
 - [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed programming language, cross-compiles to many different targets.
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
