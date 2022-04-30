@@ -36,7 +36,7 @@ responsive performance (e.g., 3D).
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
 # D (2):
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
-- [Dragon]() - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
+- [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
 # E (6):
 - [Ecstasy](https://github.com/xtclang/xvm) - Ecstasy is a new, general-purpose, programming language, designed for modern cloud architectures, and explicitly for the serverless cloud. Actually, to be completely honest, it's the most amazing programming language ever. No, really, it's that awesome.
 - [Effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism.
