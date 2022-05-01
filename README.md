@@ -1,15 +1,19 @@
 # Awesome programming languages
-The list of 145 awesome programming languages that you might be interested in.
+The list of 175 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
+
+See also: [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
 [![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (7):
+# A (9):
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
+- [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 - [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
+- [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
 - [Ark](https://github.com/spargle/ark) - Ark is a tiny, fast, and **somewhat** useful programming language focused on runtime stability and simple code syntax. Every instruction is a single character, but it is NOT an esolang. (anymore)
@@ -20,49 +24,57 @@ If you like exploring programming languages or you are making your own programmi
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
 - [Belch](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
 - [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
-# C (10):
+# C (14):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
 engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
+- [Cakelisp](https://github.com/makuto/cakelisp) - A metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
 - [CakeML](https://github.com/CakeML/cakeml) - CakeML is a verified implementation of a significant subset of Standard ML.
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
+- [Clojure](https://clojure.org/) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
+- [Common Lisp](https://lisp-lang.org/) - A dialect of the Lisp programming language, published in ANSI standard document ANSI INCITS 226-1994. Common Lisp is not an implementation, but rather a language specification. Several implementations of the Common Lisp standard are available, including free and open-source software and proprietary products. Common Lisp is a general-purpose, multi-paradigm programming language. It supports a combination of procedural, functional, and object-oriented programming paradigms.
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe
 systems programming language. Ideal for complex, data-rich programs requiring
 responsive performance (e.g., 3D).
+- [Coq](https://coq.inria.fr/) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
-# D (2):
+# D (3):
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
+- [Dart](https://dart.dev/) - Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either native code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference. Primarally used with the Flutter GUI toolkit.
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
-# E (6):
+# E (9):
 - [Ecstasy](https://github.com/xtclang/xvm) - Ecstasy is a new, general-purpose, programming language, designed for modern cloud architectures, and explicitly for the serverless cloud. Actually, to be completely honest, it's the most amazing programming language ever. No, really, it's that awesome.
 - [Effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism.
 - [Egel](https://github.com/egel-lang/egel) - Egel is an untyped concurrent functional scripting language based on eager combinator rewriting with a concise but remarkably powerful syntax.
+- [Eiffel](https://www.eiffel.org/) - Based on a set of principles, including design by contract, command–query separation, the uniform-access principle, the single-choice principle, the open–closed principle, and option–operand separation.
+- [Elixir](https://elixir-lang.org/) - A dynamic, functional language for building scalable and maintainable applications. Elixir leverages the Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is successfully used in web development, embedded software, data ingestion, and multimedia processing, across a wide range of industries.
 - [Elm](https://elm-lang.org/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [EmojiCode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis. Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
 - [Enact](https://github.com/enact-lang/enact) - Enact is a new compiled general-purpose programming language that's not designed to be unique or groundbreaking. Instead, Enact aims to be familiar, taking advantage of already established techniques and paradigms and making them nicer.
-# F (8):
+- [Erlang](https://www.erlang.org/) - A programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
+# F (12):
+- [F#](https://fsharp.org/) - a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. Developed by Microsoft for the .NET platform.
 - [F*](https://github.com/FStarLang/FStar) - F* (pronounced F star) is a general-purpose functional programming language with effects aimed at program verification. It puts together the automation of an SMT-backed deductive verification tool with the expressive power of a proof assistant based on dependent types. After verification, F* programs can be extracted to efficient OCaml, F#, C, WASM, or ASM code. This enables verifying the functional correctness and security of realistic applications. The main ongoing use case of F* is building a verified, drop-in replacement for the whole HTTPS stack in Project Everest. This includes verified implementations of TLS 1.2 and 1.3 and of the underlying cryptographic primitives.
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
-Flix is a principled functional, imperative, and logic programming language developed at Aarhus University, at the University of Waterloo, and by a community of open source contributors.
-
-   Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks like Scala, but its type system is based on Hindley-Milner. Two unique features of Flix are its polymorphic effect system and its support for first-class Datalog constraints.
-
-   Flix compiles JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
+Flix is a principled functional, imperative, and logic programming language developed at Aarhus University, at the University of Waterloo, and by a community of open source contributors. Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks like Scala, but its type system is based on Hindley-Milner. Two unique features of Flix are its polymorphic effect system and its support for first-class Datalog constraints. Flix compiles JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
 - [Formality](https://github.com/moonad/Formality) - Formality is an efficient proof language. An lightweight proof-gramming language. It aims to be:
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
   * Secure: a powerful type system capable of proving mathematical theorems.
   * Portable: the entire language desugars to a 500 lines core type-theory.
 - [Forscape](https://github.com/JohnDTill/Forscape) - Scientific computing language. Forscape solves engineering problems with an unprecedented level of abstraction so you get reliable results quickly. This high-level approach starts with intuitive syntax. Program with the same notation you use to write equations thanks to our innovative math rendering with semantic formatting. Matrices, fractions, symbols– write code using the same notation you use to think through problems on the whiteboard.
+- [Forth](https://www.forth.com/) - A procedural, stack-oriented programming language and interactive environment. Forth is used in the Open Firmware boot loader, in space applications such as the Philae spacecraft, and in other embedded systems which involve interaction with hardware. Multiple implementaitons, both proprietary and FOSS.
+- [Fortran](https://fortran-lang.org/) - A general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing. It has been in use for over six decades in computationally intensive areas such as numerical weather prediction, finite element analysis, computational fluid dynamics, geophysics, computational physics, crystallography and computational chemistry. It is a popular language for high-performance computing and is used for programs that benchmark and rank the world's fastest supercomputers.
 - [FreeBASIC](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inline assembly, and many others.
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
-# G (7):
+# G (8):
+- [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
@@ -70,23 +82,29 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 - [GSL](https://github.com/imatix/gsl) - GSL is a code construction tool. It will generate code in all languages and for all purposes. If this sounds too good to be true, welcome to 1996, when we invented these techniques. Magic is simply technology that is twenty years ahead of its time. In addition to code construction, GSL has been used to generate database schema definitions, user interfaces, reports, system administration tools and much more.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
-# H (8):
+# H (9):
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
 - [Hare](https://harelang.org/) - Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
 - [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
+- [Haskell](https://www.haskell.org/) - A general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research and industrial application, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed programming language, cross-compiles to many different targets.
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hugorm](https://github.com/nilq/hugorm) - Hugorm is a dynamically typed programming language. Hugorm strives to be better version of the other snake language, with a heightened focus on <good things here>. The syntax is designed to be easy to read and easy to write, and runs on a constantly improving bytecode virtual machine.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
-# I (1):
+# I (3):
+- [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
+- [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
-# J (4):
+# J (6):
+- [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - Jai is a high-level programming language developed by Jonathan Blow, creator of indie games Braid and, most recently, The Witness. It is an imperative static/strongly typed C-style language, but with a variety of modern language features that C lacks. Blow began work on Jai in late September 2014. It is still in development and as of yet is unavailable to the general public. Blow developed it with an eye towards video games, but in fact it’s a general purpose programming language that could be used for any task. [Link](https://github.com/Jai-Community/Jai-Community-Library/wiki) to community library.
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
 - [JS++](https://www.onux.com/jspp/) JS++ is a programming language designed for high-quality web and mobile development.
+- [Julia](https://julialang.org/) - Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
-# K (6):
+# K (7):
+- [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
 - [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
@@ -101,7 +119,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
-# M (10):
+# M (11):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
@@ -111,39 +129,47 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [MiniLisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 - [Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core. You can try it in a browser [here](https://rohbot.net/mond/).
+- [MUMPS](https://en.wikipedia.org/wiki/MUMPS) - "Massachusetts General Hospital Utility Multi-Programming System", or M, is a high performance transaction processing key–value database with integrated programming language. It was originally developed at Massachusetts General Hospital for managing hospital laboratory information systems. MUMPS technology has since expanded as the predominant database for health information systems and electronic health records in the United States. MUMPS-based information systems run over 40% of the hospitals in the U.S., run across all of the U.S. federal hospitals and clinics, and provide health information services for over 54% of patients across the U.S.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
-# N (7):
+# N (8):
 - [Nelua](https://github.com/edubart/nelua-lang) - Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
 - [Never](https://github.com/never-lang/never) - Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.
 - [NewLang](https://github.com/rsashka/newlang) - NewLang is a high-level programming language that combines standard algorithmic constructs with declarative programming and tensor computing for machine learning problems. The main feature of the language is an easy, logical and non-contradictory syntax, which is not based on the use of reserved keywords, but on a strict system of grammatical rules using punctuation marks (which also includes language operators).
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
+- [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Nox](https://github.com/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
-# O (6):
+# O (8):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
+- [OCaml](https://ocaml.org/) - A general-purpose, industrial-strength programming language with an emphasis on expressiveness and safety. OCaml is a multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. 
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it’s still in its childhood, aims to provide a simple platform to create low level, efficient software.
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
-# P (11):
+- [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
+# P (13):
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
 - [Peridot](https://github.com/eashanhatti/peridot) - An experimental language for exploring the applications of two level type theory to high-performance functional programming
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+- [PicoLisp](https://picolisp.com/) - PicoLisp is a programming language, a dialect of the language Lisp. Its most prominent features are simplicity and minimalism. It is built on one internal data type: a cell. On the language level, a programmer can use three different data types (numbers, symbols, and lists) being represented by cells and differentiated by bits at the end of the cell.
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language. Pocketlang is a small (~3000 semicolons) and fast functional language written in C. It's syntactically similar to Ruby and it can be learned within 15 minutes. Including the compiler, bytecode VM and runtime, it's a standalone executable with zero external dependencies just as it's self descriptive name. The pocketlang VM can be embedded in another hosting program very easily.
 - [Preql](https://github.com/erezsh/Preql) - Preql is an interpreted, relational programming language, that specializes in database queries and compiles to SQL.
 - [Priml](https://github.com/x-Eagle-x/Priml) - Priml is a stack-oriented scripting language based on Forth and BASIC.
 - [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
+- [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
 # Q (1):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
-# R (13):
+# R (15):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
+- [Racket](https://racket-lang.org/) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
+- [Raku](https://raku.org/) - A member of the Perl family of programming languages. Formerly known as Perl 6, it was renamed in October 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification.
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 - [Req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language. It is designed for easily making HTTP requests, and working with their responses. Below is an example that calls out to the GitHub API and displays the user making the call.
 - [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
@@ -162,21 +188,22 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Monad syntax
   * Not-horrible JS output
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-
-# S (10):
+# S (11):
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [Soul](https://github.com/egel-lang/soul ) - Soul is an esoteric concatenative one-stack language, a small explorative language with an interpreter written in a day. Most concatenative languages work on a state, often that's another stack. For example, Forth has a data and return stack and Postscript has an extra stack outputting to a page. Soul is a minimalist language that provides one thing, and one thing only, the one sole stack.
+- [Solidity](https://soliditylang.org/) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 - [Sphinx](https://github.com/mwerezak/sphinx-lang) - Sphinx is a dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust!
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [Spry](https://github.com/gokr/spry) - Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, words of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO. Spry is dynamically typed and while trying to recreate the "feeling" of Smalltalk this is an experiment in trying out "interesting" approaches.
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (3):
+# T (4):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
 - [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
+- [Terra](https://terralang.org/) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
 - [Tlön](https://github.com/nesteruk/Tlon) - Tlön is a programming language transpiled into Modern C++. These are the key goals:
   * Add features which C++ is missing.
   * Throw out all the legacy crap that's been dragged into C++ over the years.
