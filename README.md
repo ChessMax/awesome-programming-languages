@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 179 awesome programming languages that you might be interested in.
+The list of 180 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
@@ -203,7 +203,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (5):
+# T (6):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_. 
 - [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
@@ -214,6 +214,7 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Also, just simplify things.
   * Provide a sensible API over Standard Library/STL.
   * Other lofty goals :)
+- [Toy](https://github.com/0xd34df00d/refinedt/tree/master/toy) - Refinement types + dependent types = ❤️. A Toy proof-of-concept implementation of a language with refinement types that compiles to Idris.
 # U (5):
 - [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
 - [Umka](https://github.com/vtereshkov/umka-lang) - Umka is a statically typed embeddable scripting language. It combines the simplicity and flexibility needed for scripting with a compile-time protection against type errors. Its aim is to follow the Python Zen principle Explicit is better than implicit more consistently than dynamically typed languages generally do.
