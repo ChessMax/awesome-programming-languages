@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 182 awesome programming languages that you might be interested in.
+The list of 183 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
@@ -228,7 +228,8 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Vale](https://github.com/Verdagon/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
 - [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies
-# W (2):
+# W (3):
+- [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
 # X:
