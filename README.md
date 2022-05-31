@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 190 awesome programming languages that you might be interested in.
+The list of 191 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
@@ -89,8 +89,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 - [GSL](https://github.com/imatix/gsl) - GSL is a code construction tool. It will generate code in all languages and for all purposes. If this sounds too good to be true, welcome to 1996, when we invented these techniques. Magic is simply technology that is twenty years ahead of its time. In addition to code construction, GSL has been used to generate database schema definitions, user interfaces, reports, system administration tools and much more.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
-# H (9):
+# H (10):
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
+- [Halide](https://github.com/halide/Halide) - Halide is a language for fast, portable data-parallel computation. Also Halide designed to make it easier to write high-performance image and array processing code on modern machines. Rather than being a standalone programming language, Halide is embedded in C++. This means you write C++ code that builds an in-memory representation of a Halide pipeline using Halide's C++ API. You can then compile this representation to an object file, or JIT-compile it and run it in the same process. Halide also provides a Python binding that provides full support for writing Halide embedded in Python without C++.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
 - [Hare](https://harelang.org/) - Hare is a systems programming language designed to be simple, stable, and robust. Hare uses a static type system, manual memory management, and a minimal runtime. It is well-suited to writing operating systems, system tools, compilers, networking software, and other low-level, high performance tasks.
 - [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
