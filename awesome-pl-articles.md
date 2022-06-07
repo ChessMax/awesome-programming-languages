@@ -62,6 +62,22 @@ See also:
 # R:
 
 # S:
+- Subtype Inference by Example (series):
+  - [Part 1: Introducing CubiML](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html);
+  - [Part 2: Parsing and Biunification](https://blog.polybdenum.com/2020/07/11/subtype-inference-by-example-part-2-parsing-and-biunification.html);
+  - [Part 3: The Typechecker Frontend](https://blog.polybdenum.com/2020/07/18/subtype-inference-by-example-part-3-the-typechecker-frontend.html);
+  - [Part 4: The Typechecker Core](https://blog.polybdenum.com/2020/07/25/subtype-inference-by-example-part-4-the-typechecker-core.html);
+  - [Part 5: Incremental Reachability](https://blog.polybdenum.com/2020/08/01/subtype-inference-by-example-part-5-incremental-reachability.html);
+  - [Part 6: Numeric Types and Operators](https://blog.polybdenum.com/2020/08/08/subtype-inference-by-example-part-6-numeric-types-and-operators.html);
+  - [Part 7: Spanned Error Messages](https://blog.polybdenum.com/2020/08/15/subtype-inference-by-example-part-7-spanned-error-messages.html);
+  - [Part 8: Mutability](https://blog.polybdenum.com/2020/08/22/subtype-inference-by-example-part-8-mutability.html);
+  - [Part 9: Match Wildcards, Record Extension and Row Polymorphism](https://blog.polybdenum.com/2020/08/29/subtype-inference-by-example-part-9-nonexhaustive-matching-record-extensions-and-row-polymorphism.html);
+  - [Part 10: Let Polymorphism](https://blog.polybdenum.com/2020/09/05/subtype-inference-by-example-part-10-let-polymorphism.html);
+  - [Part 11: The Value Restriction and Polymorphic Recursion](https://blog.polybdenum.com/2020/09/19/subtype-inference-by-example-part-11-the-value-restriction.html);
+  - [Part 12: Flow Typing and Mixed Comparison Operators](https://blog.polybdenum.com/2020/09/26/subtype-inference-by-example-part-12-flow-typing-and-mixed-comparison-operators.html);
+  - [Part 13: Conditional Flow Constraints, Presence Polymorphism, and Type Level Computation](https://blog.polybdenum.com/2020/10/03/subtype-inference-by-example-part-13-conditional-flow-types-and-type-level-computation.html);
+  - [Part 14: Type Annotations— What are they good for?](https://blog.polybdenum.com/2020/10/10/subtype-inference-by-example-part-14-type-annotation.html);
+  - [Part 15: Monomorphic Type Annotations](https://blog.polybdenum.com/2020/10/17/subtype-inference-by-example-part-15-type-annotations.html);
 
 # T:
 
