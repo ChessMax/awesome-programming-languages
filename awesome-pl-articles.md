@@ -39,6 +39,7 @@ See also:
 # G:
 
 # H:
+- [How OCaml type checker works -- or what polymorphism and garbage collection have in common](https://okmij.org/ftp/ML/generalization.html);
 
 # I:
 
