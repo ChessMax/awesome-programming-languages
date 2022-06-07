@@ -17,7 +17,7 @@ See also:
 # B:
 
 # C:
-- Creating the Bolt compiler:
+- Creating the Bolt compiler (series):
   - [Part 1: How I wrote my own "proper" programming language](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/);
   - [Part 2: So how do you structure a compiler project?](https://mukulrathi.com/create-your-own-programming-language/compiler-engineering-structure/);
   - [Part 3: Writing a Lexer and Parser using OCamllex and Menhir](https://mukulrathi.com/create-your-own-programming-language/parsing-ocamllex-menhir/);
