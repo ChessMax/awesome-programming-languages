@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 198 awesome programming languages that you might be interested in.
+The list of 199 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -176,6 +176,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [PicoLisp](https://picolisp.com/) - PicoLisp is a programming language, a dialect of the language Lisp. Its most prominent features are simplicity and minimalism. It is built on one internal data type: a cell. On the language level, a programmer can use three different data types (numbers, symbols, and lists) being represented by cells and differentiated by bits at the end of the cell.
 - [Pinafore](https://github.com/AshleyYakeley/Truth/) - Pinafore is a language that allows you to structure information and create user interfaces for it. Currently it's at the "proof of concept" stage. You can build it from source and run it.
 - [Pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language. Pocketlang is a small (~3000 semicolons) and fast functional language written in C. It's syntactically similar to Ruby and it can be learned within 15 minutes. Including the compiler, bytecode VM and runtime, it's a standalone executable with zero external dependencies just as it's self descriptive name. The pocketlang VM can be embedded in another hosting program very easily.
+- [Pony](https://github.com/ponylang/ponyc) - Pony is a compiled, actor-model, capabilities-secure, high performance programming language that prevents concurrency mistakes such as data races and deadlocks by design with reasonable syntactic defaults. Its FFI allows Pony to interface with other languages.
 - [Preql](https://github.com/erezsh/Preql) - Preql is an interpreted, relational programming language, that specializes in database queries and compiles to SQL.
 - [Priml](https://github.com/x-Eagle-x/Priml) - Priml is a stack-oriented scripting language based on Forth and BASIC.
 - [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
