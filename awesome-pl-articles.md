@@ -17,6 +17,7 @@ See also:
 # B:
 
 # C:
+- [Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism](https://www.cl.cam.ac.uk/~nk480/bidir.pdf);
 - Creating the Bolt compiler (series):
   - [Part 1: How I wrote my own "proper" programming language](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/);
   - [Part 2: So how do you structure a compiler project?](https://mukulrathi.com/create-your-own-programming-language/compiler-engineering-structure/);
@@ -48,6 +49,7 @@ See also:
 # K:
 
 # L:
+- [Let Arguments Go First](https://xnning.github.io/papers/let-arguments-go-first.pdf);
 
 # M:
 
