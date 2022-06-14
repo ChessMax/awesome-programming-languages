@@ -3,7 +3,7 @@ The list of 199 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
-- [Awesome Programming Languates articles](awesome-pl-articles.md);
+- [Awesome Programming Languages articles](awesome-pl-articles.md);
 - [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
