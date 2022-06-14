@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 201 awesome programming languages that you might be interested in.
+The list of 202 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -54,7 +54,8 @@ responsive performance (e.g., 3D).
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
 - [Dart](https://dart.dev/) - Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either native code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference. Primarally used with the Flutter GUI toolkit.
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast..
-# E (10):
+# E (11):
+- [Easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser. Easylang is a rather minimalistic simple programming language. Because of the clear syntax and semantics it is well suited as a teaching and learning language. Functions for graphic output and mouse input are built into the language. The language is written in C and is open source. Main target platform is the web browser using WASM. However, it also runs natively in Windows and Linux. The one-pass parser and compiler is quite fast. In the Web IDE, each time the Enter key is pressed, the program is parsed and formatted up to the current line.
 - [Ecstasy](https://github.com/xtclang/xvm) - Ecstasy is a new, general-purpose, programming language, designed for modern cloud architectures, and explicitly for the serverless cloud. Actually, to be completely honest, it's the most amazing programming language ever. No, really, it's that awesome.
 - [Effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism.
 - [Egel](https://github.com/egel-lang/egel) - Egel is an untyped concurrent functional scripting language based on eager combinator rewriting with a concise but remarkably powerful syntax.
