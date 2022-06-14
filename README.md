@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 199 awesome programming languages that you might be interested in.
+The list of 201 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -93,7 +93,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 - [GSL](https://github.com/imatix/gsl) - GSL is a code construction tool. It will generate code in all languages and for all purposes. If this sounds too good to be true, welcome to 1996, when we invented these techniques. Magic is simply technology that is twenty years ahead of its time. In addition to code construction, GSL has been used to generate database schema definitions, user interfaces, reports, system administration tools and much more.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
-# H (10):
+# H (11):
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
 - [Halide](https://github.com/halide/Halide) - Halide is a language for fast, portable data-parallel computation. Also Halide designed to make it easier to write high-performance image and array processing code on modern machines. Rather than being a standalone programming language, Halide is embedded in C++. This means you write C++ code that builds an in-memory representation of a Halide pipeline using Halide's C++ API. You can then compile this representation to an object file, or JIT-compile it and run it in the same process. Halide also provides a Python binding that provides full support for writing Halide embedded in Python without C++.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
@@ -101,6 +101,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 - [Haskell](https://www.haskell.org/) - A general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research and industrial application, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed programming language, cross-compiles to many different targets.
+- [Hazure](https://github.com/azur1s/hazure) - A ML-Inspired programming language that transpiles to Typescript. 
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hugorm](https://github.com/nilq/hugorm) - Hugorm is a dynamically typed programming language. Hugorm strives to be better version of the other snake language, with a heightened focus on <good things here>. The syntax is designed to be easy to read and easy to write, and runs on a constantly improving bytecode virtual machine.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
