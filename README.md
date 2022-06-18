@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 204 awesome programming languages that you might be interested in.
+The list of 205 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -11,10 +11,11 @@ See also:
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (9):
+# A (10):
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 - [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
+- [Ante](https://github.com/jfecher/ante) - Ante is a low-level functional language for exploring refinement types, lifetime inference, and other fun features. In general, ante is low-level (no GC, values aren't boxed by default) while also trying to be as readable as possible by encouraging high-level approaches that can be optimized with low-level details later on.
 - [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
