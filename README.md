@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 206 awesome programming languages that you might be interested in.
+The list of 207 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -29,7 +29,7 @@ See also:
 - [Bhl](https://github.com/bitdotgames/bhl) - BeHavior Language is a strictly typed programming language specifically tailored for gameplay logic scripting.
 - [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (17):
+# C (18):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
@@ -39,6 +39,7 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language. 
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
+- [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigmn programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
 - [Clojure](https://clojure.org/) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
