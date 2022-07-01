@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 209 awesome programming languages that you might be interested in.
+The list of 210 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -38,7 +38,7 @@ See also:
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (18):
+# C (19):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
@@ -52,6 +52,7 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Clojure](https://clojure.org/) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
+- [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
 - [Common Lisp](https://lisp-lang.org/) - A dialect of the Lisp programming language, published in ANSI standard document ANSI INCITS 226-1994. Common Lisp is not an implementation, but rather a language specification. Several implementations of the Common Lisp standard are available, including free and open-source software and proprietary products. Common Lisp is a general-purpose, multi-paradigm programming language. It supports a combination of procedural, functional, and object-oriented programming paradigms.
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe
