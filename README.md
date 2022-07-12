@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 211 awesome programming languages that you might be interested in.
+The list of 212 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -201,8 +201,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
-# Q (1):
+# Q (2):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
+- [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
 # R (16):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
