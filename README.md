@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 212 awesome programming languages that you might be interested in.
+The list of 213 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -260,10 +260,11 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Unicon](https://github.com/uniconproject/unicon) - Unicon is a very high level programming language. It runs on many operating systems including most Linux distributions, Windows, macOS, and BSD systems. It also supports most modern CPU architectures such as i386, amd64, armhf, arm64, and ppc64el.
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
-# V (5):
+# V (6):
 - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
 - [Val](https://github.com/val-lang/val) - Val is an open source, general-purpose programming language designed around on the concept of (mutable) value semantics. The language aims to be safe and efficient, yet expressive enough to support multiple programming paradigms and implement concurrent algorithms safely and efficiently.
 - [Vale](https://github.com/Verdagon/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
+- [Victim](https://github.com/Sekomer/Victim) - Victim is dynamically typed interpreted scripting language written in Haskell. The name is inspired by source code of [malloc](https://code.woboq.org/userspace/glibc/malloc/malloc.c.html#3038).
 - [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies
 # W (3):
