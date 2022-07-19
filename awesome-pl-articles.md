@@ -58,6 +58,7 @@ See also:
 # O:
 
 # P:
+- [Programming type-safe transformations using higher-order abstract syntax](https://www.cs.mcgill.ca/~bpientka/papers/cc.pdf)
 
 # Q:
 
