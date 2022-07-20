@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 213 awesome programming languages that you might be interested in.
+The list of 214 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -38,7 +38,7 @@ See also:
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (20):
+# C (21):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
@@ -46,6 +46,7 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Cakelisp](https://github.com/makuto/cakelisp) - A metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
 - [CakeML](https://github.com/CakeML/cakeml) - CakeML is a verified implementation of a significant subset of Standard ML.
 - [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+- [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers. 
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language. 
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
