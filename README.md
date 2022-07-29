@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 215 awesome programming languages that you might be interested in.
+The list of 216 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -206,11 +206,12 @@ Flix is a principled functional, imperative, and logic programming language deve
 # Q (2):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
-# R (16):
+# R (17):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [Racket](https://racket-lang.org/) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
 - [Raku](https://raku.org/) - A member of the Perl family of programming languages. Formerly known as Perl 6, it was renamed in October 2019. Raku introduces elements of many modern and historical languages. Compatibility with Perl was not a goal, though a compatibility mode is part of the specification.
+- [Reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems.
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 - [Req](https://github.com/andrewpillar/req) - A simple and opinionated HTTP scripting language. It is designed for easily making HTTP requests, and working with their responses. Below is an example that calls out to the GitHub API and displays the user making the call.
 - [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
