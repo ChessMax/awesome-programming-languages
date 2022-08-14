@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 221 awesome programming languages that you might be interested in.
+The list of 222 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -40,7 +40,7 @@ See also:
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (21):
+# C (22):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
