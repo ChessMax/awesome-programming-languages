@@ -236,7 +236,8 @@ Flix is a principled functional, imperative, and logic programming language deve
   * Monad syntax
   * Not-horrible JS output
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (11):
+# S (12):
+- [s7](https://ccrma.stanford.edu/software/snd/snd/s7.html) - s7 is a Scheme interpreter intended as an extension language for other applications. It exists as just two files, s7.c and s7.h. It has continuations, ratios, complex numbers, macros, keywords, hash-tables, multiprecision arithmetic, generalized set!, unicode, and so on.
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
