@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 222 awesome programming languages that you might be interested in.
+The list of 223 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -130,11 +130,12 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity. 
-# J (9):
+# J (10):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - Jai is a high-level programming language developed by Jonathan Blow, creator of indie games Braid and, most recently, The Witness. It is an imperative static/strongly typed C-style language, but with a variety of modern language features that C lacks. Blow began work on Jai in late September 2014. It is still in development and as of yet is unavailable to the general public. Blow developed it with an eye towards video games, but in fact it’s a general purpose programming language that could be used for any task. [Link](https://github.com/Jai-Community/Jai-Community-Library/wiki) to community library.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
+- [Jank](https://github.com/jank-lang/jank) - Jank is a Clojure dialect which aims to offer the best of both worlds: dynamic and static. For both of these worlds, jank uses a single runtime, so the transition from one to the other is not only seamless, it can be gradual.
 - [Jasm](https://github.com/roscopeco/jasm) - A JVM assembler for the modern age.
 - [JS++](https://www.onux.com/jspp/) JS++ is a programming language designed for high-quality web and mobile development.
 - [Juka](https://github.com/jukaLang/juka) - Juka Programming Language - Rapid Prototyping Language built to run on Azure Microsoft Server. Juka's goal is to be a universal programming language that can run on any platform. Juka is being built on top of .NET network and runs on any platform that supports .NET. Juka can also compile programs into executables.
