@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 227 awesome programming languages that you might be interested in.
+The list of 228 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -215,7 +215,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 # Q (2):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
-# R (18):
+# R (19):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [Racket](https://racket-lang.org/) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
@@ -230,6 +230,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Rickroll lang](https://github.com/Rick-Lang/rickroll-lang) - A light meme based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are came from Rick Astley's lyrics. I believe that rick roll is not only a way to promote people’s communication, it is also one of the most paramount art in the human history. The purpose of the Rickroll Language is to introduce this art to people in a distinctive way – programming.
 - [Rio](https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
 - [Rhovas](https://github.com/Rhovas/Compiler) - Rhovas is a programming language for API design and enforcement. Using Rhovas, developers can better express the contracts and intention of their code to help create correct, maintainable software.
+- [Roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [Roy](https://github.com/puffnfresh/roy) - Roy is a small functional language that compiles to JavaScript. It has a few main features:
