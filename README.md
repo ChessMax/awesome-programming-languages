@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 237 awesome programming languages that you might be interested in.
+The list of 238 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -87,10 +87,11 @@ responsive performance (e.g., 3D).
 - [Eolang](https://github.com/objectionary/eo) - EO (stands for Elegant Objects or ISO 639-1 code of Esperanto) is an object-oriented programming language based on 𝜑-calculus. We're aware of popular semi-OOP languages and we don't think they are good enough, including Java, Ruby, C++, Smalltalk, Python, PHP, C#: all of them have something we don't tolerate. EO is not planning to become a mainstream language—this is not what we want. Our main goal is to prove to ourselves that true object-oriented programming is practically possible. Not just in books and abstract examples, but in real code that works. That's why EO is being created—to put all that "crazy" pure object-oriented ideas into practice and see whether they can work.
 - [Erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem.
 - [Erlang](https://www.erlang.org/) - A programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
-# F (15):
+# F (16):
 - [F#](https://fsharp.org/) - a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. Developed by Microsoft for the .NET platform.
 - [F*](https://github.com/FStarLang/FStar) - F* (pronounced F star) is a general-purpose functional programming language with effects aimed at program verification. It puts together the automation of an SMT-backed deductive verification tool with the expressive power of a proof assistant based on dependent types. After verification, F* programs can be extracted to efficient OCaml, F#, C, WASM, or ASM code. This enables verifying the functional correctness and security of realistic applications. The main ongoing use case of F* is building a verified, drop-in replacement for the whole HTTPS stack in Project Everest. This includes verified implementations of TLS 1.2 and 1.3 and of the underlying cryptographic primitives.
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
+- [Fanx](https://github.com/fanx-dev/fanx) - Fanx is a full-stack programming language base on Fantom. It is an object oriented and static typing language with elegant libraries.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
