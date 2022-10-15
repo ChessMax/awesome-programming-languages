@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 259 awesome programming languages that you might be interested in.
+The list of 260 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -218,13 +218,14 @@ It provides an ahead-of-time compiler using C++ and gcc/clang as the backend. Al
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
-# P (17):
+# P (18):
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [PascalABCNet](https://github.com/pascalabcnet/pascalabcnet - PascalABC.NET is 
 the new generation Pascal programming language that combines simplicity of classic Pascal, a great number of modern extensions and broad capabilities of Microsoft .NET Framework. It's ree, simple and powerful IDE. Built-in form designer for rapid development of Windows desktop applications.
 - [Passerine](https://github.com/vrtbl/passerine) - A small extensible programming language designed for concise expression with little code. Passerine is a small, concise, extensible functional scripting language, powered by a VM¹ written in Rust.
 - [Peridot](https://github.com/eashanhatti/peridot) - An experimental language for exploring the applications of two level type theory to high-performance functional programming
 - [Pharo](https://pharo.org/) - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+- [Phix](https://github.com/petelomax/Phix) - Phix is a self-hosted hybrid interpreter/compiler, developed by Pete Lomax. It is very easy to use, and similar to Euphoria.
 - [Polyglot](https://github.com/olleharstedt/pholyglot) - Experiment with PHP+C polyglot snippets and a transpiler written in OCaml.
 - [PicoLisp](https://picolisp.com/) - PicoLisp is a programming language, a dialect of the language Lisp. Its most prominent features are simplicity and minimalism. It is built on one internal data type: a cell. On the language level, a programmer can use three different data types (numbers, symbols, and lists) being represented by cells and differentiated by bits at the end of the cell.
 - [Pikt](https://github.com/iAmGio/pikt) - Pikt is a pixel-based, Turing complete esoteric programming language that generates fast and lightweight programs out of aesthetically pleasant image sources. Indeed, Pikt's most interesting feature is flexibility: every keyword, statement, function, operator and so on is linked to one - or more - color, which can be easily customized via color schemes.
