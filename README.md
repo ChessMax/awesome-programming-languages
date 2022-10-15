@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 243 awesome programming languages that you might be interested in.
+The list of 244 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -184,7 +184,9 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Motorway](https://github.com/Ninesquared81/motorway-lang) - An esoteric programming language based around the British motorway network.
 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS) - "Massachusetts General Hospital Utility Multi-Programming System", or M, is a high performance transaction processing key–value database with integrated programming language. It was originally developed at Massachusetts General Hospital for managing hospital laboratory information systems. MUMPS technology has since expanded as the predominant database for health information systems and electronic health records in the United States. MUMPS-based information systems run over 40% of the hospitals in the U.S., run across all of the U.S. federal hospitals and clinics, and provide health information services for over 54% of patients across the U.S.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
-# N (9):
+# N (10):
+- [Natalie](https://github.com/natalie-lang/natalie) - Natalie is a very early-stage work-in-progress Ruby implementation.
+It provides an ahead-of-time compiler using C++ and gcc/clang as the backend. Also, the language has a REPL that performs incremental compilation.
 - [Nelua](https://github.com/edubart/nelua-lang) - Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - A fast, a dynamically typed, concurrent and embeddable scripting language.
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
