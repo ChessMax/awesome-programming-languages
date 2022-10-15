@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 256 awesome programming languages that you might be interested in.
+The list of 257 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -330,5 +330,6 @@ applications and libraries written in C.
 # Y:
 # Z (3):
 - [Z#](https://github.com/sam-astro/Z-Sharp) - ZSharp (Z#) is a custom programming language with quite similar base syntax to C# and Python. Graphics using SDL 2 is supported.
+- [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
