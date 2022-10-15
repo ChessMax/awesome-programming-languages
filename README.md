@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 244 awesome programming languages that you might be interested in.
+The list of 245 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -43,7 +43,7 @@ See also:
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (23):
+# C (24):
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to
@@ -55,6 +55,7 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cassette](https://github.com/cassette-lang/cassette) - A new evolutionary highlevel and readable tape language (unlike brainf), with pattern matching, arity overloading, modules, lambdas (rather quotes) and much more; All topped on with a simple and aesthetic syntax.
 - [Céu](https://github.com/ceu-lang/ceu) - Céu is a reactive language that aims to offer a higher-level and safer alternative to C.
+- [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a modern programming language designed for productive parallel computing at scale. Chapel's design and implementation have been undertaken with portability in mind, permitting Chapel to run on multicore desktops and laptops, commodity clusters, and the cloud, in addition to the high-end supercomputers for which it was originally undertaken.
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language. 
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
 - [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigmn programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
