@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 240 awesome programming languages that you might be interested in.
+The list of 241 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -193,7 +193,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Nox](https://github.com/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
-# O (9):
+# O (10):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon parser, code model & browser, compiler and IDE with debugger. Oberon turned out to be a language very well suited for compiler front and backend experiments because it is decently simple but still powerful enough to build real-world software, as it supports pointers, static and stack based data structures and call by reference, which are not usually available with scripting languages. 
 - [OCaml](https://ocaml.org/) - A general-purpose, industrial-strength programming language with an emphasis on expressiveness and safety. OCaml is a multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. 
@@ -202,6 +202,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it’s still in its childhood, aims to provide a simple platform to create low level, efficient software.
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
+- [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
 # P (17):
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
