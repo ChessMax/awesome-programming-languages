@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 250 awesome programming languages that you might be interested in.
+The list of 251 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -173,7 +173,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
-# M (17):
+# M (18):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
@@ -183,6 +183,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior) - MarkovJunior is a probabilistic programming language where programs are combinations of rewrite rules and inference is performed via constraint propagation. MarkovJunior is named after mathematician Andrey Andreyevich Markov, who defined and studied what is now called Markov algorithms.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
 - [Melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+- [Mercury](https://github.com/Mercury-Language/mercury) - Mercury is a logic/functional programming language which combines the clarity and the expressiveness of declarative programming with advanced static analysis and error detection features.
 - [MetaLang 99](https://github.com/Hirrolot/metalang99) - A functional language for C99 preprocessor metaprogramming.
 - [MiniLisp](https://github.com/rui314/minilisp) - A readable lisp in less than 1k lines of C.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
