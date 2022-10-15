@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 263 awesome programming languages that you might be interested in.
+The list of 264 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -11,7 +11,9 @@ See also:
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (15):
+# A (16):
+- [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software.
+Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [ADW Modula-2](https://www.modula2.org/adwm2/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
