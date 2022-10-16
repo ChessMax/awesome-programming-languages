@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 268 awesome programming languages that you might be interested in.
+The list of 267 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -123,7 +123,8 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform. Like any Haskell, it is purely functional, enjoys a strong static type system with global type inference and non-strict - also known as lazy - evaluation. Frege compiles to Java, runs on the JVM, and uses any Java library you want. It can be used inside any Java project.
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 - [Fuzion](https://flang.dev/) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
-# G (13):
+# G (14):
+- [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [Gambit](https://github.com/gambit/gambit) - The Gambit Scheme system is a complete, portable, efficient and reliable implementation of the Scheme programming language.
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 - [Genesis](https://github.com/elonlit/Genesis) - Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
