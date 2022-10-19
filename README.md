@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 272 awesome programming languages that you might be interested in.
+The list of 273 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -299,11 +299,12 @@ The language is portable (MS-DOS, Windows, Linux, macOS, Android, WebAssembly, e
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (9):
+# T (10):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_. 
 - [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
 - [Terra](https://terralang.org/) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
+- [ThinBasic](https://www.thinbasic.com/) - Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
 - [Timid](https://github.com/mastersneeza/TimidTheThird) - A small programming language that made to be able to quickly solve problems like tedious math homework in as little time as possible (as in runtime). Also, it's possible to compile code once, and run anywhere using the Timid Runtime.
 - [Tlön](https://github.com/nesteruk/Tlon) - Tlön is a programming language transpiled into Modern C++. These are the key goals:
   * Add features which C++ is missing.
