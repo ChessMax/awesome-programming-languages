@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 274 awesome programming languages that you might be interested in.
+The list of 275 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -85,6 +85,7 @@ responsive performance (e.g., 3D).
 - [Dart](https://dart.dev/) - Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either native code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference. Primarally used with the Flutter GUI toolkit.
 - [daScript](https://github.com/GaijinEntertainment/daScript) - high-performance statically strong typed scripting language.
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast.
+- [DWScript](https://github.com/EricGrange/DWScript) - DWScript is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
 - [Dylan](https://github.com/dylan-lang/opendylan) - Dylan is a multi-paradigm functional and object-oriented programming language. It is dynamic while providing a programming model designed to support efficient machine code generation, including fine-grained control over dynamic and static behaviors.
 # E (15):
 - [Easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser. Easylang is a rather minimalistic simple programming language. Because of the clear syntax and semantics it is well suited as a teaching and learning language. Functions for graphic output and mouse input are built into the language. The language is written in C and is open source. Main target platform is the web browser using WASM. However, it also runs natively in Windows and Linux. The one-pass parser and compiler is quite fast. In the Web IDE, each time the Enter key is pressed, the program is parsed and formatted up to the current line.
