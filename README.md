@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 299 awesome programming languages that you might be interested in.
+The list of 300 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -327,7 +327,7 @@ the Goto Statement need to be corrected in the byte code, which is done automati
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (10):
+# T (11):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_. 
 - [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
@@ -342,6 +342,7 @@ the Goto Statement need to be corrected in the byte code, which is done automati
   * Other lofty goals :)
 - [Toy](https://github.com/0xd34df00d/refinedt/tree/master/toy) - Refinement types + dependent types = ❤️. A Toy proof-of-concept implementation of a language with refinement types that compiles to Idris.
 - [Toy](https://github.com/Ratstail91/Toy) - The Toy programming language interpreter, written in C.
+- [TwinBasic](https://twinbasic.com/) - TwinBasic: a modern, BASIC programming language, aiming for 100% backwards compatibility with existing VB6/VBA projects.  A complete replacement development environment offering significant new features and improvements over the VB6 IDE.
 - [Tyr](https://gitlab.com/Tyre/tyr) - Tyr is an experimental minimalistic language. It's meant to be both a programming language and a conlang. Programmers should think of it as a speakable programming language. Conlangers should see it as a logical conlang, which can also be used for programming. To achieve this, this language has clear and simple nesting rules based on the words, but no syntax for nesting. You can write sentences without the need of indentation. Any kind of indent is not even allowed. It's still in an early stage and only supports a few math primitives. Many things will probably be changed. I'll only document the current state here.
 # U (5):
 - [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
