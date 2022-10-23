@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 278 awesome programming languages that you might be interested in.
+The list of 279 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -223,9 +223,10 @@ It provides an ahead-of-time compiler using C++ and gcc/clang as the backend. Al
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Nox](https://github.com/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
-# O (10):
+# O (11):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon parser, code model & browser, compiler and IDE with debugger. Oberon turned out to be a language very well suited for compiler front and backend experiments because it is decently simple but still powerful enough to build real-world software, as it supports pointers, static and stack based data structures and call by reference, which are not usually available with scripting languages. 
+- [Objeck](https://github.com/objeck/objeck-lang) - Objeck is an object-oriented programming language with functional features. Objeck emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, and command line debugger with IDE plugins.
 - [OCaml](https://ocaml.org/) - A general-purpose, industrial-strength programming language with an emphasis on expressiveness and safety. OCaml is a multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. 
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [OfrontPlus](https://github.com/Oleg-N-Cher/OfrontPlus) - Oberon family of languages to C translator for ARM, x64 and x86 architectures.
