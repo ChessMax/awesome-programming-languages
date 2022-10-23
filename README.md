@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 283 awesome programming languages that you might be interested in.
+The list of 284 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -352,7 +352,8 @@ applications and libraries written in C.
   - Extensibility with domain-specific syntax via libraries written within the language
   - A simple but powerful capability-safe module system
   - Support for various aspects of software architecture within the running system
-# X (1):
+# X (2):
+- [X10](https://github.com/x10-lang/x10) - X10 is a statically-typed object-oriented language, extending a sequential core language with places, activities, clocks, (distributed, multi-dimensional) arrays and struct types. All these changes are motivated by the desire to use the new language for high-end, high-performance, high-productivity computing.
 - [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
 # Y (2):
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
