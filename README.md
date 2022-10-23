@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 284 awesome programming languages that you might be interested in.
+The list of 285 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -128,7 +128,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform. Like any Haskell, it is purely functional, enjoys a strong static type system with global type inference and non-strict - also known as lazy - evaluation. Frege compiles to Java, runs on the JVM, and uses any Java library you want. It can be used inside any Java project.
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 - [Fuzion](https://flang.dev/) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
-# G (14):
+# G (15):
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [Gambit](https://github.com/gambit/gambit) - The Gambit Scheme system is a complete, portable, efficient and reliable implementation of the Scheme programming language.
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
@@ -137,6 +137,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
 - [GnuCOBOL](https://gnucobol.sourceforge.io/) - GnuCOBOL produces native executables from [COBOL](https://en.wikipedia.org/wiki/COBOL) source code. It is known to work on Linux, BSD, many proprietary Unixes, macOS, and Windows, among others. It has been extensively tested on a variety of platforms and is being used in commercial settings.
+- [Golo](https://github.com/eclipse-archived/golo-lang) - Golo is a simple dynamic, weakly-typed language for the JVM. Built from day 1 with invokedynamic, Golo takes advantage of the latest advances of the JVM. It is also a showcase on how to build a language runtime with invokedynamic.
 - [Gosu](https://github.com/gosu-lang/gosu-lang) - Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
 - [Gravity](https://github.com/marcobambini/gravity) - Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
 - [Gren](https://github.com/gren-lang/compiler) - Gren is a pure functional programming language that is easy to learn, but powerful in use.
