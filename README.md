@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 279 awesome programming languages that you might be interested in.
+The list of 280 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -46,7 +46,7 @@ Get started with Alire, the Ada package manager.
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (29):
+# C (30):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -58,6 +58,7 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers. 
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cassette](https://github.com/cassette-lang/cassette) - A new evolutionary highlevel and readable tape language (unlike brainf), with pattern matching, arity overloading, modules, lambdas (rather quotes) and much more; All topped on with a simple and aesthetic syntax.
+- [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua. You probably have not heard of LASH before. If you really must know, check the Backstory section below. LASH just provides some basic shared infrastructure and a recovery shell. It then runs a user provided script that actually provides most of the rules for how the command line is supposed to look and behave. 
 - [Céu](https://github.com/ceu-lang/ceu) - Céu is a reactive language that aims to offer a higher-level and safer alternative to C.
 - [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a modern programming language designed for productive parallel computing at scale. Chapel's design and implementation have been undertaken with portability in mind, permitting Chapel to run on multicore desktops and laptops, commodity clusters, and the cloud, in addition to the high-end supercomputers for which it was originally undertaken.
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language. 
