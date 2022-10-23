@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 279 awesome programming languages that you might be interested in.
+The list of 280 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -351,7 +351,8 @@ applications and libraries written in C.
   - Extensibility with domain-specific syntax via libraries written within the language
   - A simple but powerful capability-safe module system
   - Support for various aspects of software architecture within the running system
-# X:
+# X (1):
+- [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
 # Y:
 # Z (3):
 - [Z#](https://github.com/sam-astro/Z-Sharp) - ZSharp (Z#) is a custom programming language with quite similar base syntax to C# and Python. Graphics using SDL 2 is supported.
