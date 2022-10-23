@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 294 awesome programming languages that you might be interested in.
+The list of 295 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -304,9 +304,10 @@ The language is portable (MS-DOS, Windows, Linux, macOS, Android, WebAssembly, e
   * Monad syntax
   * Not-horrible JS output
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (13):
+# S (14):
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
+- [SilverFrost](https://www.silverfrost.com/) - Silverfrost Fortran FTN95 is a full Fortran 95 standards compliant compiler, capable of producing fast executables for Win32 and for Microsoft .NET. FTN95 ships with the world's best runtime checking and a great range of supporting software. All standard and many vendor-specific legacy language features are supported, so that Fortran projects may be any combination of Fortran 77, Fortran 90 and Fortran 95.
 - [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'.
 The project was initiated as a response to the lecture held by James Gosling at the 50th
 anniversary of Simula in Oslo on 27th September, 2017.
