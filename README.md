@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 306 awesome programming languages that you might be interested in.
+The list of 307 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -205,12 +205,13 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (19):
+# M (20):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mbeddr](https://github.com/mbeddr/mbeddr.core) - mbeddr is a set of integrated and extensible languages for embedded software engineering, plus an IDE. It supports implementation, testing, verification and process aspects. It integrates with command-line build tools and integration servers, as well as file-based version control systems. mbeddr has support for requirements and product line definition, software documentation, implementation in C and C extensions such as state machines physical units or interfaces and components, as well as testing, mocking, as well as formal verification. mbeddr comes with a state-of-the-art IDE including syntax coloring, code completion, go to definition, realtime type checks, quick fixes, refactorings, customizable find-usages, automated synchronization between related parts of the code, version control integration and debugging.
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
+- [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
 - [Monkey Elm](https://github.com/dwayne/elm-monkey-interpreter) - Monkey is a programming language designed by Thorsten Ball. A Monkey interpreter is written in Elm.
 - [Magpie](https://github.com/munificent/magpie) - Magpie is a small dynamically-typed programming language built around patterns, classes, and multimethods. It has a prototype interpreter that runs on the JVM and an in-progress bytecode VM written in C++.
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior) - MarkovJunior is a probabilistic programming language where programs are combinations of rewrite rules and inference is performed via constraint propagation. MarkovJunior is named after mathematician Andrey Andreyevich Markov, who defined and studied what is now called Markov algorithms.
