@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 303 awesome programming languages that you might be interested in.
+The list of 304 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -91,7 +91,7 @@ responsive performance (e.g., 3D).
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast.
 - [DWScript](https://github.com/EricGrange/DWScript) - DWScript is an object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
 - [Dylan](https://github.com/dylan-lang/opendylan) - Dylan is a multi-paradigm functional and object-oriented programming language. It is dynamic while providing a programming model designed to support efficient machine code generation, including fine-grained control over dynamic and static behaviors.
-# E (16):
+# E (17):
 - [Easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser. Easylang is a rather minimalistic simple programming language. Because of the clear syntax and semantics it is well suited as a teaching and learning language. Functions for graphic output and mouse input are built into the language. The language is written in C and is open source. Main target platform is the web browser using WASM. However, it also runs natively in Windows and Linux. The one-pass parser and compiler is quite fast. In the Web IDE, each time the Enter key is pressed, the program is parsed and formatted up to the current line.
 - [eC](https://github.com/ecere/ecere-sdk) - An Expressive and Intuitive, C Style Object-Oriented Programming Language. eC comes bundled with the [Ecere SDK](https://ecere.org/), providing a comprehensive API for building apps ranging from games to business, for desktop, mobile and web platforms.
 - [Ecstasy](https://github.com/xtclang/xvm) - Ecstasy is a new, general-purpose, programming language, designed for modern cloud architectures, and explicitly for the serverless cloud. Actually, to be completely honest, it's the most amazing programming language ever. No, really, it's that awesome.
@@ -99,6 +99,7 @@ responsive performance (e.g., 3D).
 - [Effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism.
 - [Egel](https://github.com/egel-lang/egel) - Egel is an untyped concurrent functional scripting language based on eager combinator rewriting with a concise but remarkably powerful syntax.
 - [Eiffel](https://www.eiffel.org/) - Based on a set of principles, including design by contract, command–query separation, the uniform-access principle, the single-choice principle, the open–closed principle, and option–operand separation.
+- [Elena](https://github.com/ELENA-LANG/elena-lang) - ELENA is a general-purpose language with late binding. It is multi-paradigm, combining features of functional and object-oriented programming. Rich set of tools are provided to deal with message dispatching : multi-methods, message qualifying, generic message handlers, run-time interfaces.
 - [Elixir](https://elixir-lang.org/) - A dynamic, functional language for building scalable and maintainable applications. Elixir leverages the Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is successfully used in web development, embedded software, data ingestion, and multimedia processing, across a wide range of industries.
 - [Elm](https://elm-lang.org/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [EmojiCode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis. Emojicode is an open source, high-level, multi-paradigm programming language consisting of emojis. It features Object-Orientation, Optionals, Generics and Closures.
