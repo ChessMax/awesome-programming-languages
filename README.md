@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 288 awesome programming languages that you might be interested in.
+The list of 289 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -28,13 +28,15 @@ Get started with Alire, the Ada package manager.
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates. 
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (10):
+# B (11):
 - [Ballerina](https://ballerina.io/) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
 - [Beads](http://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
 - [Beanshell](https://github.com/beanshell/beanshell) - BeanShell is a small, free, embeddable Java source interpreter with object scripting language features, written in Java. BeanShell dynamically executes standard Java syntax and extends it with common scripting conveniences such as loose types, commands, and method closures like those in Perl and JavaScript.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
 - [Blech](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
 - [Bhl](https://github.com/bitdotgames/bhl) - BeHavior Language is a strictly typed programming language specifically tailored for gameplay logic scripting.
+- [Bigloo](http://www-sop.inria.fr/indes/fp/Bigloo/index.html) - Bigloo is a Scheme implementation devoted to one goal: enabling Scheme based programming style where C(++) is usually required.
+Bigloo attempts to make Scheme practical by offering features usually presented by traditional programming languages but not offered by Scheme and functional programming. Bigloo compiles Scheme modules. It delivers small and fast stand alone binary executables. Bigloo enables full connections between Scheme and C programs or between Scheme and Java programs, if you choose the JVM backend.
 - [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
 - [Blue](https://github.com/BlueTechnologies/Blue) - The Blue Programming Language, A powerful, V E R Y Easy to use language, that can compile to eight of your favourite languages. A compiled, dynamically typed, object oriented programming language. Coming in at only 30 keywords, this is an easy to use language with unseen compiler speed. Blue is extremely powerful thanks to it's small, compact, file size. It was written in only 3200 lines of Haxe code.
 - [Boba](https://github.com/glossopoeia/boba) - A general purpose statically-typed concatenative programming language. Key features include:
