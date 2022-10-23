@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 290 awesome programming languages that you might be interested in.
+The list of 291 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -302,9 +302,14 @@ The language is portable (MS-DOS, Windows, Linux, macOS, Android, WebAssembly, e
   * Monad syntax
   * Not-horrible JS output
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (12):
+# S (13):
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
+- [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'.
+The project was initiated as a response to the lecture held by James Gosling at the 50th
+anniversary of Simula in Oslo on 27th September, 2017.
+This Simula System is written in Java and compiles to pure Java code with one exception;
+the Goto Statement need to be corrected in the byte code, which is done automatically.
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 - [Soul](https://github.com/egel-lang/soul ) - Soul is an esoteric concatenative one-stack language, a small explorative language with an interpreter written in a day. Most concatenative languages work on a state, often that's another stack. For example, Forth has a data and return stack and Postscript has an extra stack outputting to a page. Soul is a minimalist language that provides one thing, and one thing only, the one sole stack.
