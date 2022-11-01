@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 309 awesome programming languages that you might be interested in.
+The list of 310 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -116,12 +116,13 @@ responsive performance (e.g., 3D).
 - [Eta](https://github.com/typelead/eta) - What is Eta?
 Eta is a pure, lazy, strongly typed functional programming language on the JVM. It brings two big ecosystems, the JVM and Haskell, together. This allows you to harness the best of both ecosystems to build your applications quickly and effectively. Eta's concurrency support helps you to build highly scalable systems.
 - [Euphoria](https://github.com/OpenEuphoria/euphoria) - Euphoria is a powerful but easy-to-learn and easy-to-use programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications big and small for Windows and UNIX variants (Linux, FreeBSD, and OS X).
-# F (19):
+# F (20):
 - [F#](https://fsharp.org/) - a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. Developed by Microsoft for the .NET platform.
 - [F*](https://github.com/FStarLang/FStar) - F* (pronounced F star) is a general-purpose functional programming language with effects aimed at program verification. It puts together the automation of an SMT-backed deductive verification tool with the expressive power of a proof assistant based on dependent types. After verification, F* programs can be extracted to efficient OCaml, F#, C, WASM, or ASM code. This enables verifying the functional correctness and security of realistic applications. The main ongoing use case of F* is building a verified, drop-in replacement for the whole HTTPS stack in Project Everest. This includes verified implementations of TLS 1.2 and 1.3 and of the underlying cryptographic primitives.
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
 - [Fantom](https://github.com/fantom-lang/fantom) - Fantom is a portable language that runs on the JVM and modern web browsers. It features a familiar Java-like syntax, static (and dynamic) typing, elegant system library, closures, immutability, actor concurrency, and much more.
 - [Fanx](https://github.com/fanx-dev/fanx) - Fanx is a full-stack programming language base on Fantom. It is an object oriented and static typing language with elegant libraries.
+- [Faust](https://github.com/grame-cncm/faust) - Faust (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis. A distinctive characteristic of Faust is to be fully compiled.
 - [Felix](https://github.com/felix-lang/felix) - An advanced, statically typed, high performance scripting language with native C++ embedding.
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language.
