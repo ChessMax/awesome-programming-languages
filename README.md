@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 310 awesome programming languages that you might be interested in.
+The list of 311 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -393,10 +393,12 @@ applications and libraries written in C.
 - [X10](https://github.com/x10-lang/x10) - X10 is a statically-typed object-oriented language, extending a sequential core language with places, activities, clocks, (distributed, multi-dimensional) arrays and struct types. All these changes are motivated by the desire to use the new language for high-end, high-performance, high-productivity computing.
 - [Xojo](https://www.xojo.com/) - Build Native, Cross-Platform Apps. Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
 - [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
-# Y (3):
+# Y (4):
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yirgacheffe](https://github.com/MartinRixham/Yirgacheffe) - Yirgacheffe is a simple language designed to run on the JVM and is in many ways similar to Java. While it lacks many of the features of the modern Java language and even some of Java's more traditional ones, it is still possible to write good object oriented code in Yirgacheffe. Below are listed some of the features that Yirgacheffe lacks along with suggestions of what can be used instead.
+- [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. 
+Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
 # Z (3):
 - [Z#](https://github.com/sam-astro/Z-Sharp) - ZSharp (Z#) is a custom programming language with quite similar base syntax to C# and Python. Graphics using SDL 2 is supported.
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
