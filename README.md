@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 313 awesome programming languages that you might be interested in.
+The list of 314 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -51,7 +51,7 @@ Bigloo attempts to make Scheme practical by offering features usually presented 
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [Butter](https://github.com/neverRare/butter) - A tasty language for building efficient software. Written in Rust.
-# C (31):
+# C (32):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -77,6 +77,8 @@ engineer modern language features into C in an evolutionary rather than revoluti
 - [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigmn programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
 - [Clojure](https://clojure.org/) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
+- [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#.
+It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
 - [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
