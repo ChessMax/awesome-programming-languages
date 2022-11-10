@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 313 awesome programming languages that you might be interested in.
+The list of 312 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -179,7 +179,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity. 
 - [IronScheme](https://github.com/IronScheme/IronScheme) - IronScheme aims to be a R6RS conforming Scheme-like implementation for all .NET implementations and platforms. IronScheme implements over 99% of the R6RS specification and specified behavior. IronScheme's macro system is based on psyntax, and thus behaves similar to other implementations using psyntax, ie Icarus, Vicare, Chez.
-# J (10):
+# J (9):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jai](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md) - Jai is a high-level programming language developed by Jonathan Blow, creator of indie games Braid and, most recently, The Witness. It is an imperative static/strongly typed C-style language, but with a variety of modern language features that C lacks. Blow began work on Jai in late September 2014. It is still in development and as of yet is unavailable to the general public. Blow developed it with an eye towards video games, but in fact it’s a general purpose programming language that could be used for any task. [Link](https://github.com/Jai-Community/Jai-Community-Library/wiki) to community library.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
@@ -200,7 +200,6 @@ Flix is a principled functional, imperative, and logic programming language deve
   - the benefits of traditional compiled languages (fast execution, static error detection, modularity, zero-overhead Java platform integration).
 - [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
-- [Kit](https://github.com/kitlang/kit) - Kit is a programming language designed for creating concise, high performance cross-platform applications. Kit compiles to C, so it's highly portable; it can be used in addition to or as an alternative to C, and was designed with game development in mind.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 # L (9):
 - [Leafscript](https://github.com/odddollar/Leafscript) - Leafscript is a lightweight programming language created as a proof of concept by someone with no idea how to write a language. It's written entirely in Golang, and was inspired by the speed and simplicity of Lua.
