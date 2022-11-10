@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 292 awesome programming languages that you might be interested in.
+The list of 293 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -285,7 +285,8 @@ See also:
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (14):
+# S (15):
+- [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme is a dialect of the Lisp family of programming languages. It was the first dialect of Lisp to choose lexical scope and the first to require implementations to perform tail-call optimization, giving stronger support for functional programming and associated techniques such as recursive algorithms. It was also one of the first programming languages to support first-class continuations.
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
 - [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'. The project was initiated as a response to the lecture held by James Gosling at the 50th anniversary of Simula in Oslo on 27th September, 2017. This Simula System is written in Java and compiles to pure Java code with one exception, the Goto Statement need to be corrected in the byte code, which is done automatically.
