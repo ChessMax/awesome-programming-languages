@@ -195,7 +195,7 @@ See also:
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
 - [MoonScript](https://moonscript.org/) - MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
-- [Monkey Elm](https://github.com/dwayne/elm-monkey-interpreter) - Monkey is a programming language designed by Thorsten Ball. A Monkey interpreter is written in Elm.
+- [Monkey](https://monkeylang.org/) - Monkey is a programming language designed by Thorsten Ball.
 - [Magpie](https://github.com/munificent/magpie) - Magpie is a small dynamically-typed programming language built around patterns, classes, and multimethods. It has a prototype interpreter that runs on the JVM and an in-progress bytecode VM written in C++.
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior) - MarkovJunior is a probabilistic programming language where programs are combinations of rewrite rules and inference is performed via constraint propagation. MarkovJunior is named after mathematician Andrey Andreyevich Markov, who defined and studied what is now called Markov algorithms.
 - [Mash](https://github.com/RoPi0n/mash-lang) - Untyped, lightweight, crossplatform OOP language.
