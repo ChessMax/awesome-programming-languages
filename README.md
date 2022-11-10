@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 296 awesome programming languages that you might be interested in.
+The list of 297 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -81,9 +81,10 @@ See also:
 - [Coq](https://coq.inria.fr/) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
-# D (8):
+# D (9):
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
+- [Dark Basic Pro](https://github.com/TheGameCreators/Dark-Basic-Pro) - Dark Basic Pro is an open source BASIC programming language for creating Windows applications and games.
 - [Dart](https://dart.dev/) - Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either native code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference. Primarally used with the Flutter GUI toolkit.
 - [daScript](https://github.com/GaijinEntertainment/daScript) - high-performance statically strong typed scripting language.
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast.
