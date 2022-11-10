@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 308 awesome programming languages that you might be interested in.
+The list of 309 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -312,15 +312,12 @@ The language is portable (MS-DOS, Windows, Linux, macOS, Android, WebAssembly, e
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (15):
+# S (16):
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
 - [SilverFrost](https://www.silverfrost.com/) - Silverfrost Fortran FTN95 is a full Fortran 95 standards compliant compiler, capable of producing fast executables for Win32 and for Microsoft .NET. FTN95 ships with the world's best runtime checking and a great range of supporting software. All standard and many vendor-specific legacy language features are supported, so that Fortran projects may be any combination of Fortran 77, Fortran 90 and Fortran 95.
-- [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'.
-The project was initiated as a response to the lecture held by James Gosling at the 50th
-anniversary of Simula in Oslo on 27th September, 2017.
-This Simula System is written in Java and compiles to pure Java code with one exception;
-the Goto Statement need to be corrected in the byte code, which is done automatically.
+- [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'. The project was initiated as a response to the lecture held by James Gosling at the 50th anniversary of Simula in Oslo on 27th September, 2017. This Simula System is written in Java and compiles to pure Java code with one exception, the Goto Statement need to be corrected in the byte code, which is done automatically.
+- [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
 - [Slate](https://github.com/briantrice/slate-language) - Slate is a prototype-based, multi-dispatch object-oriented language that runs from a highly-customizable live environment. The implementation is highly portable and relatively lightweight.
 - [SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 - [Soul](https://github.com/egel-lang/soul ) - Soul is an esoteric concatenative one-stack language, a small explorative language with an interpreter written in a day. Most concatenative languages work on a state, often that's another stack. For example, Forth has a data and return stack and Postscript has an extra stack outputting to a page. Soul is a minimalist language that provides one thing, and one thing only, the one sole stack.
