@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 310 awesome programming languages that you might be interested in.
+The list of 311 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -244,11 +244,12 @@ It provides an ahead-of-time compiler using C++ and gcc/clang as the backend. Al
 - [Nsbasic](https://www.nsbasic.com/) - A complete, powerful development environment.
 Create apps for iOS, Android, Windows, MacOS and Linux.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
-# O (11):
+# O (12):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon parser, code model & browser, compiler and IDE with debugger. Oberon turned out to be a language very well suited for compiler front and backend experiments because it is decently simple but still powerful enough to build real-world software, as it supports pointers, static and stack based data structures and call by reference, which are not usually available with scripting languages. 
 - [Oberonc](https://github.com/lboasso/oberonc) - Oberonc is a single pass, self-hosting compiler for the Oberon-07 programming language. It targets the Java Virtual Machine (version >= 1.8).
 - [Objeck](https://github.com/objeck/objeck-lang) - Objeck is an object-oriented programming language with functional features. Objeck emphasizes, expression, simplicity, portability, and scalability. The programming environment consists of a compiler, virtual machine, and command line debugger with IDE plugins.
+- [Objective-J](https://www.cappuccino.dev/learn/objective-j.html) - Objective-J is a new programming language based on Objective-C. It is a superset of JavaScript, which means that any valid JavaScript code is also valid Objective-J code. Anyone familiar with JavaScript and object-oriented programming concepts, classical inheritance in particular, should have no difficulty learning Objective-J. Familiarity with Objective-C will be helpful, but it is not required.
 - [OCaml](https://ocaml.org/) - A general-purpose, industrial-strength programming language with an emphasis on expressiveness and safety. OCaml is a multi-paradigm programming language which extends the Caml dialect of ML with object-oriented features. 
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
