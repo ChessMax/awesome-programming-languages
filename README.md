@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 306 awesome programming languages that you might be interested in.
+The list of 305 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -171,12 +171,11 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hugorm](https://github.com/nilq/hugorm) - Hugorm is a dynamically typed programming language. Hugorm strives to be better version of the other snake language, with a heightened focus on <good things here>. The syntax is designed to be easy to read and easy to write, and runs on a constantly improving bytecode virtual machine.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
-# I (5):
+# I (4):
 - [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity. 
-- [IronScheme](https://github.com/IronScheme/IronScheme) - IronScheme aims to be a R6RS conforming Scheme-like implementation for all .NET implementations and platforms. IronScheme implements over 99% of the R6RS specification and specified behavior. IronScheme's macro system is based on psyntax, and thus behaves similar to other implementations using psyntax, ie Icarus, Vicare, Chez.
 # J (8):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
