@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 314 awesome programming languages that you might be interested in.
+The list of 313 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -403,8 +403,7 @@ applications and libraries written in C.
 - [Yirgacheffe](https://github.com/MartinRixham/Yirgacheffe) - Yirgacheffe is a simple language designed to run on the JVM and is in many ways similar to Java. While it lacks many of the features of the modern Java language and even some of Java's more traditional ones, it is still possible to write good object oriented code in Yirgacheffe. Below are listed some of the features that Yirgacheffe lacks along with suggestions of what can be used instead.
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. 
 Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
-# Z (3):
-- [Z#](https://github.com/sam-astro/Z-Sharp) - ZSharp (Z#) is a custom programming language with quite similar base syntax to C# and Python. Graphics using SDL 2 is supported.
+# Z (2):
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
