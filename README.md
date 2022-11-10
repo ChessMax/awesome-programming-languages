@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 306 awesome programming languages that you might be interested in.
+The list of 307 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -350,8 +350,9 @@ the Goto Statement need to be corrected in the byte code, which is done automati
 - [Unicon](https://github.com/uniconproject/unicon) - Unicon is a very high level programming language. It runs on many operating systems including most Linux distributions, Windows, macOS, and BSD systems. It also supports most modern CPU architectures such as i386, amd64, armhf, arm64, and ppc64el.
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
-# V (8):
+# V (9):
 - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
+- [V1](https://www.mwiede.de/v1-script/) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
 - [Val](https://github.com/val-lang/val) - Val is an open source, general-purpose programming language designed around on the concept of (mutable) value semantics. The language aims to be safe and efficient, yet expressive enough to support multiple programming paradigms and implement concurrent algorithms safely and efficiently.
 - [Vala](https://gitlab.gnome.org/GNOME/vala) - Vala is a programming language that aims to bring modern programming
 language features to GNOME developers without imposing any additional
