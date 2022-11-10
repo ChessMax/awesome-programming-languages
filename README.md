@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 302 awesome programming languages that you might be interested in.
+The list of 301 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -176,7 +176,7 @@ See also:
 - [Juka](https://github.com/jukaLang/juka) - Juka Programming Language - Rapid Prototyping Language built to run on Azure Microsoft Server. Juka's goal is to be a universal programming language that can run on any platform. Juka is being built on top of .NET network and runs on any platform that supports .NET. Juka can also compile programs into executables.
 - [Julia](https://julialang.org/) - Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
-# K (9):
+# K (8):
 - [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
@@ -184,7 +184,6 @@ See also:
 - [Kawa](https://www.gnu.org/software/kawa/) - Kawa is a general-purpose programming language that runs on the Java platform. It aims to combine:
   - the benefits of dynamic scripting languages (non-verbose code with less boiler-plate, fast and easy start-up, a REPL, no required compilation step); with
   - the benefits of traditional compiled languages (fast execution, static error detection, modularity, zero-overhead Java platform integration).
-- [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 # L (7):
