@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 312 awesome programming languages that you might be interested in.
+The list of 311 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -146,7 +146,7 @@ Flix is a principled functional, imperative, and logic programming language deve
 # G (15):
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [Gambit](https://github.com/gambit/gambit) - The Gambit Scheme system is a complete, portable, efficient and reliable implementation of the Scheme programming language.
-- [Gpcp](https://github.com/k-john-gough/gpcp) - Gardens Point Component Pascal is an implementation of the Component Pascal Language (CP). There are implementations for both the CLR and the JVM. Component Pascal is an object oriented language in the Pascal family. Its closest relatives are Oberon-2 and Oberon.
+- [GPCP](https://github.com/k-john-gough/gpcp) - Gardens Point Component Pascal is an implementation of the Component Pascal Language (CP). There are implementations for both the CLR and the JVM. Component Pascal is an object oriented language in the Pascal family. Its closest relatives are Oberon-2 and Oberon.
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 - [Genesis](https://github.com/elonlit/Genesis) - Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
@@ -198,14 +198,13 @@ Flix is a principled functional, imperative, and logic programming language deve
 - [Keli](https://github.com/KeliLanguage/compiler) - Keli is a general purpose programming language where its semantics are mostly based on the pure functional programming model (as of Haskell's) which includes user-defined algebraic datatypes, case matching and higher-order functions, while its syntactic structure is strongly influenced by Smalltalk's message sending syntax, such as the unary, binary and keywords messages.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
-# L (9):
+# L (8):
 - [Leafscript](https://github.com/odddollar/Leafscript) - Leafscript is a lightweight programming language created as a proof of concept by someone with no idea how to write a language. It's written entirely in Golang, and was inspired by the speed and simplicity of Lua.
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
 - [Lever](https://github.com/cheery/lever/) - Lever programming language is dynamically typed language designed & programmed by Henri Tuhola. It has capabilities to absorb features from other languages. Otherwise it is very generic purpose programming system with a hint of inclination towards interactive graphics and audio programming.
 - [LispE](https://github.com/naver/lispe) - A _Lisp_ implementation with _Data Structure_, _Arithmetic Type_, _Array Instructions_, _Pattern Matching_ and many many different instructions and libraries. _LispE_ is a mix of functional and array languages. 
 - [Lobster](https://github.com/aardappel/lobster) - Lobster is a statically typed programming language with a Python-esque syntax that combines the advantages of an expressive type system and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you.
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
-- [LuaK](https://github.com/korlibs/luak) - Multiplatform Kotlin LuaJ port (LUA interpreter).
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
 # M (21):
