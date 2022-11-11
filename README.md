@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 302 awesome programming languages that you might be interested in.
+The list of 303 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -183,9 +183,10 @@ See also:
   - the benefits of traditional compiled languages (fast execution, static error detection, modularity, zero-overhead Java platform integration).
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
-# L (7):
+# L (8):
 - [Leafscript](https://github.com/odddollar/Leafscript) - Leafscript is a lightweight programming language created as a proof of concept by someone with no idea how to write a language. It's written entirely in Golang, and was inspired by the speed and simplicity of Lua.
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
+- [ldpl](https://github.com/Lartu/ldpl) - Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.
 - [LispE](https://github.com/naver/lispe) - A _Lisp_ implementation with _Data Structure_, _Arithmetic Type_, _Array Instructions_, _Pattern Matching_ and many many different instructions and libraries. _LispE_ is a mix of functional and array languages. 
 - [Lobster](https://github.com/aardappel/lobster) - Lobster is a statically typed programming language with a Python-esque syntax that combines the advantages of an expressive type system and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you.
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
