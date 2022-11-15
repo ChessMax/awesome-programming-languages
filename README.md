@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 305 awesome programming languages that you might be interested in.
+The list of 306 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -160,8 +160,9 @@ See also:
 - [Hazure](https://github.com/azur1s/hazure) - A ML-Inspired programming language that transpiles to Typescript. 
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
-# I (4):
+# I (5):
 - [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
+- [Imba](https://github.com/imba/imba) - baby_chick The friendly full-stack language.
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity. 
