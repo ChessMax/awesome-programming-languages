@@ -364,7 +364,7 @@ See also:
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
-# Z (2):
+# Z (3):
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
