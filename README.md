@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 309 awesome programming languages that you might be interested in.
+The list of 310 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -316,8 +316,9 @@ See also:
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (11):
+# T (12):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
+- [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_. 
 - [Tao](https://github.com/zesterer/tao) - A statically-typed functional language with polymorphism, typeclasses, sum types, pattern-matching, first-class functions, currying, good diagnostics, and much more!
 - [Tcl](https://en.wikipedia.org/wiki/Tcl) - Tcl is a high-level, general-purpose, interpreted, dynamic programming language. Tcl supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It is commonly used embedded into C applications for rapid prototyping, scripted applications, GUIs, and testing.
