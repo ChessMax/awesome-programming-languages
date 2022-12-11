@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 308 awesome programming languages that you might be interested in.
+The list of 309 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -344,11 +344,12 @@ See also:
 - [Vinci](https://github.com/swtwsk/vinci-lang) - A proof-of-concept compiler targeting SPIR-V for a toy ML functional shading language.
 - [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies
-# W (6):
+# W (7):
 - [Wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀.
 - [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Whiley](https://github.com/Whiley/WhileyCompiler) - Whiley employs state-of-the-art techniques for ensuring your software is correct. You can specify functions using preconditions and postconditions, and then statically verify your implementation meets its specification.
 - [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
+- [Wuffs](https://github.com/google/wuffs) - Wuffs (Wrangling Untrusted File Formats Safely) is a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely. Wrangling includes parsing, decoding and encoding. Example file formats include images, audio, video, fonts and compressed archives.
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
 - [Wyvern](https://github.com/wyvernlang/wyvern) - Wyvern is a new general-purpose programming language designed to support adaptation and assurance. Key features of Wyvern's evolving design include:
   - A simple object model with good support for both object-oriented and functional programming
