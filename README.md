@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 310 awesome programming languages that you might be interested in.
+The list of 311 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -50,13 +50,14 @@ See also:
   - Structurally typed tuples, records and variants
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
-# C (32):
+# C (33):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
 - [Cakelisp](https://github.com/makuto/cakelisp) - A metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
 - [CakeML](https://github.com/CakeML/cakeml) - CakeML is a verified implementation of a significant subset of Standard ML.
+- [Calcit](https://github.com/calcit-lang/calcit/) - Calcit is an interpreter built with Rust, and also a JavaScript code emitter. It's inspired mostly by ClojureScript. Calcit-js emits JavaScript in ES Modules syntax.
 - [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 - [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers. 
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
