@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 311 awesome programming languages that you might be interested in.
+The list of 314 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -11,13 +11,15 @@ See also:
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (15):
+# A (17):
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
+- [Agena](https://sourceforge.net/projects/agena/) - Agena is an easy-to-learn procedural programming language suited to be used in scientific, mathematical, scripting, networking, and many other applications. Binaries are available for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
 - [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
 - [Alumina](https://github.com/tibordp/alumina) - Alumina is an imperative, general-purpose, statically typed, compiled system programming language. Alumina is heavily inspired by Rust, especially in terms of syntax and standard library API. Unlike Rust, however, Alumina is not memory-safe and it requires manual memory management.
 - [Ante](https://github.com/jfecher/ante) - Ante is a low-level functional language for exploring refinement types, lifetime inference, and other fun features. In general, ante is low-level (no GC, values aren't boxed by default) while also trying to be as readable as possible by encouraging high-level approaches that can be optimized with low-level details later on.
+- [Apex](https://apexlang.io/) - Apex is an interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically.
 - [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argo](https://github.com/sviperll/argo) - Pragmatic functional programming language.
@@ -27,7 +29,7 @@ See also:
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates. 
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (14):
+# B (15):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
 - [Ballerina](https://ballerina.io/) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
@@ -50,6 +52,7 @@ See also:
   - Structurally typed tuples, records and variants
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
+- [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
 # C (33):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
