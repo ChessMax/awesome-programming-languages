@@ -274,11 +274,11 @@ See also:
 - [Preql](https://github.com/erezsh/Preql) - Preql is an interpreted, relational programming language, that specializes in database queries and compiles to SQL.
 - [Priml](https://github.com/x-Eagle-x/Priml) - Priml is a stack-oriented scripting language based on Forth and BASIC.
 - [Processing](https://github.com/processing/processing4/) - Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
-- [Prose](https://prose.sourceforge.net/wiki/index.php?title=Main_Page) - In distributed computing environments, getting software components to integrate and communicate with each other can involve large teams of developers, and involve significant amounts of time and money. Such projects can be very difficult to manage.PROSE is designed from the ground-up to address these challenges with a range of innovative features that are unique to the language. It consists of:
-  A high-level modular scripting language, which compiles into bytecode
-  An assembly language for low-level bytecode development
-  An execution engine, which interprets the bytecode
-  A hierarchical object tree through which all components are addressed
+- [Prose](https://prose.sourceforge.net/wiki/index.php?title=Main_Page) - In distributed computing environments, getting software components to integrate and communicate with each other can involve large teams of developers, and involve significant amounts of time and money. Such projects can be very difficult to manage. PROSE is designed from the ground-up to address these challenges with a range of innovative features that are unique to the language. It consists of:
+  - A high-level modular scripting language, which compiles into bytecode
+  - An assembly language for low-level bytecode development
+  - An execution engine, which interprets the bytecode
+  - A hierarchical object tree through which all components are addressed
 - [Prompto](https://github.com/prompto) - The full stack language hosted in the cloud. Prompto frees you from time consuming tasks and lets you focus on making visible differences: creative web pages, meaningful data models and relevant business logic.
 - [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
