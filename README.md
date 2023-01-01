@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 317 awesome programming languages that you might be interested in.
+The list of 318 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -169,12 +169,13 @@ See also:
 - [Hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python. [children]
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
-# I (5):
+# I (6):
 - [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
 - [Imba](https://github.com/imba/imba) - :baby_chick: Imba is a friendly full-stack programming language for the web that compiles to performant JavaScript. It has language-level support for defining, extending, subclassing, instantiating and rendering DOM nodes.
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
-- [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity. 
+- [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
+- [ISPC](https://github.com/ispc/ispc) - Intel Implicit SPMD Program Compiler is a compiler for a variant of the C programming language, with extensions for single program, multiple data programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [C dialect]
 # J (8):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
