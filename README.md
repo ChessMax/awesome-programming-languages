@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 323 awesome programming languages that you might be interested in.
+The list of 324 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -54,7 +54,7 @@ See also:
   - Byte-code VM-in-Go backend with straight-forward first-order FFI access
   - Familiar looping, branching, and variable definition syntax constructs
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (33):
+# C (34):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -91,6 +91,7 @@ See also:
 - [Coq](https://coq.inria.fr/) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
+- [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI, so you can do scripting on your computer.
 # D (11):
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
