@@ -170,6 +170,7 @@ See also:
 - [Hazure](https://github.com/azur1s/hazure) - A ML-Inspired programming language that transpiles to Typescript.
 - [Hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python. [children]
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
+- [Hook](https://github.com/fabiosvm/hook-lang) - Hook is an imperative, cross-platform, dynamically typed scripting language that utilizes a mutable value semantics approach.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
 # I (6):
 - [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
