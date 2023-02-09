@@ -298,8 +298,7 @@ See also:
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
-
-(25):
+# R (25):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [Racket](https://racket-lang.org/) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
