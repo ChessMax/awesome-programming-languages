@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 329 awesome programming languages that you might be interested in.
+The list of 330 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -209,6 +209,7 @@ See also:
 - [ldpl](https://github.com/Lartu/ldpl) - Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.
 - [LispE](https://github.com/naver/lispe) - A _Lisp_ implementation with _Data Structure_, _Arithmetic Type_, _Array Instructions_, _Pattern Matching_ and many many different instructions and libraries. _LispE_ is a mix of functional and array languages. 
 - [Lobster](https://github.com/aardappel/lobster) - Lobster is a statically typed programming language with a Python-esque syntax that combines the advantages of an expressive type system and compile-time memory management with a very lightweight, friendly and terse syntax, by doing most of the heavy lifting for you.
+- [LSTS](https://github.com/andrew-johnson-4/LSTS) - LSTS is a proof assistant and maybe a programming language. Proofs in LSTS are built by connecting terms, type definitions, and quantified statements. Terms can be evaluated to obtain Values. Types describe properties of Terms. Statements describe relations between Terms and Types.
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
