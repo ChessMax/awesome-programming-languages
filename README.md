@@ -2,17 +2,8 @@
 The list of 335 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
-See also: 
+## Related: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
-- [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
-- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
-- [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
-- [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
-- [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
-- [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) - List of languages that compile to JavaScript and many other transpilers. 
-- [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
-- [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
-- [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
 [![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
@@ -418,3 +409,14 @@ See also:
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## See also:
+- [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
+- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
+- [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
+- [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
+- [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
+- [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) - List of languages that compile to JavaScript and many other transpilers.
+- [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
+- [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
+- [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
