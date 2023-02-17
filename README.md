@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 333 awesome programming languages that you might be interested in.
+The list of 334 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -19,7 +19,7 @@ See also:
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (18):
+# A (19):
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
@@ -30,6 +30,7 @@ See also:
 - [Ape](https://github.com/kgabis/ape) - Ape is an easy to use programming language and library written in C. It's an offspring of Monkey language, but it evolved to be more procedural with variables, loops, operator overloading, modules, and more.
 - [Apex](https://apexlang.io/) - Apex is an interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically.
 - [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
+- [April](https://github.com/phantomics/april) - April (Array Programming Re-Imagined in Lisp) - The APL programming language (a subset thereof) compiling to Common Lisp.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argo](https://github.com/sviperll/argo) - Pragmatic functional programming language.
 - [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
