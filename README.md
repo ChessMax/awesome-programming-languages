@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 332 awesome programming languages that you might be interested in.
+The list of 333 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 See also: 
@@ -222,11 +222,12 @@ See also:
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (21):
+# M (22):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [MANOOL](https://github.com/rusini/manool) - MANOOL is a programming language designed with an idea to maximize the expressive power / implementation complexity ratio.
 - [Mbeddr](https://github.com/mbeddr/mbeddr.core) - mbeddr is a set of integrated and extensible languages for embedded software engineering, plus an IDE. It supports implementation, testing, verification and process aspects. It integrates with command-line build tools and integration servers, as well as file-based version control systems. mbeddr has support for requirements and product line definition, software documentation, implementation in C and C extensions such as state machines physical units or interfaces and components, as well as testing, mocking, as well as formal verification. mbeddr comes with a state-of-the-art IDE including syntax coloring, code completion, go to definition, realtime type checks, quick fixes, refactorings, customizable find-usages, automated synchronization between related parts of the code, version control integration and debugging.
+- [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
 - [MoonScript](https://moonscript.org/) - MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
