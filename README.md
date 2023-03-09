@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 351 awesome programming languages that you might be interested in.
+The list of 352 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -64,7 +64,7 @@ If you like exploring programming languages or you are making your own programmi
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [Boron](https://urlan.sourceforge.net/boron/) - Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (35):
+# C (36):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -93,6 +93,7 @@ If you like exploring programming languages or you are making your own programmi
 - [COBOL](https://en.wikipedia.org/wiki/COBOL) - COBOL is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
 - [Common Expression Language](https://github.com/google/cel-spec) - The Common Expression Language (CEL) implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
+- [Compis](https://github.com/rsms/compis) - Contemporary systems programming language in the spirit of C.
 - [Core](https://core-lang.dev) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself. 
 - [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
