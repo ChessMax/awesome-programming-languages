@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 338 awesome programming languages that you might be interested in.
+The list of 339 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -315,9 +315,10 @@ If you like exploring programming languages or you are making your own programmi
 - [PureBasic](https://www.purebasic.com/) - PureBasic is a modern BASIC programming language. The key features of PureBasic are portability (Windows, Linux, OS X and Raspberry supported with the same source code), the production of very fast and optimized native 32-bit or 64-bit executables and, of course, the very simple BASIC language syntax. PureBasic has been created for the beginner and expert alike. We have put a lot of effort into its conception to produce a fast, reliable system and friendly BASIC compiler.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
-# Q (3):
+# Q (4):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
+- [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
 # R (26):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
