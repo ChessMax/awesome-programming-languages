@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 340 awesome programming languages that you might be interested in.
+The list of 341 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -62,7 +62,7 @@ If you like exploring programming languages or you are making your own programmi
   - Has a more optimal standard library;
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (34):
+# C (35):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -74,7 +74,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers. 
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cassette](https://github.com/cassette-lang/cassette) - A new evolutionary highlevel and readable tape language (unlike brainf), with pattern matching, arity overloading, modules, lambdas (rather quotes) and much more; All topped on with a simple and aesthetic syntax.
-- [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua. You probably have not heard of LASH before. If you really must know, check the Backstory section below. LASH just provides some basic shared infrastructure and a recovery shell. It then runs a user provided script that actually provides most of the rules for how the command line is supposed to look and behave. 
+- [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua. You probably have not heard of LASH before. If you really must know, check the Backstory section below. LASH just provides some basic shared infrastructure and a recovery shell. It then runs a user provided script that actually provides most of the rules for how the command line is supposed to look and behave.
 - [Céu](https://github.com/ceu-lang/ceu) - Céu is a reactive language that aims to offer a higher-level and safer alternative to C.
 - [ChaiScript](https://github.com/ChaiScript/ChaiScript) - ChaiScript is one of the only embedded scripting language designed from the ground up to directly target C++ and take advantage of modern C++ development techniques, working with the developer how they would expect it to work. Being a native C++ application, it has some advantages over existing embedded scripting languages:
   - It uses a header-only approach, which makes it easy to integrate with existing projects.
@@ -90,6 +90,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [COBOL](https://en.wikipedia.org/wiki/COBOL) - COBOL is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
+- [Common Expression Language](https://github.com/google/cel-spec) - The Common Expression Language (CEL) implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
 - [Core](https://core-lang.dev) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself. 
 - [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
@@ -347,7 +348,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (15):
+# S (16):
 - [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme is a dialect of the Lisp family of programming languages. It was the first dialect of Lisp to choose lexical scope and the first to require implementations to perform tail-call optimization, giving stronger support for functional programming and associated techniques such as recursive algorithms. It was also one of the first programming languages to support first-class continuations.
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
