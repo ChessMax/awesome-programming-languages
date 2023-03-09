@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 339 awesome programming languages that you might be interested in.
+The list of 340 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -359,6 +359,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Sphinx](https://github.com/mwerezak/sphinx-lang) - Sphinx is a dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust!
 - [SpiderBasic](https://www.spiderbasic.com/) - SpiderBasic is new web client-side programming language based on established BASIC rules. Its allows development of very complex, windowed based web applications, including mobile app for iOS and Android. It provides a large commandset to handle complex and reactive GUI, 2D games, and many more in a coherent manner. Every library and commands behave the same and have similar syntax for easier and faster learning.
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
+- [Squilu](https://github.com/mingodad/squilu) - A scripting language that accepts a subset of javascript and C/C++.
 - [Squirrel](https://github.com/albertodemichelis/squirrel) - Squirrel is a high level imperative, object-oriented programming language, designed to be a light-weight scripting language that fits in the size, memory bandwidth, and real-time requirements of applications like video games.
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
