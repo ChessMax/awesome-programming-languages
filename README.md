@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 337 awesome programming languages that you might be interested in.
+The list of 344 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -62,7 +62,7 @@ If you like exploring programming languages or you are making your own programmi
   - Has a more optimal standard library;
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (34):
+# C (35):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -74,7 +74,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon is fundamentally a successor language approach, rather than an attempt to incrementally evolve C++. It is designed around interoperability with C++ as well as large-scale adoption and migration for existing C++ codebases and developers. 
 - [Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications. Carp is a small programming language designed to work well for interactive and performance sensitive use cases like games, sound synthesis and visualizations.
 - [Cassette](https://github.com/cassette-lang/cassette) - A new evolutionary highlevel and readable tape language (unlike brainf), with pattern matching, arity overloading, modules, lambdas (rather quotes) and much more; All topped on with a simple and aesthetic syntax.
-- [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua. You probably have not heard of LASH before. If you really must know, check the Backstory section below. LASH just provides some basic shared infrastructure and a recovery shell. It then runs a user provided script that actually provides most of the rules for how the command line is supposed to look and behave. 
+- [Cat9](https://github.com/letoram/cat9) - Cat9 is a user shell script for LASH - a command-line shell that discriminates against terminal emulators, written in Lua. You probably have not heard of LASH before. If you really must know, check the Backstory section below. LASH just provides some basic shared infrastructure and a recovery shell. It then runs a user provided script that actually provides most of the rules for how the command line is supposed to look and behave.
 - [Céu](https://github.com/ceu-lang/ceu) - Céu is a reactive language that aims to offer a higher-level and safer alternative to C.
 - [ChaiScript](https://github.com/ChaiScript/ChaiScript) - ChaiScript is one of the only embedded scripting language designed from the ground up to directly target C++ and take advantage of modern C++ development techniques, working with the developer how they would expect it to work. Being a native C++ application, it has some advantages over existing embedded scripting languages:
   - It uses a header-only approach, which makes it easy to integrate with existing projects.
@@ -90,6 +90,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [COBOL](https://en.wikipedia.org/wiki/COBOL) - COBOL is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
+- [Common Expression Language](https://github.com/google/cel-spec) - The Common Expression Language (CEL) implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
 - [Core](https://core-lang.dev) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself. 
 - [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
@@ -200,12 +201,13 @@ If you like exploring programming languages or you are making your own programmi
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
 - [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
 - [ISPC](https://github.com/ispc/ispc) - Intel Implicit SPMD Program Compiler is a compiler for a variant of the C programming language, with extensions for single program, multiple data programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [C dialect]
-# J (9):
+# J (10):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
 - [Jank](https://github.com/jank-lang/jank) - Jank is a Clojure dialect which aims to offer the best of both worlds: dynamic and static. For both of these worlds, jank uses a single runtime, so the transition from one to the other is not only seamless, it can be gradual.
 - [Jasm](https://github.com/roscopeco/jasm) - A JVM assembler for the modern age.
+- [Jinx](https://github.com/JamesBoer/Jinx) - Embeddable scripting language for real-time applications.
 - [JME](https://sourceforge.net/projects/jme/) - Java Math Expression - a powerful mathematical evaluator in Spanish and a structured script language, JMEScript, that makes use of it.
 - [JS++](https://www.onux.com/jspp/) JS++ is a programming language designed for high-quality web and mobile development.
 - [Juka](https://github.com/jukaLang/juka) - Juka Programming Language - Rapid Prototyping Language built to run on Azure Microsoft Server. Juka's goal is to be a universal programming language that can run on any platform. Juka is being built on top of .NET network and runs on any platform that supports .NET. Juka can also compile programs into executables.
@@ -315,11 +317,12 @@ If you like exploring programming languages or you are making your own programmi
 - [PureBasic](https://www.purebasic.com/) - PureBasic is a modern BASIC programming language. The key features of PureBasic are portability (Windows, Linux, OS X and Raspberry supported with the same source code), the production of very fast and optimized native 32-bit or 64-bit executables and, of course, the very simple BASIC language syntax. PureBasic has been created for the beginner and expert alike. We have put a lot of effort into its conception to produce a fast, reliable system and friendly BASIC compiler.
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
-# Q (3):
+# Q (4):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
+- [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
-# R (26):
+# R (27):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [Racket](https://racket-lang.org/) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
@@ -336,6 +339,7 @@ If you like exploring programming languages or you are making your own programmi
 - [ReScript](https://github.com/rescript-lang/rescript-compiler) - ReScript compiler and syntax provide the best experience to write JS and React applications. Unifying the tools in one coherent platform and core team allows us to build features that wouldn't be possible in the original BuckleScript + Reason setup.
 - [Rewrite](https://github.com/contrast-zone/rewrite) - Rewrite is estimated to be a Turing complete, s-expression based term rewriting system. Its original intention is operating over s-expressions to expand asserted template occurrences while aiming to be intuitive enough to introduce code templating to non-technical users. To try Rewrite within browser, please refer to [Rewrite Playground](https://contrast-zone.github.io/rewrite/playground/index.html).
 - [Rexx](https://en.wikipedia.org/wiki/Rexx) - Rexx is a structured, high-level programming language designed for ease of learning and reading. It was developed at IBM by Mike Cowlishaw. Rexx is a full language that can be used as a scripting, macro language, and application development language. It is often used for processing data and text and generating reports. Rexx is the primary scripting language in some operating systems, e.g. OS/2, MVS, VM, AmigaOS, and is also used as an internal macro language in some other software, such as SPF/PC, KEDIT, THE and the ZOC terminal emulator. Additionally, the Rexx language can be used for scripting and macros in any program that uses Windows Scripting Host ActiveX scripting engines languages (e.g. VBScript and JScript) if one of the Rexx engines is installed.
+- [Rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [Ribbon](https://github.com/AvivC/RibbonLang) - Ribbon is a dynamic interpreted programming language. It's inspired by the likes of Python, Javascript and a little bit of Lua.
 - [Rickroll lang](https://github.com/Rick-Lang/rickroll-lang) - A light meme based, process oriented, dynamic, strong, esoteric programming language. All of the keywords/statements are came from Rick Astley's lyrics. I believe that rick roll is not only a way to promote people’s communication, it is also one of the most paramount art in the human history. The purpose of the Rickroll Language is to introduce this art to people in a distinctive way – programming.
 - [Rio](https://github.com/tjpalmer/rio) - A script-feeling, safe, naturally compatible replacement for C, with no runtime nor std lib of its own.
@@ -346,7 +350,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (Soon™) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself. 
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (15):
+# S (17):
 - [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme is a dialect of the Lisp family of programming languages. It was the first dialect of Lisp to choose lexical scope and the first to require implementations to perform tail-call optimization, giving stronger support for functional programming and associated techniques such as recursive algorithms. It was also one of the first programming languages to support first-class continuations.
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
@@ -358,9 +362,11 @@ If you like exploring programming languages or you are making your own programmi
 - [Sphinx](https://github.com/mwerezak/sphinx-lang) - Sphinx is a dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust!
 - [SpiderBasic](https://www.spiderbasic.com/) - SpiderBasic is new web client-side programming language based on established BASIC rules. Its allows development of very complex, windowed based web applications, including mobile app for iOS and Android. It provides a large commandset to handle complex and reactive GUI, 2D games, and many more in a coherent manner. Every library and commands behave the same and have similar syntax for easier and faster learning.
 - [Spiral](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
+- [Squilu](https://github.com/mingodad/squilu) - A scripting language that accepts a subset of javascript and C/C++.
 - [Squirrel](https://github.com/albertodemichelis/squirrel) - Squirrel is a high level imperative, object-oriented programming language, designed to be a light-weight scripting language that fits in the size, memory bandwidth, and real-time requirements of applications like video games.
 - [Star](https://github.com/ALANVF/star) - An experimental programming language that's made to be powerful, productive, and predictable. One of the most important goals of Star is that it's designed to be completely consistent. In other words, Star has been designed to not have edge cases, footguns, or any sort of "magic" that's exclusive to language built-ins.
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
+- [Starlark](https://github.com/bazelbuild/starlark) - Starlark (formerly known as Skylark) is a language intended for use as a configuration language. It was designed for the [Bazel](https://bazel.build/) build system, but may be useful for other projects as well.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
 # T (12):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
@@ -413,9 +419,10 @@ If you like exploring programming languages or you are making your own programmi
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
-# Z (3):
+# Z (4):
 - [Zephir](https://github.com/zephir-lang/zephir) - Zephir - is a high level programming language that eases the creation and maintainability of extensions for PHP. Zephir extensions are exported to C code that can be compiled and optimized by major C compilers such as gcc/clang/vc++. Functionality is exposed to the PHP language.
 - [Zenon](https://github.com/miki151/zenon) - Zenon is a statically typed language that compiles to C++. It offers safe and easy application development thanks to high-level features and fast compile times, while keeping C++'s performance and familiar syntax.
+- [ZetScript](https://github.com/jespa007/zetscript/tree/develop) - ZetScript is a programming language with an API that allows bind C++ code in script side.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## See also:
