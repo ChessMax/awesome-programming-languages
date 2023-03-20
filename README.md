@@ -31,11 +31,10 @@ If you like exploring programming languages or you are making your own programmi
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates. 
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (17):
+# B (16):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
 - [Ballerina](https://ballerina.io/) - Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.
-- [Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
 - [Beads](https://beadslang.org/) - The Beads project is a daring attempt to generate a new language that will replace the current popular toolchain stack of HTML/CSS/JS/+Frameworks+Database, with a single language.
 - [Beanshell](https://github.com/beanshell/beanshell) - BeanShell is a small, free, embeddable Java source interpreter with object scripting language features, written in Java. BeanShell dynamically executes standard Java syntax and extends it with common scripting conveniences such as loose types, commands, and method closures like those in Perl and JavaScript.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
@@ -146,7 +145,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Eta](https://github.com/typelead/eta) - What is Eta? Eta is a pure, lazy, strongly typed functional programming language on the JVM. It brings two big ecosystems, the JVM and Haskell, together. This allows you to harness the best of both ecosystems to build your applications quickly and effectively. Eta's concurrency support helps you to build highly scalable systems.
 - [Euphoria](https://github.com/OpenEuphoria/euphoria) - Euphoria is a powerful but easy-to-learn and easy-to-use programming language. It has a simple syntax and structure with consistent rules, and is also easy to read. You can quickly, and with little effort, develop applications big and small for Windows and UNIX variants (Linux, FreeBSD, and OS X).
 - [Expr](https://github.com/antonmedv/expr) - Expression language and expression evaluation for Go.
-# F (22):
+# F (23):
 - [F#](https://fsharp.org/) - a functional-first, general purpose, strongly typed, multi-paradigm programming language that encompasses functional, imperative, and object-oriented programming methods. Developed by Microsoft for the .NET platform.
 - [F*](https://github.com/FStarLang/FStar) - F* (pronounced F star) is a general-purpose functional programming language with effects aimed at program verification. It puts together the automation of an SMT-backed deductive verification tool with the expressive power of a proof assistant based on dependent types. After verification, F* programs can be extracted to efficient OCaml, F#, C, WASM, or ASM code. This enables verifying the functional correctness and security of realistic applications. The main ongoing use case of F* is building a verified, drop-in replacement for the whole HTTPS stack in Project Everest. This includes verified implementations of TLS 1.2 and 1.3 and of the underlying cryptographic primitives.
 - [Factor](https://github.com/factor/factor/) - Factor is a concatenative, stack-based programming language with high-level features including dynamic types, extensible syntax, macros, and garbage collection.
@@ -159,6 +158,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Fennel](https://github.com/bakpakin/Fennel) - Fennel is a lisp that compiles to Lua. It aims to be easy to use, expressive, and has almost zero overhead compared to writing Lua directly.
 - [FixScript](https://www.fixscript.org/) - FixScript is an extensible scripting language designed for simple implementation and strong support for both backward and forward compatibility. You can use FixScript both as a standalone and embedded programming language. You can build standalone native executables for any supported platform from every platform. The best results are obtained when combined with the C language to get a very powerful tool. This way you can use the best of the two worlds, using the language for the high-level stuff and C doing the interoperability and fast stuff while having a good integration between both languages.
 - [Flix](https://github.com/flix/flix) - Next-generation reliable, safe, concise, and functional-first programming language. Flix is a principled functional, imperative, and logic programming language developed at Aarhus University, at the University of Waterloo, and by a community of open source contributors. Flix is inspired by OCaml and Haskell with ideas from Rust and Scala. Flix looks like Scala, but its type system is based on Hindley-Milner. Two unique features of Flix are its polymorphic effect system and its support for first-class Datalog constraints. Flix compiles JVM bytecode, runs on the Java Virtual Machine, and supports full tail call elimination. A VSCode plugin for Flix is available.
+- [Flow](https://github.com/area9innovation/flow9) - a safe, functional strongly-typed programming language.
 - [Formality](https://github.com/moonad/Formality) - Formality is an efficient proof language. An lightweight proof-gramming language. It aims to be:
   * Fast: no garbage-collection, optimal beta-reduction, massively parallel compilers.
   * Secure: a powerful type system capable of proving mathematical theorems.
@@ -437,7 +437,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 
 ## See also:
 - [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
-- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
+- [Awesome Basic Dialects](https://github.com/hgntn/awesome-basic-dialects) - List of awesome BASIC dialects.
 - [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
 - [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
