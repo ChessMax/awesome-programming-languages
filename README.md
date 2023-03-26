@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 360 awesome programming languages that you might be interested in.
+The list of 361 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -247,7 +247,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (24):
+# M (25):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [Magpie](https://github.com/munificent/magpie) - Magpie is a small dynamically-typed programming language built around patterns, classes, and multimethods. It has a prototype interpreter that runs on the JVM and an in-progress bytecode VM written in C++.
@@ -261,6 +261,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Min](https://github.com/h3rald/min) - A small but practical concatenative programming language and shell.
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
+- [Mn](https://github.com/h3rald/mn) - A truly minimal concatenative programming language.
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
 - [Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core. You can try it in a browser [here](https://rohbot.net/mond/).
