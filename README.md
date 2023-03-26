@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 355 awesome programming languages that you might be interested in.
+The list of 356 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -245,7 +245,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (22):
+# M (23):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [Magpie](https://github.com/munificent/magpie) - Magpie is a small dynamically-typed programming language built around patterns, classes, and multimethods. It has a prototype interpreter that runs on the JVM and an in-progress bytecode VM written in C++.
@@ -265,6 +265,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Monkey 2](https://blitzresearch.itch.io/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
 - [Monkey X](https://blitzresearch.itch.io/monkeyx) - A games oriented programming language from Blitz Research.
 - [MoonScript](https://moonscript.org/) - MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
+- [Motion](https://github.com/UPWRD1/motionLang) - Motion is a clean, dynamically typed programming language, created in C with no dependencies.
 - [Motorway](https://github.com/Ninesquared81/motorway-lang) - An esoteric programming language based around the British motorway network.
 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS) - "Massachusetts General Hospital Utility Multi-Programming System", or M, is a high performance transaction processing key–value database with integrated programming language. It was originally developed at Massachusetts General Hospital for managing hospital laboratory information systems. MUMPS technology has since expanded as the predominant database for health information systems and electronic health records in the United States. MUMPS-based information systems run over 40% of the hospitals in the U.S., run across all of the U.S. federal hospitals and clinics, and provide health information services for over 54% of patients across the U.S.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
