@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 353 awesome programming languages that you might be interested in.
+The list of 354 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -378,7 +378,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Stark](https://github.com/stark-lang/stark) - Stark is a new language and OS with the help of the .NET ecosystem and seL4 micro-kernel.
 - [Starlark](https://github.com/bazelbuild/starlark) - Starlark (formerly known as Skylark) is a language intended for use as a configuration language. It was designed for the [Bazel](https://bazel.build/) build system, but may be useful for other projects as well.
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
-# T (12):
+# T (13):
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
 - [Taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python. Taichi Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.
 - [Tamgu(탐구)](https://github.com/naver/tamgu) - A FIL Language that combines in one language an imperative paradigm, a functional paradigm and a logical paradigm. Mixes in one code _A Python-like formalism, a Haskell-like formalism and a Prolog-like formalism_. 
@@ -390,6 +390,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Toy](https://github.com/0xd34df00d/refinedt/tree/master/toy) - Refinement types + dependent types = ❤️. A Toy proof-of-concept implementation of a language with refinement types that compiles to Idris.
 - [Toy](https://github.com/Ratstail91/Toy) - The Toy programming language interpreter, written in C.
 - [TwinBasic](https://twinbasic.com/) - TwinBasic: a modern, BASIC programming language, aiming for 100% backwards compatibility with existing VB6/VBA projects.  A complete replacement development environment offering significant new features and improvements over the VB6 IDE.
+- [Typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [Tyr](https://gitlab.com/Tyre/tyr) - Tyr is an experimental minimalistic language. It's meant to be both a programming language and a conlang. Programmers should think of it as a speakable programming language. Conlangers should see it as a logical conlang, which can also be used for programming. To achieve this, this language has clear and simple nesting rules based on the words, but no syntax for nesting. You can write sentences without the need of indentation. Any kind of indent is not even allowed. It's still in an early stage and only supports a few math primitives. Many things will probably be changed. I'll only document the current state here.
 # U (5):
 - [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
