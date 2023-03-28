@@ -448,7 +448,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 
 ## See also:
 - [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
-- [Awesome Basic Dialects](https://github.com/hgntn/awesome-basic-dialects) - List of awesome BASIC dialects.
+- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
 - [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
 - [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
