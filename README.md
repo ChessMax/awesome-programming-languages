@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 362 awesome programming languages that you might be interested in.
+The list of 364 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -10,7 +10,7 @@ If you like exploring programming languages or you are making your own programmi
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (20):
+# A (21):
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
@@ -19,6 +19,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Alumina](https://github.com/tibordp/alumina) - Alumina is an imperative, general-purpose, statically typed, compiled system programming language. Alumina is heavily inspired by Rust, especially in terms of syntax and standard library API. Unlike Rust, however, Alumina is not memory-safe and it requires manual memory management.
 - [AngelScript](https://sourceforge.net/projects/angelscript/) - AngelScript is an extremely flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts. It has been designed from the beginning to be an easy to use component.
 - [Ante](https://github.com/jfecher/ante) - Ante is a low-level functional language for exploring refinement types, lifetime inference, and other fun features. In general, ante is low-level (no GC, values aren't boxed by default) while also trying to be as readable as possible by encouraging high-level approaches that can be optimized with low-level details later on.
+- [Antimony](https://github.com/antimony-lang/antimony) - Antimony is a general-purpose toy language. Its primary goal is to be simple and easy to understand, not to be efficient.
 - [Ape](https://github.com/kgabis/ape) - Ape is an easy to use programming language and library written in C. It's an offspring of Monkey language, but it evolved to be more procedural with variables, loops, operator overloading, modules, and more.
 - [Apex](https://apexlang.io/) - Apex is an interface definition language (IDL) for modeling software. Generate source code, documentation, integration, everything automatically.
 - [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
@@ -174,9 +175,10 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 - [Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All. Fux is a modern and flexible programming language, perfect for use in a variety of domains by both novice and expert developers. With its efficient use of LLVM, it provides performance similar to C++, while being portable and running on a wide range of platforms.
 - [Fuzion](https://flang.dev/) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
-# G (15):
+# G (16):
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [GameMonkey Script](https://github.com/publicrepo/gmscript) - Embedded scripting language for C++ apps, tools and games.
+- [Garnet](https://hg.sr.ht/~icefox/garnet) - what if Rust was small?
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 - [Genesis](https://github.com/elonlit/Genesis) - Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
@@ -446,7 +448,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 
 ## See also:
 - [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
-- [Awesome Basic Dialects](https://github.com/hgntn/awesome-basic-dialects) - List of awesome BASIC dialects.
+- [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
 - [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
 - [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
