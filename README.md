@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 366 awesome programming languages that you might be interested in.
+The list of 367 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -193,7 +193,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 - [Guile](https://www.gnu.org/software/guile/) - Guile is designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or scripts. With Guile you can create applications and games for the [desktop](https://www.gnu.org/software/guile/#apps-using-guile), the [Web](https://www.gnu.org/software/guile/#apps-using-guile), the [command-line](https://www.gnu.org/software/guile/#apps-using-guile), and more.
 - [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
-# H (16):
+# H (17):
 - [Hack](https://hacklang.org/) - Hack is built specifically for HHVM, a high performance runtime for your Hack applications, and reconciles the fast development cycle of a dynamically typed language with the discipline provided by static typing, while adding many features commonly found in other modern programming languages.
 - [Halide](https://github.com/halide/Halide) - Halide is a language for fast, portable data-parallel computation. Also Halide designed to make it easier to write high-performance image and array processing code on modern machines. Rather than being a standalone programming language, Halide is embedded in C++. This means you write C++ code that builds an in-memory representation of a Halide pipeline using Halide's C++ API. You can then compile this representation to an object file, or JIT-compile it and run it in the same process. Halide also provides a Python binding that provides full support for writing Halide embedded in Python without C++.
 - [Hamler](https://github.com/hamler-lang/hamler) - Haskell-style functional programming language running on Erlang VM.
@@ -202,6 +202,7 @@ Falcon provides six integrated programming paradigms: procedural, object oriente
 - [Hascal](https://github.com/hascal/hascal) - Hascal is a general purpose and open source programming language designed to build optimal, maintainable, reliable and efficient software.
 - [Haskell](https://www.haskell.org/) - A general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation. Designed for teaching, research and industrial application, Haskell has pioneered a number of programming language features such as type classes, which enable type-safe operator overloading. Haskell's main implementation is the Glasgow Haskell Compiler (GHC).
 - [Haxe](https://github.com/HaxeFoundation/haxe) - High-level and strictly-typed programming language, cross-compiles to many different targets.
+- [Hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [Hazure](https://github.com/azur1s/hazure) - A ML-Inspired programming language that transpiles to Typescript.
 - [Hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python. [children]
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
