@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 367 awesome programming languages that you might be interested in.
+The list of 368 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -65,7 +65,7 @@ If you like exploring programming languages or you are making your own programmi
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [Boron](https://urlan.sourceforge.net/boron/) - Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (36):
+# C (37):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -102,6 +102,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Component Pascal](https://en.wikipedia.org/wiki/Component_Pascal) - Component Pascal is a programming language in the tradition of Niklaus Wirth's Pascal, Modula-2, Oberon and Oberon-2. It bears the name of the language Pascal and preserves its heritage, but is incompatible with Pascal. Instead, it is a minor variant and refinement of Oberon-2 with a more expressive type system and built-in string support.
 - [Cone](https://cone.jondgoodwin.com/) - Cone is a fast, fit, friendly, and safe systems programming language. Ideal for complex, data-rich programs requiring responsive performance (e.g., 3D).
 - [Coq](https://coq.inria.fr/) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+- [Covariant Script](https://github.com/covscript/covscript) - Covariant Script is an open source, cross-platform programming language. High-performance runtime environment. Self-developed efficient compilation system. Powerful and bloat-free extension system
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
 - [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI, so you can do scripting on your computer.
