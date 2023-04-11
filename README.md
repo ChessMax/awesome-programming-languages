@@ -42,12 +42,12 @@ If you like exploring programming languages or you are making your own programmi
 - [Beanshell](https://github.com/beanshell/beanshell) - BeanShell is a small, free, embeddable Java source interpreter with object scripting language features, written in Java. BeanShell dynamically executes standard Java syntax and extends it with common scripting conveniences such as loose types, commands, and method closures like those in Perl and JavaScript.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
 - [Berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
-- [BL](https://github.com/travisdoor/bl) - The Biscuit Language (BL) is simple imperative programming language using LLVM backend implemented in C. Biscuit is designed to be simple, fast and explicit. Language syntax is inspired by JAI.
-- [Blech](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
-- [BlitzMax](https://blitzmax.org/) - BlitzMax is a fast cross-platform, open-source programming language.
 - [Bhl](https://github.com/bitdotgames/bhl) - BeHavior Language is a strictly typed programming language specifically tailored for gameplay logic scripting.
 - [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
+- [Blech](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
+- [BlitzMax](https://blitzmax.org/) - BlitzMax is a fast cross-platform, open-source programming language.
 - [Blue](https://github.com/BlueTechnologies/Blue) - The Blue Programming Language, A powerful, V E R Y Easy to use language, that can compile to eight of your favourite languages. A compiled, dynamically typed, object oriented programming language. Coming in at only 30 keywords, this is an easy to use language with unseen compiler speed. Blue is extremely powerful thanks to it's small, compact, file size. It was written in only 3200 lines of Haxe code.
+- [BL](https://github.com/travisdoor/bl) - The Biscuit Language (BL) is simple imperative programming language using LLVM backend implemented in C. Biscuit is designed to be simple, fast and explicit. Language syntax is inspired by JAI.
 - [Boba](https://github.com/glossopoeia/boba) - A general purpose statically-typed concatenative programming language. Key features include:
   - Expressive, mostly implicit static types and kinds
   - Language-incorporated unit and property tests + runners
