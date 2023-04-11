@@ -263,16 +263,16 @@ If you like exploring programming languages or you are making your own programmi
 - [Melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 - [Mercury](https://github.com/Mercury-Language/mercury) - Mercury is a logic/functional programming language which combines the clarity and the expressiveness of declarative programming with advanced static analysis and error detection features.
 - [MetaLang 99](https://github.com/Hirrolot/metalang99) - A functional language for C99 preprocessor metaprogramming.
-- [Min](https://github.com/h3rald/min) - A small but practical concatenative programming language and shell.
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
+- [Min](https://github.com/h3rald/min) - A small but practical concatenative programming language and shell.
 - [Mn](https://github.com/h3rald/mn) - A truly minimal concatenative programming language.
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
 - [Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core. You can try it in a browser [here](https://rohbot.net/mond/).
-- [Monkey](https://monkeylang.org/) - Monkey is a programming language designed by Thorsten Ball.
 - [Monkey 2](https://blitzresearch.itch.io/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
 - [Monkey X](https://blitzresearch.itch.io/monkeyx) - A games oriented programming language from Blitz Research.
+- [Monkey](https://monkeylang.org/) - Monkey is a programming language designed by Thorsten Ball.
 - [MoonScript](https://moonscript.org/) - MoonScript is a dynamic scripting language that compiles into Lua. It gives you the power of one of the fastest scripting languages combined with a rich set of features.
 - [Motion](https://github.com/UPWRD1/motionLang) - Motion is a clean, dynamically typed programming language, created in C with no dependencies.
 - [Motorway](https://github.com/Ninesquared81/motorway-lang) - An esoteric programming language based around the British motorway network.
