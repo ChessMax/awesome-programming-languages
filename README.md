@@ -214,9 +214,9 @@ If you like exploring programming languages or you are making your own programmi
 # I (6):
 - [Idris](https://www.idris-lang.org/) - Idris is a programming language designed to encourage Type-Driven Development. In Idris, types are first-class constructs in the langauge. This means types can be passed as arguments to functions, and returned from functions just like any other value, such as numbers, strings, or lists.
 - [Imba](https://github.com/imba/imba) - :baby_chick: Imba is a friendly full-stack programming language for the web that compiles to performant JavaScript. It has language-level support for defining, extending, subclassing, instantiating and rendering DOM nodes.
-- [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Inko](https://gitlab.com/inko-lang/inko) - Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.
-- [Io](https://iolanguage.org/) -  Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
+- [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
+- [Io](https://iolanguage.org/) - Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
 - [ISPC](https://github.com/ispc/ispc) - Intel Implicit SPMD Program Compiler is a compiler for a variant of the C programming language, with extensions for single program, multiple data programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [C dialect]
 # J (10):
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
