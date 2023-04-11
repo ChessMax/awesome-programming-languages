@@ -424,9 +424,9 @@ If you like exploring programming languages or you are making your own programmi
 - [Wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀.
 - [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Whiley](https://github.com/Whiley/WhileyCompiler) - Whiley employs state-of-the-art techniques for ensuring your software is correct. You can specify functions using preconditions and postconditions, and then statically verify your implementation meets its specification.
-- [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
-- [Wuffs](https://github.com/google/wuffs) - Wuffs (Wrangling Untrusted File Formats Safely) is a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely. Wrangling includes parsing, decoding and encoding. Example file formats include images, audio, video, fonts and compressed archives.
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
+- [Wuffs](https://github.com/google/wuffs) - Wuffs (Wrangling Untrusted File Formats Safely) is a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely. Wrangling includes parsing, decoding and encoding. Example file formats include images, audio, video, fonts and compressed archives.
+- [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
 - [Wyvern](https://github.com/wyvernlang/wyvern) - Wyvern is a new general-purpose programming language designed to support adaptation and assurance. Key features of Wyvern's evolving design include:
   - A simple object model with good support for both object-oriented and functional programming
   - Static type safety
