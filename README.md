@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 371 awesome programming languages that you might be interested in.
+The list of 372 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -178,7 +178,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 - [Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All. Fux is a modern and flexible programming language, perfect for use in a variety of domains by both novice and expert developers. With its efficient use of LLVM, it provides performance similar to C++, while being portable and running on a wide range of platforms.
 - [Fuzion](https://flang.dev/) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
-# G (16):
+# G (17):
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [GameMonkey Script](https://github.com/publicrepo/gmscript) - Embedded scripting language for C++ apps, tools and games.
 - [Garnet](https://hg.sr.ht/~icefox/garnet) - what if Rust was small?
@@ -189,6 +189,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Glide](https://github.com/dibsonthis/Glide) - Glide is a statically (and dynamically) typed language designed to make reading and writing data transformations easier. [refinement types]
 - [GLMS](https://github.com/sebbekarlsson/glms) - A scripting language focused on linear algebra, heavily inspired by GLSL and JavaScript. [algebra, shaders]
 - [Gluon](https://github.com/gluon-lang/gluon) - Gluon is a static, type inferred and embeddabble language written in Rust.
+- [Goal](https://github.com/anaseto/goal) - Goal is an embeddable array programming language with a bytecode interpreter, written in Go. It provides both a command line intepreter (that can be used in the REPL), and a library interface. The core features are mostly there and tested, so Goal is usable both for writing useful short scripts and playing with the REPL. User testing and bug reports are welcome! Like in most array programming languages, Goal's builtins vectorize operations on immutable arrays, and encourage a functional style for control and data transformations, supported by a simple dynamic type system with little abstraction, and mutable variables (but no mutable values).
 - [Gosu](https://github.com/gosu-lang/gosu-lang) - Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
 - [Gravity](https://github.com/marcobambini/gravity) - Gravity is a powerful, dynamically typed, lightweight, embeddable programming language written in C without any external dependencies (except for stdlib). It is a class-based concurrent scripting language with modern Swift-like syntax.
 - [Gren](https://github.com/gren-lang/compiler) - Gren is a pure functional programming language that is easy to learn, but powerful in use.
