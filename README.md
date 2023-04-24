@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 372 awesome programming languages that you might be interested in.
+The list of 373 awesome programming languages that you might be interested in.
 If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
@@ -375,10 +375,15 @@ If you like exploring programming languages or you are making your own programmi
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
-# S (17):
+# S (18):
 - [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) - Scheme is a dialect of the Lisp family of programming languages. It was the first dialect of Lisp to choose lexical scope and the first to require implementations to perform tail-call optimization, giving stronger support for functional programming and associated techniques such as recursive algorithms. It was also one of the first programming languages to support first-class continuations.
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
+- [Shiika](https://github.com/shiika-lang/shiika) - Shiika is a statically-typed programming language that makes me most productive.
+  - Easy to write like Ruby or Python;
+  - Static type checking (Null safety!);
+  - Object-oriented but has enums and pattern-matching;
+  - Written in Rust, compiles to single binary via LLVM IR.
 - [Simula](https://github.com/portablesimula/SimulaCompiler) - This is a new Simula System created by the Open Source Project 'Portable Simula Revisited'. The project was initiated as a response to the lecture held by James Gosling at the 50th anniversary of Simula in Oslo on 27th September, 2017. This Simula System is written in Java and compiles to pure Java code with one exception, the Goto Statement need to be corrected in the byte code, which is done automatically.
 - [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
 - [SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
