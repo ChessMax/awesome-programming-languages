@@ -1,6 +1,8 @@
 # Awesome programming languages
-The list of 375 awesome programming languages that you might be interested in.
-If you like exploring programming languages or you are making your own programming language, than it's place for you. Here you can find interesting programming languages that are not well known. Also it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
+The list of 377 awesome programming languages that you might be interested in.
+If you like exploring programming languages, or you are making your own programming language,
+then it's place for you. Here you can find interesting programming languages that are not well known.
+Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
 ## Related: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
@@ -32,7 +34,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (19):
+# B (20):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -108,7 +110,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
 - [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI, so you can do scripting on your computer.
-# D (14):
+# D (13):
 - [D](https://dlang.org/) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
 - [Dale](https://github.com/tomhrr/dale) - Dale is a system (no GC) programming language that uses S-expressions for syntax and supports syntactic macros. The basic language is similar to C, with the following additional features:
@@ -222,7 +224,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Io](https://iolanguage.org/) - Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
 - [ISPC](https://github.com/ispc/ispc) - Intel Implicit SPMD Program Compiler is a compiler for a variant of the C programming language, with extensions for single program, multiple data programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [C dialect]
-# J (10):
+# J (11):
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
 - [Jank](https://github.com/jank-lang/jank) - Jank is a Clojure dialect which aims to offer the best of both worlds: dynamic and static. For both of these worlds, jank uses a single runtime, so the transition from one to the other is not only seamless, it can be gradual.
@@ -234,7 +236,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Julia](https://julialang.org/) - Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
-# K (9):
+# K (8):
 - [KAGSA](https://www.kagsa.org) - KAGSA is a new Interpreted programming language based on Python, the language will be practical and reliable in your projects.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
@@ -245,7 +247,7 @@ If you like exploring programming languages or you are making your own programmi
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Koka](https://github.com/koka-lang/koka) - Koka: a functional language with effects. Koka is a strongly typed functional-style language with effect types and handlers.
 - [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
-# L (9):
+# L (10):
 - [ldpl](https://github.com/Lartu/ldpl) - Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.
 - [Leafscript](https://github.com/odddollar/Leafscript) - Leafscript is a lightweight programming language created as a proof of concept by someone with no idea how to write a language. It's written entirely in Golang, and was inspired by the speed and simplicity of Lua.
 - [Lean](https://github.com/leanprover/lean4) - Lean is an open source theorem prover and programming language being developed at Microsoft Research. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs.
@@ -297,7 +299,7 @@ If you like exploring programming languages or you are making your own programmi
 - [NPL](https://github.com/LiXizhi/NPLRuntime) - NPL or Neural Parallel Language is an open source, high-performance scripting language.
 - [Nsbasic](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
-# O (12):
+# O (13):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) - Oberon is a general-purpose programming language first published in 1987 by Niklaus Wirth and the latest member of the Wirthian family of ALGOL-like languages (Euler, ALGOL W, Pascal, Modula, and Modula-2).
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
