@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 378 awesome programming languages that you might be interested in.
+The list of 379 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known.
 Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
@@ -299,7 +299,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [NPL](https://github.com/LiXizhi/NPLRuntime) - NPL or Neural Parallel Language is an open source, high-performance scripting language.
 - [Nsbasic](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
-# O (13):
+# O (14):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) - Oberon is a general-purpose programming language first published in 1987 by Niklaus Wirth and the latest member of the Wirthian family of ALGOL-like languages (Euler, ALGOL W, Pascal, Modula, and Modula-2).
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
@@ -309,6 +309,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](http://www.oilshell.org/) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it’s still in its childhood, aims to provide a simple platform to create low level, efficient software.
+- [One](https://github.com/One-Language/One) - It is an open source, self-hosted, bootstrapping system programming language which makes it easy to build reliable and efficient software. One is a programming language that makes it easy to build reliable, efficient and performant software. [system]
 - [Orion](https://github.com/wafelack/orion) - Orion is a high level, purely functional Lisp dialect.
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
