@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 377 awesome programming languages that you might be interested in.
+The list of 378 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known.
 Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
@@ -421,7 +421,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 - [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
-# V (10):
+# V (11):
 - [V1](https://www.mwiede.de/v1-script/) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
 - [Vala](https://gitlab.gnome.org/GNOME/vala) - Vala is a programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C.
 - [Vale](https://github.com/ValeLang/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
@@ -430,6 +430,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Victim](https://github.com/Sekomer/Victim) - Victim is dynamically typed interpreted scripting language written in Haskell. The name is inspired by source code of [malloc](https://code.woboq.org/userspace/glibc/malloc/malloc.c.html#3038).
 - [Vinci](https://github.com/swtwsk/vinci-lang) - A proof-of-concept compiler targeting SPIR-V for a toy ML functional shading language.
 - [Virgil](https://github.com/titzer/virgil) - A Fast and Lightweight Programming Language. Its design blends functional and object-oriented programming paradigms for expressiveness without a lot of overhead, either syntactically or at runtime. Its implementation is focused primarily on static compilation to produce native executables that are standalone. It is well-suited to writing small and fast programs. That makes it ideal for building certain kinds of programs like compilers and virtual machines. It is currently being used for virtual machine and programming language research.
+- [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies.
 - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies.
 # W (7):
