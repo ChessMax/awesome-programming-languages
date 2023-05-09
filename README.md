@@ -33,6 +33,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Ark](https://github.com/spargle/ark) - Ark is a tiny, fast, and **somewhat** useful programming language focused on runtime stability and simple code syntax. Every instruction is a single character, but it is NOT an esolang. (anymore)
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
+- [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code.
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
 # B (20):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
@@ -315,6 +316,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
 # P (26):
+- [P](https://p-org.github.io/P/) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Pascal Script](https://wiki.lazarus.freepascal.org/Pascal_Script) - Pascal Script is an Object Pascal/Delphi/Lazarus-compatible interpreter with bytecode compiler that delivers a scripting environment for application programs.
 - [PascalABCNet](https://github.com/pascalabcnet/pascalabcnet) - PascalABC.NET is the new generation Pascal programming language that combines simplicity of classic Pascal, a great number of modern extensions and broad capabilities of Microsoft .NET Framework. It's ree, simple and powerful IDE. Built-in form designer for rapid development of Windows desktop applications.
