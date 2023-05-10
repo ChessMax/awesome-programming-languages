@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 379 awesome programming languages that you might be interested in.
+The list of 381 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known.
 Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
@@ -12,7 +12,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (21):
+# A (22):
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
@@ -33,7 +33,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Ark](https://github.com/spargle/ark) - Ark is a tiny, fast, and **somewhat** useful programming language focused on runtime stability and simple code syntax. Every instruction is a single character, but it is NOT an esolang. (anymore)
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
-- [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code.
+- [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code. [linear types]
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
 # B (20):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
@@ -315,7 +315,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
-# P (26):
+# P (27):
 - [P](https://p-org.github.io/P/) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Pascal Script](https://wiki.lazarus.freepascal.org/Pascal_Script) - Pascal Script is an Object Pascal/Delphi/Lazarus-compatible interpreter with bytecode compiler that delivers a scripting environment for application programs.
