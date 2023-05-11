@@ -476,3 +476,4 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
 - [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
 - [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
+- [Lox implementations](https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations) - Lots implementations of Lox language written in many programming languages.
