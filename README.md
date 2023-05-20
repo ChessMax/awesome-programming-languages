@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 383 awesome programming languages that you might be interested in.
+The list of 386 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known.
 Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
@@ -35,7 +35,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
 - [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code. [linear types]
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (21):
+# B (22):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -71,7 +71,8 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [Boron](https://urlan.sourceforge.net/boron/) - Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
-# C (37):
+- [Brython](https://brython.info/) - A Python 3 implementation for client-side web programming.
+# C (38):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -98,6 +99,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [COBOL](https://en.wikipedia.org/wiki/COBOL) - COBOL is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language.
+- [Coconut](https://coconut-lang.org/) - Simple, elegant, Pythonic functional programming.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
 - [Cognate](https://github.com/stavromulabeta/cognate) - Cognate is a quasi-concatenative stack oriented language that uses embedded comments to read like English prose. It is a dynamic language (yet compiled) and makes great use of combinators and higher order functions. Cognate aims to make functional programming simple, readable, and maintainable.
 - [Common Expression Language](https://github.com/google/cel-spec) - The Common Expression Language (CEL) implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
@@ -317,7 +319,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
-# P (27):
+# P (28):
 - [P](https://p-org.github.io/P/) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [PAIN](https://github.com/Co0perator/PAIN) - PAIN is a programming language made with the intention of being awful. This is a bad idea and your contributions directly support the starvation of children.
 - [Pascal Script](https://wiki.lazarus.freepascal.org/Pascal_Script) - Pascal Script is an Object Pascal/Delphi/Lazarus-compatible interpreter with bytecode compiler that delivers a scripting environment for application programs.
@@ -348,6 +350,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [PureScript](https://www.purescript.org/) - A strongly-typed functional programming language that compiles to JavaScript
 - [Pure](https://github.com/agraef/pure-lang) - Pure is a modern-style functional programming language based on term rewriting. It offers equational definitions with pattern matching, full symbolic rewriting capabilities, dynamic typing, eager and lazy evaluation, lexical closures, built-in list and matrix support and an easy-to-use C interface.
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
+- [PXP](https://pxplang.org/) - A superset of PHP with extended syntax and runtime capabilities.
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
 # Q (4):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
