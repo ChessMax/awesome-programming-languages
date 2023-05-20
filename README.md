@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 385 awesome programming languages that you might be interested in.
+The list of 386 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known.
 Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
@@ -35,7 +35,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
 - [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code. [linear types]
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (21):
+# B (22):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -71,6 +71,7 @@ Also, it's the place to look for a new ideas and inspiration. Feel free to make 
   - Compiles 2.5 million lines per second on a laptop (MacBook Air with an M2 chip).
 - [Boron](https://urlan.sourceforge.net/boron/) - Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
+- [Brython](https://brython.info/) - A Python 3 implementation for client-side web programming.
 # C (38):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
