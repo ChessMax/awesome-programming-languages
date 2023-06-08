@@ -95,3 +95,6 @@ See also:
 # Y:
 # Z:
 
+# See also
+- [Great Works in Programming Languages](https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - a list by Dr. Pierce, the professor who wrote Types and Programming Languages and Software Foundations, about great papers in the PL field;
+
