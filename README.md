@@ -484,3 +484,4 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
 - [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
 - [Lox implementations](https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations) - Lots implementations of Lox language written in many programming languages.
+- [Langs written in Rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration. This is a (probably incomplete) list of languages implemented in Rust. It is intended as a source of inspiration and comparison, and as a directory of potentially interesting projects in this vein.
