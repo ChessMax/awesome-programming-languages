@@ -479,6 +479,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
 - [Lua languages](https://github.com/hengestone/lua-languages) - Languages that compile to Lua.
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme) - A curated list of awesome Scheme libraries and resources.
+- [Awesome low level programming languages](https://github.com/robertmuth/awesome-low-level-programming-languages)
 - [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) - List of languages that compile to JavaScript and many other transpilers.
 - [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
 - [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
