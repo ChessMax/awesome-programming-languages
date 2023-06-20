@@ -6,7 +6,8 @@ then it's place for you. Here you can find interesting programming languages tha
 ## Related: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
 - [See also section](#see-also);
-
+- [See also](## See also);
+ 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
 [![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
@@ -484,6 +485,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) - List of languages that compile to JavaScript and many other transpilers.
 - [PL catalog](https://github.com/prathyvsh/pl-catalog) - A catalog of programming languages.
 - [Programming languages](https://github.com/learn-anything/programming-languages) - Awesome Programming Languages.
+- [Programming Language Design](https://proglangdesign.net/) - Programming Language Design is dedicated to the theory, design and implementation of programming languages.
 - [GitHub programming languages](https://github.com/collections/programming-languages) - A list of programming languages that are actively developed on GitHub.
 - [Lox implementations](https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations) - Lots implementations of Lox language written in many programming languages.
 - [Langs written in Rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration. This is a (probably incomplete) list of languages implemented in Rust. It is intended as a source of inspiration and comparison, and as a directory of potentially interesting projects in this vein.
