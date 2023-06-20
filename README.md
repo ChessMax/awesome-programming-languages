@@ -5,6 +5,7 @@ then it's place for you. Here you can find interesting programming languages tha
 
 ## Related: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
+- [See also section](#see-also);
 
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
 [![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
@@ -473,7 +474,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [ZetScript](https://github.com/jespa007/zetscript/tree/develop) - ZetScript is a programming language with an API that allows bind C++ code in script side.
 - [Zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
-## See also:
+# See also:
 - [Wikipedia's List of Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages).
 - [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - A curated list of awesome BASIC dialects, IDEs, and tutorials.
 - [Awesome Lisp languages](https://github.com/dundalek/awesome-lisp-languages) - A list of Lisp-flavored programming languages.
