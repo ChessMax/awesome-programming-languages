@@ -6,7 +6,6 @@ then it's place for you. Here you can find interesting programming languages tha
 ## Related: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
 - [See also section](#see-also);
-- [See also](#-see-also);
  
 [![GitHub forks](https://badgen.net/github/forks/ChessMax/awesome-programming-languages/)](https://GitHub.com/ChessMax/awesome-programming-languages/network/)
 [![GitHub stars](https://badgen.net/github/stars/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/stargazers/)
