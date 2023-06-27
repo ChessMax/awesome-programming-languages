@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 388 awesome programming languages that you might be interested in.
+The list of 389 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -12,12 +12,17 @@ then it's place for you. Here you can find interesting programming languages tha
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (22):
+# A (23):
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 - [Agena](https://sourceforge.net/projects/agena/) - Agena is an easy-to-learn procedural programming language suited to be used in scientific, mathematical, scripting, networking, and many other applications. Binaries are available for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
 - [Aith](https://github.com/Superstar64/aith) - Low level functional programming language with linear types, Generalized Inline Functions, levity polymorphism and regions. Aith is a perfomant systems programming language with am empathises on type systems. As of now Aith is very early stages and very little is implemented.
+- [Alan](https://github.com/alantech/alan) - Alan is a Autoscalable Programming Language:
+  -  🔭 Predictable runtime for all computations - A program is represented as DAG(s) where the running time for all computations can be predicted because there is no unbounded recursion or iteration;
+  - ⛓ Automatic IO concurrency and parallelism across events and arrays - Alan exploits opportunities for IO concurrency or CPU parallelization across machines in a cluster via arrays and a static event loop without threads, channels, promises, futures, locks, etc;
+  - ✅ Almost no runtime errors - No deadlocks, livelocks, undefined variables, divide-by-zero, integer under/overflow, array out-of-bounds access, etc;
+  - ⚡️ No GC pauses - Alan’s runtime manages memory allocation, access, and deallocation for you like Java, Python, or Javascript. However, Alan’s static event system and automatic event-oriented memory model does so without garbage collector pauses.
 - [Alumina](https://github.com/tibordp/alumina) - Alumina is an imperative, general-purpose, statically typed, compiled system programming language. Alumina is heavily inspired by Rust, especially in terms of syntax and standard library API. Unlike Rust, however, Alumina is not memory-safe and it requires manual memory management.
 - [AngelScript](https://sourceforge.net/projects/angelscript/) - AngelScript is an extremely flexible cross-platform scripting library designed to allow applications to extend their functionality through external scripts. It has been designed from the beginning to be an easy to use component.
 - [Ante](https://github.com/jfecher/ante) - Ante is a low-level functional language for exploring refinement types, lifetime inference, and other fun features. In general, ante is low-level (no GC, values aren't boxed by default) while also trying to be as readable as possible by encouraging high-level approaches that can be optimized with low-level details later on.
