@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 392 awesome programming languages that you might be interested in.
+The list of 393 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -348,7 +348,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [OverScript](https://github.com/overscript-lang/OverScript) - OverScript is a simple and powerful C-like statically-typed language written in C# and is great for both embedding in .NET programs and building standalone applications. The project was developed from scratch without looking back at traditional approaches to creating languages. The unique approach allows the language to go beyond the standard features and have great potential for improvement.
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](http://mozart2.org/) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
-# P (27):
+# P (28):
 - [P](https://p-org.github.io/P/) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [Pascal Script](https://wiki.lazarus.freepascal.org/Pascal_Script) - Pascal Script is an Object Pascal/Delphi/Lazarus-compatible interpreter with bytecode compiler that delivers a scripting environment for application programs.
 - [PascalABCNet](https://github.com/pascalabcnet/pascalabcnet) - PascalABC.NET is the new generation Pascal programming language that combines simplicity of classic Pascal, a great number of modern extensions and broad capabilities of Microsoft .NET Framework. It's ree, simple and powerful IDE. Built-in form designer for rapid development of Windows desktop applications.
@@ -380,6 +380,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Pure](https://github.com/mmcqd/pure) - A pure type system implemented in OCaml.
 - [PXP](https://pxplang.org/) - A superset of PHP with extended syntax and runtime capabilities.
 - [Pycopy](https://github.com/pfalcon/pycopy/?3.5.0) - Pycopy - a minimalist and memory-efficient Python dialect. Good for desktop, cloud, constrained systems, microcontrollers, and just everything.
+- [Pyret](https://github.com/brownplt/pyret-lang) - Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming. It's under active design and development, and free to use or modify.
 # Q (4):
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
