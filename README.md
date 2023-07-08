@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 389 awesome programming languages that you might be interested in.
+The list of 390 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -77,7 +77,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Boron](https://urlan.sourceforge.net/boron/) - Boron is a scripting language similar to REBOL. The interpreter is a C library which may be copied under the terms of the LGPLv3.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
 - [Brython](https://brython.info/) - A Python 3 implementation for client-side web programming.
-# C (39):
+# C (40):
 - [Ć](https://github.com/pfusik/cito) - Ć is a programming language which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. Instead of writing code in all these languages, you can write it once in Ć:
 - [C2](https://github.com/c2lang/) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
@@ -99,7 +99,21 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language.
 - [Ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
-- [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigmn programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
+- [Circle](https://github.com/seanbaxter/circle) - Circle is the richest C++ compiler yet. Circle describes a path for evolving C++ to meet the needs of institutional users. The versioning mechanism that accommodated the development of the features above will also accommodate research into critically important areas like memory safety. Rather than insisting on a one-size-fit's-all approach to language development, project leads can opt into collections of features that best target their projects' needs. Features:
+   - choice types;
+   - pattern matching;
+   - interfaces and impls;
+   - language type erasure;
+   - as-expressions for safer conversions;
+   - a modern declaration syntax with fn and var keywords to make clearer, less ambiguous declarations;
+   - a simpler syntax for binary expressions, greatly reducing the likelihood of bugs caused by confusing operator precedences;
+   - a forward keyword to take the complexity and bugginess out of forwarding references;
+   - safer initializer lists, which address ambiguities when calling `std::initializer_list` constructors and non-`std::initializer_list` constructors;
+   - lifting lambdas to pass overload sets as function arguments;
+   - nine kinds of template parameters to make templates far more comprehensive;
+   - reflection traits to access packs of information about class types, enum types, function types, class specializations, and so on;
+   - pack traits for pack-transforming algorithms, like sort, unique, count, erase, difference, intersection, and so on.
+- [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigm programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
 - [Clojure](https://clojure.org/) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
