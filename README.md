@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 391 awesome programming languages that you might be interested in.
+The list of 392 awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -251,7 +251,8 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style. Ink can be embedded in Go applications with a simple interpreter API.
 - [Io](https://iolanguage.org/) - Io is a pure object-oriented (relying on prototype-based paradigm) programming language focused on expressiveness through simplicity.
 - [ISPC](https://github.com/ispc/ispc) - Intel Implicit SPMD Program Compiler is a compiler for a variant of the C programming language, with extensions for single program, multiple data programming. Under the SPMD model, the programmer writes a program that generally appears to be a regular serial program, though the execution model is actually that a number of program instances execute in parallel on the hardware. [C dialect]
-# J (11):
+# J (12):
+- [J*](https://github.com/bamless/jstar) - J* is a dynamic embeddable scripting language designed to be as easy as possible to embed into another program. It arises from the need of having a modern scripting language with built-in support for OOP whilst mantaning simplicity of use and a low memory footprint. It can be viewed as a middle ground between Python, a more complete scripting language with lots of features and libraries, and Lua, a small and compact language that is simple to embed but doesn't provide OOP functionalities out of the box. J* tries to take the best of both worlds, implementing a fully featured class system while maintaining a small standard library and employing the use of a stack based API for communication among the language and host program, rendering embedding simple.
 - [Jakt](https://github.com/SerenityOS/jakt) - Jakt is a memory-safe systems programming language. It currently transpiles to C++.
 - [Janet](https://github.com/janet-lang/janet) - Janet is a functional and imperative programming language and bytecode interpreter. It is a lisp-like language, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples). The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
 - [Jank](https://github.com/jank-lang/jank) - Jank is a Clojure dialect which aims to offer the best of both worlds: dynamic and static. For both of these worlds, jank uses a single runtime, so the transition from one to the other is not only seamless, it can be gradual.
