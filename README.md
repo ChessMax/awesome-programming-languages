@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **396** awesome programming languages that you might be interested in.
+The list of **397** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -461,11 +461,12 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Unison](https://github.com/unisonweb/unison) - Unison is a modern, statically-typed purely functional language, similar to Haskell, but with the ability to describe entire distributed systems with a single program.
 - [Ur](https://github.com/urweb/urweb) - Ur is a programming language in the tradition of ML and Haskell, but featuring a significantly richer type system. Ur is functional, pure, statically typed, and strict. Ur supports a powerful kind of metaprogramming based on row types.
 - [Ü](https://github.com/Panzerschrek/U-00DC-Sprache) - Experimental programming language that is compilable, statically-typed C++-like language.
-# V (11):
+# V (12):
 - [V1](https://www.mwiede.de/v1-script/) - V1 is a simple functional interpreter language with syntax from C, PHP and JavaScript. It was developed from the scratch. The focus is on administrative and experimental programming, but it has enhanced benefits like Multithreading, CGI, Web functions and native function calling. The most buildin functions are compatible with PHP, for example fopen().
 - [Vala](https://gitlab.gnome.org/GNOME/vala) - Vala is a programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C.
 - [Vale](https://github.com/ValeLang/Vale) - Vale is the fast, safe, and easy programming language. It uses single ownership with constraint references for memory safety without garbage collection, and an emphasis on modern, readable syntax.
 - [Val](https://github.com/val-lang/val) - Val is an open source, general-purpose programming language designed around on the concept of (mutable) value semantics. The language aims to be safe and efficient, yet expressive enough to support multiple programming paradigms and implement concurrent algorithms safely and efficiently.
+- [Verona](https://github.com/microsoft/verona) - Project Verona is a research programming language to explore the concept of concurrent ownership. We are providing a new concurrency model that seamlessly integrates ownership.
 - [Verse](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference) - Verse is a programming language developed by Epic Games that you can use to create your own gameplay in Unreal Editor for Fortnite, including customizing your devices for Fortnite Creative.
 - [Victim](https://github.com/Sekomer/Victim) - Victim is dynamically typed interpreted scripting language written in Haskell. The name is inspired by source code of [malloc](https://code.woboq.org/userspace/glibc/malloc/malloc.c.html#3038).
 - [Vinci](https://github.com/swtwsk/vinci-lang) - A proof-of-concept compiler targeting SPIR-V for a toy ML functional shading language.
