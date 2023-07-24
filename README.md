@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of 394 awesome programming languages that you might be interested in.
+The list of **395** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -40,7 +40,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
 - [Austral](https://austral-lang.org/) - A systems programming language that uses linear types to provide memory safety and capability-secure code. [linear types]
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (23):
+# B (24):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -51,6 +51,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Beanshell](https://github.com/beanshell/beanshell) - BeanShell is a small, free, embeddable Java source interpreter with object scripting language features, written in Java. BeanShell dynamically executes standard Java syntax and extends it with common scripting conveniences such as loose types, commands, and method closures like those in Perl and JavaScript.
 - [Beef](https://github.com/beefytech/Beef) - Beef is a performance-oriented compiled programming language.
 - [Berry](https://github.com/berry-lang/berry) - A ultra-lightweight embedded scripting language optimized for microcontrollers.
+- [Beryl](https://github.com/KarlAndr1/beryl) - Beryl is a small, interpreted, embeddable scripting language with value semantics and first class functions. The main feature of Beryl is that the core interpreter can run without any dynamic memory allocation*, and it does not need to parse or compile scripts beforehand. It can also be built without any external dependencies, excluding some typedefines and constants needed from stddef.h and limits.h; however these could be provived from a custom header if needed.
 - [Bhl](https://github.com/bitdotgames/bhl) - BeHavior Language is a strictly typed programming language specifically tailored for gameplay logic scripting.
 - [Bite](https://github.com/Maximilian-Winter/Bite-Programming-Language) - Bite is a dynamically typed, object oriented programming language. Dynamically typed, because the type of the content of a variable can change during runtime of the program. Object-oriented, because you can define classes to encapsulate your code and data. Bite uses modules, classes and functions to separate code.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
