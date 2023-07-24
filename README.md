@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **395** awesome programming languages that you might be interested in.
+The list of **396** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -320,7 +320,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Motorway](https://github.com/Ninesquared81/motorway-lang) - An esoteric programming language based around the British motorway network.
 - [MUMPS](https://en.wikipedia.org/wiki/MUMPS) - "Massachusetts General Hospital Utility Multi-Programming System", or M, is a high performance transaction processing key–value database with integrated programming language. It was originally developed at Massachusetts General Hospital for managing hospital laboratory information systems. MUMPS technology has since expanded as the predominant database for health information systems and electronic health records in the United States. MUMPS-based information systems run over 40% of the hospitals in the U.S., run across all of the U.S. federal hospitals and clinics, and provide health information services for over 54% of patients across the U.S.
 - [Mun](https://github.com/mun-lang/mun) - A programming language empowering creation through iteration.
-# N (14):
+# N (15):
 - [Nelua](https://github.com/edubart/nelua-lang) - Nelua (stands for Native Extensible Lua) is a minimal, efficient, statically-typed and meta-programmable systems programming language heavily inspired by Lua, which compiles to C and native code.
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - A fast, a dynamically typed, concurrent and embeddable scripting language.
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
@@ -331,6 +331,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Nit](https://github.com/nitlang/nit/) - Nit is an expressive language with a script-like syntax, a friendly type-system and aims at elegance, simplicity and intuitiveness.
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Noja](https://github.com/cozis/Noja) - Noja is a high level language with dynamic typing inspired from CPython, which features an import system, type assertions, multiple return values and more!
+- [North-Hollywood Python](https://github.com/TheRealMichaelWang/NoHoPython) - A strongly-typed, memory-safe, compiled dialect of Python, that transpiles to human-readable C.
 - [Nox](https://github.com/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
 - [NPL](https://github.com/LiXizhi/NPLRuntime) - NPL or Neural Parallel Language is an open source, high-performance scripting language.
 - [Nsbasic](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
