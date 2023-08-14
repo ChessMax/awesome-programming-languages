@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **397** awesome programming languages that you might be interested in.
+The list of **398** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -266,7 +266,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Julia](https://julialang.org/) - Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
 - [J](https://www.jsoftware.com) - J is a high-level, general-purpose programming language that is particularly suited to the mathematical, statistical, and logical analysis of data. It is a powerful tool for developing algorithms and exploring problems that are not already well understood.
-# K (9):
+# K (10):
 - [KAGSA](https://www.kagsa.org) - KAGSA is a new Interpreted programming language based on Python, the language will be practical and reliable in your projects.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
@@ -274,6 +274,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Kawa](https://www.gnu.org/software/kawa/) - Kawa is a general-purpose programming language that runs on the Java platform. It aims to combine:
   - the benefits of dynamic scripting languages (non-verbose code with less boiler-plate, fast and easy start-up, a REPL, no required compilation step); with
   - the benefits of traditional compiled languages (fast execution, static error detection, modularity, zero-overhead Java platform integration).
+- [KCL](https://github.com/kcl-lang/kcl) - KCL is an open-source, constraint-based record and functional language that enhances the writing of complex configurations, including those for cloud-native scenarios. With its advanced programming language technology and practices, KCL is dedicated to promoting better modularity, scalability, and stability for configurations. It enables simpler logic writing and offers ease of automation APIs and integration with homegrown systems. [Configuration]
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Kitten](https://github.com/evincarofautumn/kitten) - A statically typed concatenative systems programming language. Kitten is a statically typed, stack-based functional programming language designed for simplicity, speed, and safety. This is an in-progress implementation of that language, including:
   - An interactive console for testing code;
