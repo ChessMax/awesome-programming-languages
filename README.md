@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **398** awesome programming languages that you might be interested in.
+The list of **399** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -135,7 +135,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Crystal](https://github.com/crystal-lang/crystal) - Crystal is a language with a Ruby like sintax, statically type-checked. It supports compile-time evaluation and code generation. It compiles to efficient native code.
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
 - [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI, so you can do scripting on your computer.
-# D (13):
+# D (14):
 - [D](https://github.com/dlang/dmd) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
 - [Dale](https://github.com/tomhrr/dale) - Dale is a system (no GC) programming language that uses S-expressions for syntax and supports syntactic macros. The basic language is similar to C, with the following additional features:
@@ -152,6 +152,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Dark Basic Pro](https://github.com/TheGameCreators/Dark-Basic-Pro) - Dark Basic Pro is an open source BASIC programming language for creating Windows applications and games.
 - [Dart](https://github.com/dart-lang/sdk) - Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either native code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference. Primarally used with the Flutter GUI toolkit.
 - [daScript](https://github.com/GaijinEntertainment/daScript) - high-performance statically strong typed scripting language.
+- [Derw](https://github.com/eeue56/derw) - An Elm-inspired language that transpiles to TypeScript. Derw is a type-safe language in the ML family designed to replace or augment your TypeScript and JavaScript code - both on the client and the server. If you've never encountered an ML language before, some of the core principles - which Derw follows - is a clean and concise syntax, paired with a powerful type system.
 - [Dictu](https://github.com/dictu-lang/Dictu) - Dictu is a high-level dynamically typed, multi-paradigm, interpreted programming language.
 - [Draco](https://github.com/Draco-lang/Compiler) - a new .NET programming language under development. If you want further details on the language itself or want to contribute ideas, head over to the [language suggestions repository](https://github.com/Draco-lang/Language-suggestions).
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast.
