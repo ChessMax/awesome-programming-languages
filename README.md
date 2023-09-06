@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **400** awesome programming languages that you might be interested in.
+The list of **401** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -79,7 +79,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Bosque](https://github.com/BosqueLanguage/BosqueCore) - Bosque is an open-source project focused on developing a new Programming Language and Development Tooling Stack. The foundation of this project is the view that mechanization and automated reasoning, along with human and AI agents that leverage them, are the ideas that will define the next era of software development. The foundation of the Bosque language and stack is a carefully constructed core calculus and computation model that are uniquely amenable to automated reasoning. Building on top of this core calculus the Bosque language, as seen by a developer, is a hybrid of functional programming design, ergonomic block & assignment-based syntax, and a number of new features designed to simplify and support writing high reliability code.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
 - [Brython](https://github.com/brython-dev/brython) - A Python 3 implementation for client-side web programming.
-# C (40):
+# C (41):
 - [C2](https://github.com/c2lang/c2compiler) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [C∀](https://github.com/cforall/cforall) - C∀ (Cforall) is a language design extending ISO C. The purpose of the project is to engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
@@ -132,6 +132,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Core](https://github.com/core-lang/core) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself.
 - [Covariant Script](https://github.com/covscript/covscript) - Covariant Script is an open source, cross-platform programming language. High-performance runtime environment. Self-developed efficient compilation system. Powerful and bloat-free extension system
 - [Cowgol](https://github.com/davidgiven/cowgol) - A self-hosted Ada-inspired programming language for very small systems. Cowgol is an experimental, Ada-inspired language for very small systems (6502, Z80, etc). It's different because it's intended to be self-hosted on these devices: the end goal is to be able to rebuild the entire compiler on an 8-bit micro, although we're not there yet.
+- [Cppfront](https://github.com/hsutter/cppfront) - Cppfront is an experimental compiler from a potential C++ 'syntax 2' (Cpp2) to today's 'syntax 1' (Cpp1), to learn some things, prove out some concepts, and share some ideas. This compiler is a work in progress and currently hilariously incomplete... basic functions work, classes will be next, then metaclasses and lightweight exceptions.
 - [Crumb](https://github.com/liam-ilan/crumb) - Crumb is a high level, functional, interpreted, dynamically typed, general-purpose programming language, with a terse syntax, and a verbose standard library.
   It features:
   - Strictly no side effects* to help you write functional code
