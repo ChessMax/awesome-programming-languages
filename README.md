@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **401** awesome programming languages that you might be interested in.
+The list of **402** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -303,7 +303,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lua](https://github.com/lua/lua) - Lua is a powerful, efficient, lightweight, embeddable scripting language. It supports procedural programming, object-oriented programming, functional programming, data-driven programming, and data description. Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode with a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (25):
+# M (26):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [Magpie](https://github.com/munificent/magpie) - Magpie is a small dynamically-typed programming language built around patterns, classes, and multimethods. It has a prototype interpreter that runs on the JVM and an in-progress bytecode VM written in C++.
@@ -320,6 +320,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Mn](https://github.com/h3rald/mn) - A truly minimal concatenative programming language.
 - [Modula-2](https://freepages.modula2.org/) - Modula-2 is a programming language developed by Niklaus Wirth at ETH in Zurich, Switzerland in the late 70's. Wirth also developed Algol-W, Pascal, Modula, and Oberon. Modula-2 corrects some of the deficiencies of Pascal. It is suitable for learning programming, for large projects written and maintained in the fashion of professional software engineers, and for real time embedded systems. Modula-2 is small, expressive, easy to learn and to read.
 - [Modula-3](https://github.com/modula3/cm3) - Critical Mass Modula-3.
+- [Mojo](https://github.com/modularml/mojo) - Mojo is a new programming language that bridges the gap between research and production by combining Python syntax and ecosystem with systems programming and metaprogramming features. Mojo is still young, but it is designed to become a superset of Python over time.
 - [Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core. You can try it in a browser [here](https://rohbot.net/mond/).
 - [Monkey 2](https://github.com/blitz-research/monkey2) - Monkey2 is an easy to use, cross platform, games oriented programming language from Blitz Research.
 - [Monkey X](https://github.com/blitz-research/monkey/) - A games oriented programming language from Blitz Research.
