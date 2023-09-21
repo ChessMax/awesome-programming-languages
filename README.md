@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **402** awesome programming languages that you might be interested in.
+The list of **403** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -40,7 +40,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [ATS](https://github.com/githwxi/ATS-Postiats) - Unleashing the Potentials of Types and Templates.
 - [Austral](https://github.com/austral/austral/) - A systems programming language that uses linear types to provide memory safety and capability-secure code. [linear types]
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
-# B (24):
+# B (25):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -79,6 +79,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Bosque](https://github.com/BosqueLanguage/BosqueCore) - Bosque is an open-source project focused on developing a new Programming Language and Development Tooling Stack. The foundation of this project is the view that mechanization and automated reasoning, along with human and AI agents that leverage them, are the ideas that will define the next era of software development. The foundation of the Bosque language and stack is a carefully constructed core calculus and computation model that are uniquely amenable to automated reasoning. Building on top of this core calculus the Bosque language, as seen by a developer, is a hybrid of functional programming design, ergonomic block & assignment-based syntax, and a number of new features designed to simplify and support writing high reliability code.
 - [BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language. Self-hosted!
 - [Brython](https://github.com/brython-dev/brython) - A Python 3 implementation for client-side web programming.
+- [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 # C (41):
 - [C2](https://github.com/c2lang/c2compiler) - An evolution of C.
 - [C3](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
