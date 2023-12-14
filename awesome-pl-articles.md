@@ -54,12 +54,12 @@ See also:
 # M:
 
 # N:
-
+- [Notation as a Tool of Thought](https://dl.acm.org/doi/pdf/10.1145/358896.358899)
 # O:
 
 # P:
 - [Programming type-safe transformations using higher-order abstract syntax](https://www.cs.mcgill.ca/~bpientka/papers/cc.pdf)
-
+- [PROGRAMMING A PROBLEM-ORIENTED LANGUAGE](http://www.forth.org/POL.pdf)
 # Q:
 
 # R:
