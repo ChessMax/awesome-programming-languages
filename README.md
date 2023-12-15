@@ -12,7 +12,7 @@ then it's place for you. Here you can find interesting programming languages tha
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (23):
+# A (32):
 - [ABC](https://homepages.cwi.nl/~steven/abc/) - ABC is an interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC. It was designed by first doing a task analysis of the programming task.ABC is easy to learn (an hour or so for someone who has already programmed), and yet easy to use. Originally intended as a language for beginners, it has evolved into a powerful tool for beginners and experts alike.
 - [ABCL: An Object-Oriented Concurrent System](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) - The tenet of our ABCL research project is to exploit both parallelism and object orientation. Parallelism is ubiquitous in our problem domains; parallelism is not only the source of computational power, but also promotes structural simplicity/naturalness in design and algorithm. Object-orientation accompanying parallelism, enhances system modularity, flexibility, and safety. 
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
