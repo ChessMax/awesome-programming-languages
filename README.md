@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **406** awesome programming languages that you might be interested in.
+The list of **417** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
