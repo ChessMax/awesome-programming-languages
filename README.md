@@ -520,6 +520,7 @@ then it's place for you. Here you can find interesting programming languages tha
 # Y (3):
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
+- [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. Yorick includes an interactive graphics package, and a binary file package capable of translating to and from the raw numeric formats of all modern computers. Yorick is written in ANSI C and runs on most operating systems (*nix systems, MacOS X, Windows). For a short overview, see the Linux Journal and Unix review articles.
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
 # Z (5):
 - [Zang](https://github.com/cmspeedrunner/Zang) - Zang is a dynamically typed high level programming language.
