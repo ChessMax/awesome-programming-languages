@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **417** awesome programming languages that you might be interested in.
+The list of **418** awesome programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -512,7 +512,8 @@ then it's place for you. Here you can find interesting programming languages tha
   - Extensibility with domain-specific syntax via libraries written within the language
   - A simple but powerful capability-safe module system
   - Support for various aspects of software architecture within the running system
-# X (4):
+# X (5):
+- [X Language](https://www.nongnu.org/xlang/) - X Language is a new multi-syntax programming including a portable set of APIs to create console or graphical applications runnable on many platforms (UNIX/X11, Win32, ...). X Language comes with an interpreter, a compiler and a debugger. 
 - [X#](https://github.com/X-Sharp/XSharpPublic) - X# is an open source development language for .NET, based on the xBase language. It comes in different flavours, such as Core, Visual Objects, Vulcan.NET, xBase++, Harbour, Foxpro and more. X# has been built on top of Roslyn, the open source architecture behind the current Microsoft C# and Microsoft Visual Basic compilers.
 - [X10](https://github.com/x10-lang/x10) - X10 is a statically-typed object-oriented language, extending a sequential core language with places, activities, clocks, (distributed, multi-dimensional) arrays and struct types. All these changes are motivated by the desire to use the new language for high-end, high-performance, high-productivity computing.
 - [Xojo](https://www.xojo.com/) - Build Native, Cross-Platform Apps. Rapid application development for Desktop, Web, Mobile & Raspberry Pi.
