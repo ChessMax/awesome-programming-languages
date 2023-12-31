@@ -665,4 +665,4 @@ It features a full IDE with undo support and interactive construction as well as
 - [Lox implementations](https://github.com/munificent/craftinginterpreters/wiki/Lox-implementations) - Lots implementations of Lox language written in many programming languages.
 - [Langs written in Rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration. This is a (probably incomplete) list of languages implemented in Rust. It is intended as a source of inspiration and comparison, and as a directory of potentially interesting projects in this vein.
 - [Programming Language Database](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A computable encyclopedia about programming languages.
-- [History of Programming Languages](https://hopl.info) - HOPL: History of Programming Languages.
+- [History of Programming Languages](http://hopl.info) - HOPL: History of Programming Languages.
