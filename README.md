@@ -356,7 +356,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Noja](https://github.com/cozis/Noja) - Noja is a high level language with dynamic typing inspired from CPython, which features an import system, type assertions, multiple return values and more!
 - [North-Hollywood Python](https://github.com/TheRealMichaelWang/NoHoPython) - A strongly-typed, memory-safe, compiled dialect of Python, that transpiles to human-readable C.
-- [Nox](https://github.com/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
+- [Nox](https://codeberg.org/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
 - [NPL](https://github.com/LiXizhi/NPLRuntime) - NPL or Neural Parallel Language is an open source, high-performance scripting language.
 - [Nsbasic](https://www.nsbasic.com/) - A complete, powerful development environment. Create apps for iOS, Android, Windows, MacOS and Linux.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
