@@ -401,7 +401,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0.
 - [Hilvi](https://github.com/holgerl/hilvl) - Hilvl is a programming language that is versatile but with a very small syntax. All code in hilvl are single-argument invocations of actions that belong to services. Services are the fundamental building blocks of a hilvl program. And the name hilvl reflects how this is a higher level of abstraction than objects and functions.
 - [Hobbes](https://github.com/morganstanley/hobbes) - Hobbes is built for high performance integration with C/C++ applications.
-- [Hook](https://github.com/fabiosvm/hook-lang) - Hook is an imperative, cross-platform, dynamically typed scripting language that utilizes a mutable value semantics approach.
+- [Hook](https://github.com/hook-lang/hook) - Hook is an imperative, cross-platform, dynamically typed scripting language that utilizes a mutable value semantics approach.
 - [Hope](https://github.com/dmbaturin/hope) - Hope is a lazily evaluated functional programming language developed in 1970's by Ross Paterson. It influenced the design of other lazy languages such as Miranda and Haskell.
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
 - [Hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python.
