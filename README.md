@@ -893,3 +893,4 @@ It features a full IDE with undo support and interactive construction as well as
 - [Langs written in Rust](https://github.com/alilleybrinker/langs-in-rust) - A list of programming languages implemented in Rust, for inspiration. This is a (probably incomplete) list of languages implemented in Rust. It is intended as a source of inspiration and comparison, and as a directory of potentially interesting projects in this vein.
 - [Programming Language Database](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A computable encyclopedia about programming languages.
 - [History of Programming Languages](http://hopl.info) - HOPL: Online Historical Encyclopaedia of Programming Languages.
+- [Esolang Wiki](https://esolangs.org/wiki/) - Esolang is a wiki dedicated to esoteric programming languages and related topics. 
