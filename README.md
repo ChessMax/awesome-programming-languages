@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **658** programming languages that you might be interested in.
+The list of **659** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -367,7 +367,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Futhark](https://github.com/diku-dk/futhark) - High-performance purely functional data-parallel array programming on the GPU. Futhark is a small programming language designed to be compiled to efficient parallel code. It is a statically typed, data-parallel, and purely functional array language in the ML family, and comes with a heavily optimising ahead-of-time compiler that presently generates GPU code via CUDA and OpenCL, although the language itself is hardware-agnostic and can also run on multicore CPUs.
 - [Fux](https://github.com/Fuechs/Fux) - Flawless Unambiguous Programming - A Modern, Flexible Programming Language for All. Fux is a modern and flexible programming language, perfect for use in a variety of domains by both novice and expert developers. With its efficient use of LLVM, it provides performance similar to C++, while being portable and running on a wide range of platforms.
 - [Fuzion](https://github.com/tokiwa-software/fuzion) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
-# G (29):
+# G (30):
 - [Gambas](https://gambas.sourceforge.net/en/main.html) - Gambas is a full-featured object language and development environment built on a BASIC interpreter.
 - [GameMonkey Script](https://github.com/publicrepo/gmscript) - Embedded scripting language for C++ apps, tools and games.
 - [GAML](https://gama-platform.org/wiki/Introduction) - GAML is an agent-oriented language dedicated to the definition of agent-based simulations. It takes its roots in object-oriented languages like Java or Smalltalk, but extends the object-oriented programming approach with powerful concepts (like skills, declarative definitions or agent migration) to allow for a better expressivity in models.
@@ -375,6 +375,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/index.html) - Scripting language built into the Godot game engine. GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 - [GeneralScript](https://sourceforge.net/projects/gscript/) - GeneralScript is a lightweight general purpose scripting engine which provides Scheme like syntax.
 - [Genesis](https://github.com/elonlit/Genesis) - Genesis is an interpreted, procedural, and Turing-complete Paleo-Hebrew programming language. Diacritical signs are forgone for simplification, though maybe Nikud can be used in prospect as a means for more reserved keywords.
+- [ghūl](https://ghul.dev) - ghūl is a general-purpose, statically-typed, managed programming language. It supports object-oriented programming with functional elements through a quirky syntax reminiscent of ALGOL 68 and Pascal that aims to be both expressive and readable. The language targets .NET and interoperates with the .NET ecosystem. The [self-hosting ghūl compiler](https://github.com/degory/ghul), written entirely in ghūl, shows the language's capabilities and dogfooding philosophy.
 - [GIMI](https://sourceforge.net/projects/gimi/) - This is GIMI, the Graphical Interfaced Multitasking Interpreter. One of the few GUIs made in QuickBASIC featuring multitasking. This one has its own script language for making programs, damm fast SVGA modes, lots of programs, and more!
 - [Giml](https://gitlab.com/gilmi/giml-lang) - A functional programming language with emphasis on structural typing.
 - [Gleam](https://github.com/gleam-lang/gleam) - Gleam is a type safe functional programming language for building scalable concurrent systems. It compiles to Erlang and has straightforward interop with other BEAM languages such as Erlang, Elixir and LFE.
