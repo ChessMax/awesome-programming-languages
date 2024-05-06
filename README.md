@@ -916,3 +916,4 @@ It features a full IDE with undo support and interactive construction as well as
 - [Programming Language Database](https://github.com/breck7/pldb) - PLDB: a Programming Language Database. A computable encyclopedia about programming languages.
 - [History of Programming Languages](http://hopl.info) - HOPL: Online Historical Encyclopaedia of Programming Languages.
 - [Esolang Wiki](https://esolangs.org/wiki/) - Esolang is a wiki dedicated to esoteric programming languages and related topics.
+- [List of Chinese programming languages](https://github.com/ploc-org/zh-lang-book) - List of production ready and in development stage of programming languages in Chinese.
