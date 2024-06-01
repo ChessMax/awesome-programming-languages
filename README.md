@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **688** programming languages that you might be interested in.
+The list of **689** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -882,7 +882,7 @@ It features a full IDE with undo support and interactive construction as well as
 - [Visula](https://web.archive.org/web/20080517230024/http://visula.org/index.html) - Visula is a general-purpose visual programming language (VPL) based on object-orientation.  Visula programs are diagrams that are edited in a graphical editor.  Programmers don't write software - they draw it!
 - [Vortex](https://github.com/dibsonthis/Vortex) - Vortex is a language designed to explore links and relationships between entities. It heavily relies on side effects, and as such it would fall under the Dysfunctional Programming paradigm.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies.
-# W (12):
+# W (13):
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wak](https://sr.ht/~geb/wak/) - Stack-based text-processing language
 - [Wasp](https://github.com/wasp-lang/wasp) - Wasp (Web Application Specification) is a Rails-like framework for React, Node.js, and Prisma. Build your app in a day and deploy it with a single CLI command!
@@ -900,6 +900,7 @@ It features a full IDE with undo support and interactive construction as well as
   - A packages manager wyg(文淵閣) and awesome packages from the community.
 - [Whiley](https://github.com/Whiley/WhileyCompiler) - Whiley employs state-of-the-art techniques for ensuring your software is correct. You can specify functions using preconditions and postconditions, and then statically verify your implementation meets its specification.
 - [Wing](https://github.com/winglang/wing) - Winglang is a new open-source programming language designed for the cloud (aka "cloud-oriented"). Wing enables developers to build distributed systems that leverage cloud services as first-class citizens by combining infrastructure and application code in a safe and unified programming model (aka "cloud-oriented"). Wing programs can be executed locally (yes, no internet required) using a fully-functional simulator, or deployed to any cloud provider (yes, Wing programs are portable across providers).
+- [WisniaLang](https://github.com/belijzajac/WisniaLang) - Experimental programming language that produces tiny Linux binaries (ELF x86_64) without LLVM dependency!
 - [Wren](https://github.com/wren-lang/wren) - Wren is a small, fast, class-based concurrent scripting language.
 - [Wu](https://github.com/wu-lang/wu) - An expression oriented, gradually typed and mission-critical programming language.
 - [Wuffs](https://github.com/google/wuffs) - Wuffs (Wrangling Untrusted File Formats Safely) is a memory-safe programming language (and a standard library written in that language) for wrangling untrusted file formats safely. Wrangling includes parsing, decoding and encoding. Example file formats include images, audio, video, fonts and compressed archives.
