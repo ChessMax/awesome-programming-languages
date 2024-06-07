@@ -778,6 +778,7 @@ It features a full IDE with undo support and interactive construction as well as
 - [Roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [Rock](https://github.com/Champii/Rock) - Little language made with Rust and LLVM. Aim to follow the enforced safeness of the Rust model with a borrow checker (SoonT) and achieve high native performances thanks to LLVM. Rock is highly inspired from Livescript and Rust, and will also borrow (pun intended) some features from Crystal, from functional languages like Haskell, and even from Rust itself.
 - [Roman II](https://github.com/glouw/rr) - Roman II is a dynamic programming language with a naive mark and sweep garbage collector, all written from the ground up in about 5000 lines of the GNU11 dialect of C.
+- [RowLang] (https://github.com/tommasocerruti/rowlang) - RowLang is an esoteric minimalistic programming language designed for symbolic computation, inspired by the dynamics of rowing.
 - [RPL/2](https://web.archive.org/web/20200522210311/http://www.rpl2.net/index.php) - Reverse Polish Lisp/2 release 4.1.31, half-compiled high-level language using shared libaries and mainly aiming at scientific calculations and complex algorithms
 - [rpn](https://github.com/louisrubet/rpn) - rpn - Reverse Polish Notation CLI calculator. A math functional language using reverse (postfix) polish notation
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
