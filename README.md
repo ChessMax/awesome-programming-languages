@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **690** programming languages that you might be interested in.
+The list of **691** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -121,7 +121,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Burro](https://sr.ht/~reesmichael1/burro/) - A digital typesetting language
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
-# C (62):
+# C (63):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -170,10 +170,10 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Cish](https://github.com/TheRealMichaelWang/cish) - A minimal, performant, strongly-typed, and multi-paradigm programming language focused on being practical and pragmatic, yet powerful enough to create readable, performant and concise code for any problem. While Cish has as much to do with Forth as Javascript has with Java, it shares the same minimalist, performance oriented approach and philosophy.
 - [Citrine](http://citrine-lang.org/) - The inspiration for the Citrine Programming Language comes from Smalltalk (message-based, pure object oriented programming), JavaScript (prototypal inheritance), and BASIC (dynamic scope). The name Citrine refers to the yellow coloured gem and honours the short lived tradition to name programming languages after shiny minerals like Pe(a)rl and Ruby.
 - [CLAIRE4](https://github.com/ycaseau/CLAIRE4) - Claire is a general-purpose programming language, best suited to application software requiring sophisticated data modeling, rule processing or problem solving. WebClaire adds extensions for fuller integration with the operating system and for programming web applications.
-- [clprolf](https://github.com/charleskoffler/clprolf) - clprolf (CLear PROgramming Language and Framework) has been made for simplify programming, especially OOP. It is a superset of java. The clprolf framework is available for Java, C#, or PHP.
 - [clio](https://github.com/clio-lang/clio) - Clio is a functional, distributed programming language that compiles to JavaScript. It runs in the browser and on the server and is made to be a suitable language for scientific programming. Clio takes advantage of multiple CPUs and multiple CPU cores (parallelism) by default, is able to use network resources, is easy to run on clusters and on the cloud.
 - [Clip](https://sourceforge.net/projects/x-clip/) - Clip is CA-Clipper 5.3 compatible compiler for Linux-UNIX and Cygwin with new OO-model, FiveWin and GTK compatible GUI and many other useful features.
 - [Clojure](https://github.com/clojure/clojure) - A dialect of Lisp, and shares with Lisp the code-as-data philosophy and a powerful macro system. Clojure is predominantly a functional programming language, and features a rich set of immutable, persistent data structures. When mutable state is needed, Clojure offers a software transactional memory system and reactive Agent system that ensure clean, correct, multithreaded designs.
+- [clprolf](https://github.com/charleskoffler/clprolf) - clprolf (CLear PROgramming Language and Framework) has been made for simplify programming, especially OOP. It is a superset of java. The clprolf framework is available for Java, C#, or PHP.
 - [Clue](https://github.com/ClueLang/Clue) - Clue is a programming language that compiles into Lua code with a syntax similar to languages like C or Rust. Clue tries to be almost as simple as Lua (with only a slightly more advanced syntax) but adds many optional features that can make code look better or make some things (like metatables) easier to code. Clue does not compile to a specfic version of Lua: flags can be toggled to alter the output to allow most if not all versions or modifications of Lua to be compiled to with Clue.
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
