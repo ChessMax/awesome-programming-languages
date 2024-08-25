@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **754** programming languages that you might be interested in.
+The list of **755** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -12,7 +12,7 @@ then it's place for you. Here you can find interesting programming languages tha
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (43):
+# A (44):
 - [A+](https://web.archive.org/web/20170102191459/http://www.aplusdev.org/index.html) - A+ is a powerful and efficient programming language. It is freely available under the GNU General Public License. It embodies a rich set of functions and operators, a modern graphical user interface with many widgets and automatic synchronization of widgets and variables, asynchronous execution of functions associated with variables and events, dynamic loading of user compiled subroutines, and many other features. Execution is by a rather efficient interpreter. A+ was created at Morgan Stanley. Primarily used in a computationally-intensive business environment, many critical applications written in A+ have withstood the demands of real world developers over many years. Written in an interpreted language, A+ applications tend to be portable. 
 - [ABC](https://homepages.cwi.nl/~steven/abc/) - ABC is an interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC. It was designed by first doing a task analysis of the programming task.ABC is easy to learn (an hour or so for someone who has already programmed), and yet easy to use. Originally intended as a language for beginners, it has evolved into a powerful tool for beginners and experts alike.
 - [ABCL](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) - ABCL: An Object-Oriented Concurrent System. The tenet of our ABCL research project is to exploit both paralle. lism and object orientation. Parallelism is ubiquitous in our problem domains; parallelism is not only the source of computational power, but also promotes structural simplicity/naturalness in design and algorithm. Object-orientation accompanying parallelism, enhances system modularity, flexibility, and safety.
@@ -54,6 +54,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Ark](https://github.com/ark-lang/ark) - Ark is a systems programming language focused on being practical and pragmatic. We want a language that is simple, easy to write, yet powerful enough to create readable, performant and concise code for any problem
 - [ArkScript](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects ; the syntax is inspired by Lisp. It's a scripting language aiming for high portability and easily embedding in C++ projects, with a few nice features such as tail call optimization and macros.
 - [Arturo](https://github.com/arturo-lang/arturo) - Arturo is an independently-developed, modern programming language, vaguely related to various other ones - including but not limited to Logo, Rebol, Forth, Ruby, Haskell, D, SmallTalk, Tcl, and Lisp. The language has been designed following some very simple and straightforward principles: a) Code is just a list of words and symbols, b) Words and symbols within a block are interpreted - when needed - according to the context, c) No reserved words or keywords - look for them as hard as you can; there are absolutely none.
+- [ASPL](https://github.com/aspl-lang/aspl) - ASPL is a modern programming language featuring beautiful simplicity, seamless cross-compilation, advanced mobile support, powerful C-interoperability, and so much more. It has been designed to be practical for both beginners and experienced programmers and to help you build better software, quicker.
 - [astro](https://github.com/astrolang/astro) - Astro is a fun programming language designed for safe high-performance applications. It is essentially a statically-typed systems language that
   - facilitates rapid prototyping,
   - features high-level abstractions with zero overhead,
