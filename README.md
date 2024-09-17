@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **757** programming languages that you might be interested in.
+The list of **758** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -68,7 +68,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [AutoIt v3](https://www.autoitscript.com/site/autoit/) - is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages (e.g. VBScript and SendKeys). AutoIt is also very small, self-contained and will run on all versions of Windows out-of-the-box with no annoying "runtimes" required! AutoIt was initially designed for PC "roll out" situations to reliably automate and configure thousands of PCs. Over time it has become a powerful language that supports complex expressions, user functions, loops and everything else that veteran scripters would expect.
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
 - [AWKA](https://awka.sourceforge.net/index.html) - Awka is an open-source implementation of the AWK programming language. Awka is not an interpreter like Gawk, Mawk or Nawk, but instead it converts the program to ANSI-C, then compiles this using gcc or a native C compiler to create a binary executable. This means you must have an ANSI C compiler present on your system for Awka to work.
-# B (39):
+# B (40):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [Backlang](https://github.com/Backlang-Org/Backlang) - A new Rust, C# inspired Language for .Net
 - [BAIK](https://sourceforge.net/projects/baik) - BAIK is a scripting language which syntax is in Indonesian for Windows and Linux on Server, Desktop, Laptop and Embedded Computer, including IoT. It supports GPIO, Animation, PDF, UTF8, Printer, OOP, GUI, CGI, Databases, Graphics and TCP/IP.
@@ -90,6 +90,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Blacklight](http://blog.anthonymcook.com/blacklight/) - blacklight is a general-pupose multithreading concatenative stack-based programming language with first-class queues and objects with delegation.
 - [Blade](https://github.com/blade-lang/blade) - Blade is a simple, clean, and embeddable dynamic programming language created to be simple enough for beginners, yet powerful and expressive for professionals. It has a very small syntax set with a very low learning curve. Blade improves upon the best features of JavaScript, Python, and Ruby to give developers a familiar and powerful system that feels native for developers coming from any of these languages and an easy way to leverage the strength of any.
 - [Blech](https://github.com/boschresearch/blech) - Blech is a language for developing reactive, real-time critical embedded software.
+- [Bleach](https://github.com/vmmc2/Bleach) - Bleach: a programming language aimed for teaching introductory 'Compilers' courses.
 - [BlitzMax](https://github.com/bmx-ng/bmx-ng) - BlitzMax is a fast cross-platform, open-source programming language.
 - [Blue](https://github.com/BlueTechnologies/Blue) - The Blue Programming Language, A powerful, V E R Y Easy to use language, that can compile to eight of your favourite languages. A compiled, dynamically typed, object oriented programming language. Coming in at only 30 keywords, this is an easy to use language with unseen compiler speed. Blue is extremely powerful thanks to it's small, compact, file size. It was written in only 3200 lines of Haxe code.
 - [Bob](https://github.com/dbetz/bob) - Bob is a simple object-oriented scripting language. Bob’s syntax is similar to C or C++ but it is dynamically typed and has automatic memory management.
