@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **756** programming languages that you might be interested in.
+The list of **757** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -740,7 +740,7 @@ The script has the following characteristics:
 - [Ox](https://github.com/frenetic-lang/ox) - A platform for writing OpenFlow controllers
 - [OxygenBasic](https://github.com/Charles-Pegge/OxygenBasic) - BASIC compiler. Run programs directly, or compile to 32/64 bit binary. Supports C headers and assembly code. Supports Unicode source scripts.
 - [Oz](https://github.com/mozart/mozart2) - Oz is a multiparadigm programming language, developed in the Programming Systems Lab at Université catholique de Louvain, for programming language education. It has a canonical textbook: Concepts, Techniques, and Models of Computer Programming.
-# P (48):
+# P (49):
 - [P](https://github.com/p-org/P) - A state machine based programming language for formally modeling and specifying complex distributed systems.
 - [PAIP](https://sourceforge.net/projects/paip/) - PAIP (pipe) is a universal filter application. It uses plugins to transmit and convert data. They can be nested, so the inner structures can become quite complex (non-linear). The command-line interface is similar to a programming language and very easy.
 - [Pascal Script](https://github.com/remobjects/pascalscript) - Pascal Script is an Object Pascal/Delphi/Lazarus-compatible interpreter with bytecode compiler that delivers a scripting environment for application programs.
@@ -788,6 +788,7 @@ Furthermore you can use the Pizza compiler embedded into other applications.
 - [Preql](https://github.com/erezsh/Preql) - Preql is an interpreted, relational programming language, that specializes in database queries and compiles to SQL.
 - [Priml](https://github.com/x-Eagle-x/Priml) - Priml is a stack-oriented scripting language based on Forth and BASIC.
 - [Processing](https://github.com/processing/processing4/) - Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.
+- [Prolog](https://en.wikipedia.org/wiki/Prolog) - Prolog is a logic programming language that has its origins in artificial intelligence, automated theorem proving and computational linguistics. 
 - [Prompto](https://github.com/prompto) - The full stack language hosted in the cloud. Prompto frees you from time consuming tasks and lets you focus on making visible differences: creative web pages, meaningful data models and relevant business logic.
 - [Prose](https://prose.sourceforge.net/wiki/index.php?title=Main_Page) - In distributed computing environments, getting software components to integrate and communicate with each other can involve large teams of developers, and involve significant amounts of time and money. Such projects can be very difficult to manage. PROSE is designed from the ground-up to address these challenges with a range of innovative features that are unique to the language. It consists of:
   - A high-level modular scripting language, which compiles into bytecode
