@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **755** programming languages that you might be interested in.
+The list of **756** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -596,7 +596,7 @@ enables you to:
 - [Luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua.
 - [Lush](https://lush.sourceforge.net/) - Lush is an object-oriented programming language designed for researchers, experimenters, and engineers interested in large-scale numerical and graphic applications. Lush is designed to be used in situations where one would want to combine the flexibility of a high-level, weakly-typed interpreted language, with the efficiency of a strongly-typed, natively-compiled language, and with the easy integration of code written in C, C++, or other languages. Lush is Free Software (under the GPL license) and runs on GNU/Linux, Solaris, Irix, and Windows under Cygwin. Lush can be used advantageously for projects where one would otherwise use a combination of an interpreted language like Matlab, Python, Perl, S+, or even (gasp!) BASIC, and a compiled language like C. Lush brings the best of both worlds by wrapping three languages into one: (1) a weakly-typed, garbage-collected, dynamically scoped, interpreted language with a simple Lisp-like syntax, (2) a strongly-typed, lexically-scoped compiled language that uses the same Lisp-like syntax, and (3) the C language, which can be freely mixed with Lush code within a single program, even within a single function. It sounds complicated, but it is not. In fact, Lush is designed to be very simple to learn and easy to use. 
 - [Lux](https://github.com/LuxLang/lux) - Lux is a new programming language in the making. It's meant to be a functional, statically-typed Lisp that will run on several platforms, such as the Java Virtual Machine and JavaScript, Python, Lua, or Ruby interpreters.
-# M (49):
+# M (50):
 - [Macro Lambda Calculus](https://github.com/codedot/lambda) - lambda calculus using interaction nets, providing CLI and API. Its browserified version is available as [an online demo](https://codedot.github.io/lambda/).
 - [Magmide](https://github.com/magmide/magmide) - A dependently-typed language intended to make provably correct code possible for working software engineers.
 - [Magnet](https://github.com/marcelklehr/magnet) - Magnet is an object-oriented programming language, that is prototype-based to the point of real types being absent in favor of duck types. E.g. every object providing a read method that returns a readable, is considered "readable" (meaning it can represent a string). Since this causes a recursion, there must be some "primal" readable to end that: Such primal readable is also known as a String Object in Magnet. Furthermore, Magnet is syntax driven. This means: Everything that can be done to reduce code, retain simplicity and to amaze the developer, IS done!
@@ -618,6 +618,7 @@ enables you to:
 - [METAL](https://web.archive.org/web/20070108142555/http://www.iit.edu:80/%7Esarimar/GDS/metal.html) - METAL is a 100% free extended BASIC language metacompiler for PowerMac.
 - [MetaLang 99](https://github.com/Hirrolot/metalang99) - A functional language for C99 preprocessor metaprogramming.
 - [Min](https://github.com/h3rald/min) - A small but practical concatenative programming language and shell.
+- [MiniLang](https://github.com/NICUP14/MiniLang) - A type-safe C successor that compiles directly to various platforms. [C-killer]
 - [MiniScript](https://github.com/JoeStrout/miniscript) - MiniScript is modern, elegant, easy to learn, and easy to embed in your own C#, C++ or Kotlin projects.
 - [Minsk](https://github.com/terrajobst/minsk) - Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking.
 - [Mint](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web, aiming to solve the most common issues of Single Page Applications (SPAs) at a language level:
