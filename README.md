@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **914** programming languages that you might be interested in.
+The list of **915** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -590,14 +590,14 @@ enables you to:
 - [Julia](https://github.com/JuliaLang/julia) - Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 - [Juliet](https://www.kevinalbrecht.com/code/juliet/index.html) - A general purpose programming language.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
-# K (40):
+# K (41):
 - [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
 - [KAGSA](https://github.com/kagsa/kagsa) - KAGSA is a new Interpreted programming language based on Python, the language will be practical and reliable in your projects.
 - [Kal](http://rzimmerman.github.io/kal/) - Kal is a highly readable, easy-to-use language that compiles to JavaScript. It's designed to be asynchronous and can run both on node.js and in the browser. Kal makes asynchronous programming easy and clean by allowing functions to pause and wait for I/O, replacing an awkward callback syntax with a clean, simple syntax.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [kalimat](http://web.archive.org/web/20110610183709/https://code.google.com/p/kalimat/) - Kalimat is an educational programming language for Arabic-speaking children. It aims for readability and an easy to understand syntax while providing enough features to allow for complex, interesting and fun programs.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
-- [Kantalo](https://gitthub.com/skaylatk/kantalo) - It is a new programming language, not object-oriented, with the aim of being simpler and having a lower learning curve.
+- [Kantalo](https://github.com/skaylatk/kantalo) - It is a new programming language, not object-oriented, with the aim of being simpler and having a lower learning curve.
 - [kaoscript](https://www.kaoscript.tech/) - kaoscript is programming language combining features from ES7, CoffeeScript, TypeScript, Rust, Swift, C# and more. Currently, kaoscript is transpiled to JavaScript.
 - [Kapreolo](https://sr.ht/~jojo/kapreolo/) - an interactive functional programming language.
 - [Karel The Robot](https://karel.sourceforge.net/) - Karel The Robot is a robot simulator that affords a gentle introduction to computer programming. Users write Karel programs and feed them to the simulator to watch them execute. Karel's programming language is similar to Pascal. 
