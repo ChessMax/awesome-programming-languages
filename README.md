@@ -597,6 +597,7 @@ enables you to:
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [kalimat](http://web.archive.org/web/20110610183709/https://code.google.com/p/kalimat/) - Kalimat is an educational programming language for Arabic-speaking children. It aims for readability and an easy to understand syntax while providing enough features to allow for complex, interesting and fun programs.
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, developed fully from scratch.
+- [Kantalo](https://gitthub.com/skaylatk/kantalo) - It is a new programming language, not object-oriented, with the aim of being simpler and having a lower learning curve.
 - [kaoscript](https://www.kaoscript.tech/) - kaoscript is programming language combining features from ES7, CoffeeScript, TypeScript, Rust, Swift, C# and more. Currently, kaoscript is transpiled to JavaScript.
 - [Kapreolo](https://sr.ht/~jojo/kapreolo/) - an interactive functional programming language.
 - [Karel The Robot](https://karel.sourceforge.net/) - Karel The Robot is a robot simulator that affords a gentle introduction to computer programming. Users write Karel programs and feed them to the simulator to watch them execute. Karel's programming language is similar to Pascal. 
