@@ -60,6 +60,7 @@ then it's place for you. Here you can find interesting programming languages tha
   - features high-level abstractions with zero overhead,
   - ensures memory safety without a (tracing) Garbage Collector, and
   - supports data-race-free concurrency.
+- [atto](https://github.com/zesterer/atto) - self-hosted functional programming language 
 - [atlantis](https://sr.ht/~yieldsfalsehood/atlantis/) - a system programming language and ecosystem
 - [Atom](https://atomvm.sourceforge.net/) - is a programmable, register based virtual machine for Win32 computers. The program is a text-base console application. The VM can be programmed using a neo-assembler language called Atom Assembler. This document discusses the VM and explains each opcode in Atom Assembler.
 - [Atom](https://sr.ht/~spywhere/atom-language/) - A general purpose programming language that easy to use, read and integrated
