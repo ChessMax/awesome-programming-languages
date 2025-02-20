@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **919** programming languages that you might be interested in.
+The list of **920** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -12,7 +12,7 @@ then it's place for you. Here you can find interesting programming languages tha
 [![GitHub contributors](https://badgen.net/github/contributors/ChessMax/awesome-programming-languages)](https://GitHub.com/ChessMax/awesome-programming-languages/graphs/contributors/)
 
 ## Contents
-# A (45):
+# A (46):
 - [A+](https://web.archive.org/web/20170102191459/http://www.aplusdev.org/index.html) - A+ is a powerful and efficient programming language. It is freely available under the GNU General Public License. It embodies a rich set of functions and operators, a modern graphical user interface with many widgets and automatic synchronization of widgets and variables, asynchronous execution of functions associated with variables and events, dynamic loading of user compiled subroutines, and many other features. Execution is by a rather efficient interpreter. A+ was created at Morgan Stanley. Primarily used in a computationally-intensive business environment, many critical applications written in A+ have withstood the demands of real world developers over many years. Written in an interpreted language, A+ applications tend to be portable. 
 - [ABC](https://homepages.cwi.nl/~steven/abc/) - ABC is an interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC. It was designed by first doing a task analysis of the programming task.ABC is easy to learn (an hour or so for someone who has already programmed), and yet easy to use. Originally intended as a language for beginners, it has evolved into a powerful tool for beginners and experts alike.
 - [ABCL](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) - ABCL: An Object-Oriented Concurrent System. The tenet of our ABCL research project is to exploit both paralle. lism and object orientation. Parallelism is ubiquitous in our problem domains; parallelism is not only the source of computational power, but also promotes structural simplicity/naturalness in design and algorithm. Object-orientation accompanying parallelism, enhances system modularity, flexibility, and safety.
@@ -21,6 +21,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Ada](https://ada-lang.io/) - A programming language for readable, correct, and performant software. Get started with Alire, the Ada package manager.
 - [Adamant](https://adamant-lang.org/) - Adamant was to be a general-purpose language with high performance, deterministic safe resource management, and guaranteed thread safety.
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
+- [Adept3x](https://github.com/IsaacShelton/Adept3x) - A language designed to help maximize developer productivity and safety
 - [AdvSys](https://github.com/dbetz/advsys) - AdvSys - A Language for Writing Text Adventure Games
 - [Agda](https://github.com/agda/agda) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 - [Agena](https://sourceforge.net/projects/agena/) - Agena is an easy-to-learn procedural programming language suited to be used in scientific, mathematical, scripting, networking, and many other applications. Binaries are available for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
