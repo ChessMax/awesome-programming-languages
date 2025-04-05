@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **921** programming languages that you might be interested in.
+The list of **922** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -822,7 +822,7 @@ of the code.
 - [Myia](https://github.com/mila-iqia/myia) - Myia is a new differentiable programming language. It aims to support large scale high performance computations (e.g. linear algebra) and their gradients. The main application Myia aims to support is research in artificial intelligence, in particular deep learning algorithms.
 - [Myrddin](https://eigenstate.org/myrddin) - Myrddin is a programming language. It aims for control and simplicity. It features strong type checking, generics, type inference, closures, and traits. It aims to fit into a similar niche as C, but with fewer bullets in your feet. Myrddin does not aim to explore the forefront of type theory or compiler technology. It does not focus on guaranteeing perfect safety. It is satisfied to be a practical, small language.
 - [μC++](https://plg.uwaterloo.ca/~usystem/uC++.html) -  The μC++ project extends C++ with new constructs providing advanced control-flow including light-weight concurrency on shared-memory uni- and multi-processor computers running UNIX and Linux operating systems. μC++ accomplishes this by providing new kinds of classes: coroutines, which have independent execution states; tasks, which have their own threads; and monitors, which allow for safe communication among tasks. These new classes can take part in inheritance, overloading, and templates, just like other classes. As well, C++ exception handling is extended, allowing exceptions to propagate among coroutines and tasks. Additional capabilities include: clustering of tasks and processors, object-oriented non-blocking I/O for files and sockets, and support for real-time programming. True parallelism is achieved utilizing operating-system kernel-threads. μC++ clarifies and extends object-oriented concurrency providing generality and functionality that surpasses languages like Ada, Java, and C#. 
-# N (27):
+# N (28):
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
   - "Normal" OOP syntax
@@ -849,6 +849,7 @@ of the code.
  * Forgetting to use the return value of a function
 - [Neptune](https://github.com/Srinivasa314/neptune-lang) - A fast, a dynamically typed, concurrent and embeddable scripting language.
 - [Neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination.
+- [Neva](https://github.com/nevalang/neva) - Next-generation programming language that solves programmers' problems
 - [Never](https://github.com/never-lang/never) - Never is a simple functional programming language. Technically it may be classified as syntactically scoped, strongly typed, call by value, functional programming language.
 - [NewLang](https://github.com/rsashka/newlang) - NewLang is a high-level programming language that combines standard algorithmic constructs with declarative programming and tensor computing for machine learning problems. The main feature of the language is an easy, logical and non-contradictory syntax, which is not based on the use of reserved keywords, but on a strict system of grammatical rules using punctuation marks (which also includes language operators).
 - [newRPL](http://hpgcc3.org/projects/newrpl) - newRPL is a re-implementation of the HP48/49/50 series calculators programming environment. The RPL scripting language is being redesigned and recreated with even more powerful features.
