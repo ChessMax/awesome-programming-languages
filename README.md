@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **922** programming languages that you might be interested in.
+The list of **923** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -127,7 +127,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Burro](https://sr.ht/~reesmichael1/burro/) - A digital typesetting language
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
-# C (73):
+# C (74):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -236,6 +236,13 @@ then it's place for you. Here you can find interesting programming languages tha
 - [CSL](http://www.edm2.com/index.php/C_Scripting_Language) - The C Scripting Language (CSL) is a programming language available for Windows, OS/2 and UNIX systems. CSL follows the C syntax very closely. It is used like an interpreter: a program written with an editor can be run directly like any shell script. The CSL scripting engine can be integrated into own applications as a macro language. CSL offers two programming interfaces: A "C" API for 32-bit C compilers, and C++ class interface for selected compilers. 
 - [Cubiml](https://github.com/Storyyeller/cubiml-demo) - Cubiml is a simple ML-like programming language with subtyping and full type inference. You can try it out online in your browser [here](https://storyyeller.github.io/cubiml-demo/demo.html).
 - [Curv](http://www.curv3d.org/) - Curv is a programming language for creating art using mathematics. It’s a 2D and 3D geometric modelling tool that supports full colour, animation and 3D printing.
+- [Cxy](https://github.com/dccarter/cxy) - Cxy is a statically typed programming language that is transpiled to C. Some of the feature supported by Cxy
+  - Reference counting memory manager
+  - Compile time evaluation
+  - Compound types - tuples, unions, structs and classes
+  - Builtin unit testing framework
+  - Exception handling
+  - Standard library
 - [Cyber](https://github.com/fubark/cyber) - Cyber is a fast, efficient, and concurrent scripting language. You can embed it into your applications, games, or engines on desktop or web. Cyber also comes with a CLI, so you can do scripting on your computer.
 - [Cyclone](http://cyclone.thelanguage.org/) - Cyclone is like C: it has pointers and pointer arithmetic, structs, arrays, goto, manual memory management, and C’s preprocessor and syntax. It adds features such as pattern matching, algebraic datatypes, exceptions, region-based memory management, and optional garbage collection.
 - [Cylvre](https://cylvre-language.github.io/CylvreHome.html) - Cylvre is a strongly typed, programming language with type inference for the JVM.
