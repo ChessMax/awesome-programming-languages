@@ -1198,6 +1198,7 @@ readable, so you can focus on problems rather than ceremony.
 - [xpl](https://github.com/phorward/xpl) - eXample Programming Language. C-like language syntax; arithmetic and conditional expressions; dynamically typed; 3 data-types: integer, float, string; simple control structures (conditionals, iterations); 6 build-in functions
 - [XSB](https://xsb.sourceforge.net/) - XSB is a Logic Programming and Deductive Database system for Unix and Windows.
 - [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
+- [Xylo](https://github.com/giraffekey/xylo) - Xylo is a functional programming language for procedural art. It is written in Rust with no_std support, so it can be used to generate art almost anywhere.
 # Y (4):
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
