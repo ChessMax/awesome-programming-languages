@@ -13,7 +13,7 @@ then it's place for you. Here you can find interesting programming languages tha
 
 ## Contents
 
-<a href="A">A/> B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+<a href="A">A</a> B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 <a name="A"></a>
 
