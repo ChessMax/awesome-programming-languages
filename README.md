@@ -13,7 +13,7 @@ then it's place for you. Here you can find interesting programming languages tha
 
 ## Contents
 
-<a href="#A">A</a> B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+<a href="#A">A</a> <a href="#B">B</a> C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 <a name="A"></a>
 # A (46):
@@ -74,6 +74,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [AutoIt v3](https://www.autoitscript.com/site/autoit/) - is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages (e.g. VBScript and SendKeys). AutoIt is also very small, self-contained and will run on all versions of Windows out-of-the-box with no annoying "runtimes" required! AutoIt was initially designed for PC "roll out" situations to reliably automate and configure thousands of PCs. Over time it has become a powerful language that supports complex expressions, user functions, loops and everything else that veteran scripters would expect.
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
 - [AWKA](https://awka.sourceforge.net/index.html) - Awka is an open-source implementation of the AWK programming language. Awka is not an interpreter like Gawk, Mawk or Nawk, but instead it converts the program to ANSI-C, then compiles this using gcc or a native C compiler to create a binary executable. This means you must have an ANSI C compiler present on your system for Awka to work.
+<a name="B"></a>
 # B (43):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
 - [BabyCobol](https://slebok.github.io/baby/) - BabyCobol is a project in language design aimed at creating a language that is, on one hand, small enough to be quickly implementable (fully or partially) within any framework that can support its features, and, on the other hand, complex enough to cover typical problems of legacy language processing. If you learn how to compile MiniJava, you stand a good chance of implementing a reasonably good compiler for any contemporary programming language. If you show how your language extension works on Featherweight Java, it has a good chance of being applicable to any reasonable modern object-oriented programming language. If you can handle BabyCobol with your tool and with your skills, you are ready to face the challenges of software modernisation, codebase migration and legacy language processing in general. At this day and age, being future proof means being able to handle software of the past.
