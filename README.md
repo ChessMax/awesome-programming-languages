@@ -849,7 +849,7 @@ of the code.
 - [Myrddin](https://eigenstate.org/myrddin) - Myrddin is a programming language. It aims for control and simplicity. It features strong type checking, generics, type inference, closures, and traits. It aims to fit into a similar niche as C, but with fewer bullets in your feet. Myrddin does not aim to explore the forefront of type theory or compiler technology. It does not focus on guaranteeing perfect safety. It is satisfied to be a practical, small language.
 - [μC++](https://plg.uwaterloo.ca/~usystem/uC++.html) -  The μC++ project extends C++ with new constructs providing advanced control-flow including light-weight concurrency on shared-memory uni- and multi-processor computers running UNIX and Linux operating systems. μC++ accomplishes this by providing new kinds of classes: coroutines, which have independent execution states; tasks, which have their own threads; and monitors, which allow for safe communication among tasks. These new classes can take part in inheritance, overloading, and templates, just like other classes. As well, C++ exception handling is extended, allowing exceptions to propagate among coroutines and tasks. Additional capabilities include: clustering of tasks and processors, object-oriented non-blocking I/O for files and sockets, and support for real-time programming. True parallelism is achieved utilizing operating-system kernel-threads. μC++ clarifies and extends object-oriented concurrency providing generality and functionality that surpasses languages like Ada, Java, and C#.
 <a name="N"></a>
-# N (28):
+# N (29):
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
   - "Normal" OOP syntax
@@ -904,6 +904,14 @@ The script has the following characteristics:
   - Function execution by argument matching
 - [NScript](https://www.codeproject.com/Articles/3207/NScript-A-script-host-for-C-VB-NET-JScript-NET) - NScript is a tool similar to WScript except that it allows scripts to be written in .NET languages such as C#, VB.NET and JScript.NET. NScript automatically compiles the code into an assembly in memory and executes the assembly. The NScript setup application associates NScript with ".ncs" (for C# scripts), ".nvb" (for VB.NET scripts) and ".njs" (for JScript .NET scripts) file extensions. This enables any code written in these files to be executed directly by double clicking on these files in windows explorer. I wrote this tool when I needed to write a script for automating builds. A simple batch file was not sufficient for the task and I preferred to write code in C# as opposed to VBScript or JScript. This tool came in handy as I could modify the scripts easily and execute them by double clicking on the files in windows explorer.
 - [NullC](https://github.com/WheretIB/nullc) - Fast C-like programming language with advanced features.
+- [NumFu](https://rphle.github.io/numfu/) - A pure, interpreted, functional programming language. NumFu's simple syntax and semantics make it well-suited for educational applications, such as courses in functional programming and general programming introductions. It is also ideal for exploring mathematical ideas and sketching algorithms, thanks to its native support for arbitrary-precision arithmetic.
+  - Expressive syntax: Infix operators, spread/rest operator and easy testing
+  - Arbitrary precision arithmetic for reliable mathematical computing
+  - First-class functions with automatic partial application
+  - Tail call optimization for efficient recursive algorithms without stack overflow
+  - Interactive development with a friendly REPL and helpful errors
+  - Large standard library provided by NumFu's python bindings
+  - Minimal complexity by only having four types
 <a name="O"></a>
 # O (23):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
