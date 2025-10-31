@@ -1238,7 +1238,7 @@ readable, so you can focus on problems rather than ceremony.
 - [Xtend](https://www.eclipse.org/xtend/) - Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 8 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.
 - [Xylo](https://github.com/giraffekey/xylo) - Xylo is a functional programming language for procedural art. It is written in Rust with no_std support, so it can be used to generate art almost anywhere.
 <a name="Y"></a>
-# Y (4):
+# Y (5):
 - [Yab](https://github.com/bbjimmy/YAB) - Yab | yet another Basic for HAIKU.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
