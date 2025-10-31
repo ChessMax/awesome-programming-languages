@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **929** programming languages that you might be interested in.
+The list of **930** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1243,6 +1243,7 @@ readable, so you can focus on problems rather than ceremony.
 - [Yeti](https://github.com/mth/yeti) - Yeti is ML style functional programming language, that runs on the JVM.
 - [Yorick](https://software.llnl.gov/yorick-doc/) - Yorick is an interpreted programming language for scientific simulations or calculations, postprocessing or steering large simulation codes, interactive scientific graphics, and reading, writing, or translating large files of numbers. 
 - [Yuescript](https://github.com/pigpigyyy/Yuescript) - Yuescript is a Moonscript dialect. It is derived from Moonscript language 0.5.0 and continuously adopting new features to be more up to date. Moonscript is a language that compiles to Lua. Since original Moonscript has been used to write web framework lapis and run a few business web sites like itch.io and streak.club with some large code bases. The original language is getting too hard to adopt new features for those may break the stablility for existing applications.
+- [Yuji](https://github.com/0xM4LL0C/yuji) - tiny scripting language in C
 <a name="Z"></a>
 # Z (8):
 - [Z#](https://github.com/sam-astro/Z-Sharp) - Z-Sharp is a custom programming language I made because I don't like c++ very much (Z-Sharp's interpreter is written in c++ though). Z-Sharp scripts have the file extension .ZS. The base syntax and formatting I would say is quite similar to C# or Python, but differs as task complexity increases. It also has support for graphics using SDL2.
