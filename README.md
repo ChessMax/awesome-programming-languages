@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **930** programming languages that you might be interested in.
+The list of **931** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -309,7 +309,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Dylan](https://github.com/dylan-lang/opendylan) - Dylan is a multi-paradigm functional and object-oriented programming language. It is dynamic while providing a programming model designed to support efficient machine code generation, including fine-grained control over dynamic and static behaviors.
 - [Dyon](https://github.com/PistonDevelopers/dyon) - A rusty dynamically typed scripting language.
 <a name="E"></a>
-# E (37):
+# E (38):
 - [E](http://www.erights.org/) - E is an object-capability programming language and platform for writing distributed, secure, and robust software.
 - [Easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser. Easylang is a rather minimalistic simple programming language. Because of the clear syntax and semantics it is well suited as a teaching and learning language. Functions for graphic output and mouse input are built into the language. The language is written in C and is open source. Main target platform is the web browser using WASM. However, it also runs natively in Windows and Linux. The one-pass parser and compiler is quite fast. In the Web IDE, each time the Enter key is pressed, the program is parsed and formatted up to the current line.
 - [eC](https://github.com/ecere/ecere-sdk) - An Expressive and Intuitive, C Style Object-Oriented Programming Language. eC comes bundled with the [Ecere SDK](https://ecere.org/), providing a comprehensive API for building apps ranging from games to business, for desktop, mobile and web platforms.
@@ -328,6 +328,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [ELFE](https://github.com/c3d/elfe) - ELFE (Extensible Language for Everyday (and the Internet of Things)) is a very simple and small programming language specifcally designed for everyday programming, notably for the Internet of Things. While ELFE is a general-purpose programming language, it is designed to facilitate the configuration and control of swarms of small devices such as sensors or actuators. It can also be used as a powerful, remotely-accessible extension language for larger applications. 
 - [Elijah](https://sr.ht/~tripleo/el-fluffy-umbrella/) - a high-level language suitable for replacement of C/C++ and Java. (And of course any other language in existence or non-existence, except FORTRAN and NULL.)
 - [Elixir](https://github.com/elixir-lang/elixir) - A dynamic, functional language for building scalable and maintainable applications. Elixir leverages the Erlang VM, known for running low-latency, distributed, and fault-tolerant systems. Elixir is successfully used in web development, embedded software, data ingestion, and multimedia processing, across a wide range of industries.
+- [Elle](https://github.com/acquitelol/elle) - Elle is a procedural programming language built in Rust which compiles to the QBE backend. It focuses on simplicity and ease of use.
 - [Elm](https://github.com/elm/compiler/) - Elm is a functional language that compiles to JavaScript. It helps you make websites and web apps. It has a strong emphasis on simplicity and quality tooling.
 - [Elvish](https://github.com/elves/elvish) - Elvish is an expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
 - [EML](https://homepages.inf.ed.ac.uk/dts/eml/) - Extended ML (EML) is a framework for specification and formal development of Standard ML (SML) programs. EML specifications look just like SML programs except that axioms are allowed in signatures and in place of code in structures and functors. Some EML specifications are executable, since SML function definitions are just axioms of a certain special form. This makes EML a "wide-spectrum" language which can be used to express every stage in the development of a SML program from the initial high-level specification to the final program itself and including intermediate stages in which specification and program are intermingled. 
