@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **932** programming languages that you might be interested in.
+The list of **933** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -16,7 +16,7 @@ then it's place for you. Here you can find interesting programming languages tha
 <a href="#A">A</a> <a href="#B">B</a> <a href="#C">C</a> <a href="#D">D</a> <a href="#E">E</a> <a href="#F">F</a> <a href="#G">G</a> <a href="#H">H</a> <a href="#I">I</a> <a href="#J">J</a> <a href="#K">K</a> <a href="#L">L</a> <a href="#M">M</a> <a href="#N">N</a> <a href="#O">O</a> <a href="#P">P</a> <a href="#Q">Q</a> <a href="#R">R</a> <a href="#S">S</a> <a href="#T">T</a> <a href="#U">U</a> <a href="#V">V</a> <a href="#W">W</a> <a href="#X">X</a> <a href="#Y">Y</a> <a href="#Z">Z</a>
 
 <a name="A"></a>
-# A (48):
+# A (49):
 - [A+](https://web.archive.org/web/20170102191459/http://www.aplusdev.org/index.html) - A+ is a powerful and efficient programming language. It is freely available under the GNU General Public License. It embodies a rich set of functions and operators, a modern graphical user interface with many widgets and automatic synchronization of widgets and variables, asynchronous execution of functions associated with variables and events, dynamic loading of user compiled subroutines, and many other features. Execution is by a rather efficient interpreter. A+ was created at Morgan Stanley. Primarily used in a computationally-intensive business environment, many critical applications written in A+ have withstood the demands of real world developers over many years. Written in an interpreted language, A+ applications tend to be portable. 
 - [ABC](https://homepages.cwi.nl/~steven/abc/) - ABC is an interactive programming language and environment for personal computing, originally intended as a good replacement for BASIC. It was designed by first doing a task analysis of the programming task.ABC is easy to learn (an hour or so for someone who has already programmed), and yet easy to use. Originally intended as a language for beginners, it has evolved into a powerful tool for beginners and experts alike.
 - [ABCL](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) - ABCL: An Object-Oriented Concurrent System. The tenet of our ABCL research project is to exploit both paralle. lism and object orientation. Parallelism is ubiquitous in our problem domains; parallelism is not only the source of computational power, but also promotes structural simplicity/naturalness in design and algorithm. Object-orientation accompanying parallelism, enhances system modularity, flexibility, and safety.
@@ -36,6 +36,7 @@ then it's place for you. Here you can find interesting programming languages tha
   - ⛓ Automatic IO concurrency and parallelism across events and arrays - Alan exploits opportunities for IO concurrency or CPU parallelization across machines in a cluster via arrays and a static event loop without threads, channels, promises, futures, locks, etc;
   - ✅ Almost no runtime errors - No deadlocks, livelocks, undefined variables, divide-by-zero, integer under/overflow, array out-of-bounds access, etc;
   - ⚡️ No GC pauses - Alan’s runtime manages memory allocation, access, and deallocation for you like Java, Python, or Javascript. However, Alan’s static event system and automatic event-oriented memory model does so without garbage collector pauses.
+- [Alain](https://sr.ht/~carlomonte/Alain/) - Symbolic logic/relational programming from first principles : structural types emerge from unification of pervasive list structures (including strings), first-class predicates enable meta-programming without side effects (assert/retract), deterministic OR-parallel search, equality and disequality through variable naming alone.
 - [Albatross](https://albatross-lang.sourceforge.net/) - Albatross is
   - A Programming Language with Static Verification: You can develop programs and algorithms and prove them to be correct in Albatross. 
   - A Proof Assistant: Arbitrary mathematical theories can be expressed and proved in Albatross
