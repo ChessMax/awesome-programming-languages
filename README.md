@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **931** programming languages that you might be interested in.
+The list of **932** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -75,6 +75,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [AutoIt v3](https://www.autoitscript.com/site/autoit/) - is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. It uses a combination of simulated keystrokes, mouse movement and window/control manipulation in order to automate tasks in a way not possible or reliable with other languages (e.g. VBScript and SendKeys). AutoIt is also very small, self-contained and will run on all versions of Windows out-of-the-box with no annoying "runtimes" required! AutoIt was initially designed for PC "roll out" situations to reliably automate and configure thousands of PCs. Over time it has become a powerful language that supports complex expressions, user functions, loops and everything else that veteran scripters would expect.
 - [Avail](https://github.com/AvailLang/Avail) - Avail is a multi-paradigmatic general purpose programming language whose feature set emphasizes support for articulate programming. Avail is an open-source project that comprises a language virtual machine and a standard library.
 - [AWKA](https://awka.sourceforge.net/index.html) - Awka is an open-source implementation of the AWK programming language. Awka is not an interpreter like Gawk, Mawk or Nawk, but instead it converts the program to ANSI-C, then compiles this using gcc or a native C compiler to create a binary executable. This means you must have an ANSI C compiler present on your system for Awka to work.
+- [Axe](https://axelang.org) - Axe is a modern, open source, compiled programming language with builtin parallelism, and no garbage collector. It prioritizes concurrent features as a core language construct, and provides a clean syntax to allow for writing explicit, understandable code.
 <a name="B"></a>
 # B (43):
 - [B4X](https://www.b4x.com/) - Simple, powerful and modern development tools. With B4X, anyone who wants to, can develop real-world solutions.
