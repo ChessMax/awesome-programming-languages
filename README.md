@@ -1146,7 +1146,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Swallow](https://git.sr.ht/~muqiu_han/swallow) - A minimalist functional programming language
 - [Sylvan](https://sr.ht/~remexre/sylvan/) - A general-purpose programming language that aspires to have support for attribute grammars, managed effects, and efficient pure functional programming.
 <a name="T"></a>
-# T (28):
+# T (29):
 - [T3X](https://t3x.org/t3x/) - T3X is a small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language. Its syntax is similar to Pascal, its semantics resembles BCPL's.
 - [T3XFORTH](https://t3x.org/t3xforth/index.html) - T3XFORTH is an old-school, plain vanilla FORTH system that is mostly compatible to FORTH-79 with some parts borrowed from FIG FORTH, FORTH-83, and EFORTH, and taking some inspiration from Leo Brodie's (classic, 1983) book, "Starting FORTH". T3XFORTH runs on 8086 processors under DOS on an IBM PC, or stand-alone using the PC BIOS. It can also run on 32-bit Unix systems using a T3XFORTH VM emulator. 
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
@@ -1161,6 +1161,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Teal](https://github.com/teal-language) - A typed dialect of Lua
 - [Terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
 - [ThinBasic](https://www.thinbasic.com/) - Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
+- [Titan](https://github.com/ACoder735/Titan-PL) - A simple, readable, and fast language that compiles to C and offers a more powrful alternative to Python.
 - [Thistle](https://alycesrestaurant.com/thistle) - Thistle is a programming language and compiler, suitable for introductory programming instruction. It creates a single file, compiled executable application. Thistle comes with a code editor, helpfile, sample code, and the FASM assembler. There are two versions of Thistle. Thistle creates a console application. Thistle-Win creates a Windows application.
 - [Thon](https://sr.ht/~thon/thon/) - a small functional language
 - [Timid](https://github.com/mastersneeza/TimidTheThird) - A small programming language that made to be able to quickly solve problems like tedious math homework in as little time as possible (as in runtime). Also, it's possible to compile code once, and run anywhere using the Timid Runtime.
