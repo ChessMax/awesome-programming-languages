@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **942** programming languages that you might be interested in.
+The list of **943** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -858,7 +858,7 @@ of the code.
 - [μC++](https://plg.uwaterloo.ca/~usystem/uC++.html) -  The μC++ project extends C++ with new constructs providing advanced control-flow including light-weight concurrency on shared-memory uni- and multi-processor computers running UNIX and Linux operating systems. μC++ accomplishes this by providing new kinds of classes: coroutines, which have independent execution states; tasks, which have their own threads; and monitors, which allow for safe communication among tasks. These new classes can take part in inheritance, overloading, and templates, just like other classes. As well, C++ exception handling is extended, allowing exceptions to propagate among coroutines and tasks. Additional capabilities include: clustering of tasks and processors, object-oriented non-blocking I/O for files and sockets, and support for real-time programming. True parallelism is achieved utilizing operating-system kernel-threads. μC++ clarifies and extends object-oriented concurrency providing generality and functionality that surpasses languages like Ada, Java, and C#.
 <a name="N"></a>
 # N (30):
-- [NAAb](https://github.com/b-macker/NAAb) - NAAb is a polyglot programming language that integrates Python, JavaScript, Rust, C++, Go, C#, Ruby, PHP, Shell, Nim, Zig, and Julia through an innovative block system. Write the best language for each task in a single file with automatic variable flow between languages. Features a built-in LLM governance engine with 50+ checks, 12 stdlib modules, lambda expressions, pattern matching, and a recursive descent parser built on 15,000+ lines of C++17.
+- [NAAb](https://github.com/b-macker/NAAb) - NAAb is a polyglot programming language that integrates Python, JavaScript, Rust, C++, Go, C#, Ruby, PHP, Shell, Nim, Zig, and Julia through an innovative block system. Write the best language for each task in a single file with automatic variable flow between languages. Features a built-in LLM governance engine with 50+ checks, 12 stdlib modules, lambda expressions, pattern matching, and a recursive descent parser built on 15,000+ lines of C++17. [AI]
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
   - "Normal" OOP syntax
