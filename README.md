@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **946** programming languages that you might be interested in.
+The list of **947** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -673,7 +673,7 @@ enables you to:
 - [KPHP](https://vkcom.github.io/kphp/) - KPHP takes your PHP source code and converts it to a C++ equivalent, then compiles the generated C++ code and runs it within an embedded HTTP server. You could call KPHP a transpiler, but we call it a compiler.
 - [Ksi Scheme](https://sourceforge.net/projects/ksi/) - Ksi is a portable, embeddable Scheme implementation written in C.
 <a name="L"></a>
-# L (73):
+# L (74):
 - [L](https://l-lang.org/) - L is a high-level, open-source, general-purpose and system programming language which emphasizes readability, simplicity, extensibility, conciseness and performance. The L compiler features native code generation through LLVM, and is fully documented in a literate programming style. The language and compiler are usable, but are under heavy development as new features are being implemented.
 - [L](https://web.archive.org/web/20181108232826/http://home.cc.gatech.edu/tony/61) - L is both a language and an operating environment, like Smalltalk. It is capability-secure and distributed, like E. The language is a derivative of lambda calculus, hence it is small, block-structured, dynamically-typed, and functional. State is implicitly threaded through all function calls and returns, allowing simulation of dynamic scope and side-effects. Each thread runs in its own transaction, upon completion its state changes are committed. Any concurrent threads that conflict are aborted and re-executed at a higher priority. Each commited state change is an event. Event handlers spawn new threads (repeating the cycle).
 - [L+](https://code.google.com/archive/p/lpcompiler/) - The language our compiler takes as input, called L+, supports most constructs from C (variables, branches, loops, functions, recursion and I/O) albeit with some limitations and some additions. The L+ compiler generates Java Bytecode. L+ programs can be run on any platform with a Java VM installed.
