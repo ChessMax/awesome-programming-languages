@@ -53,6 +53,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) - APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E. Iverson. Its central datatype is the multidimensional array. It uses a large range of special graphic symbols to represent most functions and operators, leading to very concise code. It has been an important influence on the development of concept modeling, spreadsheets, functional programming, and computer math packages. It has also inspired several other programming languages.
 - [APLX](https://microapl.com/APL/index.html) - is an advanced, second generation implementation of the APL language, closely based on IBM's APL2, but with a number of important enhancements.
 - [April](https://github.com/phantomics/april) - April (Array Programming Re-Imagined in Lisp) - The APL programming language (a subset thereof) compiling to Common Lisp.
+- [Arianna Method Language](https://github.com/ariannamethod/ariannamethod.ai) - A machine learning language for transformers, implemented in C.
 - [Arend](https://github.com/JetBrains/Arend) - Arend is a theorem prover and a programming language based on Homotopy Type Theory.
 - [Argo](https://github.com/sviperll/argo) - Pragmatic functional programming language.
 - [Argon](https://github.com/argonlang/argon) - Argon is an interpreted multi-paradigm dynamically typed programming language. Its syntax is mainly influenced by Python, Go and Rust.
