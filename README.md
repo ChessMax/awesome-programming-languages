@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **953** programming languages that you might be interested in.
+The list of **954** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1250,9 +1250,10 @@ readable, so you can focus on problems rather than ceremony.
   - A simple but powerful capability-safe module system
   - Support for various aspects of software architecture within the running system
 <a name="X"></a>
-# X (12):
+# X (13):
 - [X Language](https://www.nongnu.org/xlang/) - X Language is a new multi-syntax programming including a portable set of APIs to create console or graphical applications runnable on many platforms (UNIX/X11, Win32, ...). X Language comes with an interpreter, a compiler and a debugger.
 - [X#](https://github.com/X-Sharp/XSharpPublic) - X# is an open source development language for .NET, based on the xBase language. It comes in different flavours, such as Core, Visual Objects, Vulcan.NET, xBase++, Harbour, Foxpro and more. X# has been built on top of Roslyn, the open source architecture behind the current Microsoft C# and Microsoft Visual Basic compilers.
+- [XCX](https://github.com/xcxlang-org) - XCX is a statically typed, multi-paradigm backend programming language featuring a Rust-based bytecode VM and a Cranelift-based tracing JIT compiler. It comes with built-in HTTP, JSON, SQLite, and cryptography support, making it well-suited for backend and server-side workloads out of the box.
 - [X10](https://github.com/x10-lang/x10) - X10 is a statically-typed object-oriented language, extending a sequential core language with places, activities, clocks, (distributed, multi-dimensional) arrays and struct types. All these changes are motivated by the desire to use the new language for high-end, high-performance, high-productivity computing.
 - [XIDEK](http://www.parsifalsoft.com/examples/xidek/index.html) - XIDEK provides technical guidance and source code so that you can readily design and implement an interpreter according to your own requirements. You may need, for example, to create a special interpreter for a domain specific language, script language, or other "little language". XIDEK can save you weeks or months of work. It gives you parsers, support modules, explanations, examples, organization and a framework upon which you can build.
 - [XL](https://github.com/c3d/xl/tree/master) - A minimalist, general-purpose programming language based on meta-programming and parse tree rewrites
