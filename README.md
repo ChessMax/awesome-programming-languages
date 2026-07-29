@@ -1159,7 +1159,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Swallow](https://git.sr.ht/~muqiu_han/swallow) - A minimalist functional programming language
 - [Sylvan](https://sr.ht/~remexre/sylvan/) - A general-purpose programming language that aspires to have support for attribute grammars, managed effects, and efficient pure functional programming.
 <a name="T"></a>
-# T (28):
+# T (29):
 - [T3X](https://t3x.org/t3x/) - T3X is a small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language. Its syntax is similar to Pascal, its semantics resembles BCPL's.
 - [T3XFORTH](https://t3x.org/t3xforth/index.html) - T3XFORTH is an old-school, plain vanilla FORTH system that is mostly compatible to FORTH-79 with some parts borrowed from FIG FORTH, FORTH-83, and EFORTH, and taking some inspiration from Leo Brodie's (classic, 1983) book, "Starting FORTH". T3XFORTH runs on 8086 processors under DOS on an IBM PC, or stand-alone using the PC BIOS. It can also run on 32-bit Unix systems using a T3XFORTH VM emulator. 
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
@@ -1179,6 +1179,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Timid](https://github.com/mastersneeza/TimidTheThird) - A small programming language that made to be able to quickly solve problems like tedious math homework in as little time as possible (as in runtime). Also, it's possible to compile code once, and run anywhere using the Timid Runtime.
 - [Tint](https://tintware.sourceforge.net/index.html) - Tint is a string substition language; it is intended to be used as an extention language. Tint Emacs is an emacs clone for Win32, Mac OS X, Darwin, and Linux. It uses Tint as its extension language.
 - [Tinymoe](https://github.com/vczh/tinymoe) - English-like programming language, for DSL (Domain Specific Language) building and embedding, with dynamic typing, multiple dispatching and build-in continuation.
+- [Tim](https://github.com/tim-engine/tim) - Tim is an embeddable DSL front-end engine with a built-in scripting language, bytecode VM, source-to-source transpiler, package manager, and more, designed for writing decoupled front-end development.
 - [Toka](https://code.google.com/archive/p/toka/) - Toka is a concatenative programming language related to Forth. It should be easy to learn, extend, and use. Development is ongoing, and updates occur almost daily.
 The language is not compatible with any known existing Forth implementation, although some Forth code can be ported to Toka. Among the provided features are a memory allocator with basic garbage collection, dynamic allocations for functions and data, a decompiler, and a basic FFI.
 The implementation was designed to be easily portable between Unix-like systems
