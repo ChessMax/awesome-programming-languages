@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **957** programming languages that you might be interested in.
+The list of **958** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -146,7 +146,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
 <a name="C"></a>
-# C (76):
+# C (77):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -210,6 +210,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Cmajor](https://github.com/slaakko/cmajorm) - Cmajor is an experimental programming language strongly influenced by C++ and C#. It is semantically closer to C++ than C# and syntactically closer to C# than C++.
 - [Cmajor](https://github.com/SoundStacks/cmajor) - Cmajor is a programming language for writing fast, portable audio software. Cmajor specifically designed for writing DSP signal processing code.
 - [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - CMOC is a 6809-generating cross-compiler for a large subset of the C language. It generates assembly language code for the Motorola 6809 processor and targets the Tandy Color Computer, the Dragon computer, the Vectrex video game console, the Thomson MO and TO computers, and the OS-9 and FLEX operating systems. It runs under GNU/Linux and other Unix-like environments like Darwin and Cygwin. It requires the LWTOOLS assembler (lwasm) and linker, by William Astle. 
+- [Coal](https://coal-lang.org/) - A statically typed, purely functional programming language with full type inference, totality, and simple syntax. Coal distinguishes between data and codata and enforces structural recursion.
 - [COBOL](https://en.wikipedia.org/wiki/COBOL) - COBOL is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language.
 - [Coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [Cod](https://github.com/justlucdewit/cod) - Cod is an opensource concatenative stack-based general purpose programming language. Its transpiled to C and then compiled further to a native executable using external compilers like GCC.
