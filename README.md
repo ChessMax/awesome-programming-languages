@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **958** programming languages that you might be interested in.
+The list of **959** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1100,7 +1100,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 <a name="S"></a>
-# S (55):
+# S (56):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
 - [Sapphire](https://github.com/foxzyt/Sapphire) - A high-performance hybrid programming language designed for simplicity and efficiency. 
 Sapphire operates on a custom Virtual Machine (VM) with an optimized Garbage Collector (GC) to ensure stable memory management.
@@ -1113,6 +1113,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Seed7](https://github.com/ThomasMertes/seed7) - Seed7 is a higher level language compared to Ada, C++ and Java.
 - [Self](https://selflanguage.org/) - Self is a prototype-based dynamic object-oriented programming language, environment, and virtual machine centered around the principles of simplicity, uniformity, concreteness, and liveness.
 - [Sema](https://sema-lang.com) - Sema is a Lisp with first-class LLM and agent primitives, implemented in Rust on a bytecode VM. It pairs a Scheme-style core (define, lambda, cond) with Clojure-flavored data literals (maps, vectors, keywords, short lambdas), pattern matching, async, and built-in HTTP/JSON, plus LSP/DAP tooling and a WASM browser playground. [AI]
+- [Semaprax](https://wavect.io/semaprax/) - An experimental agent-native systems programming language built around a stable semantic program graph. Its v0.2 prototype supports typed semantic queries, revision-bound semantic patches, and verified native and browser/Wasm subsets. [Source](https://github.com/wavect/semaprax). [AI]
 - [Senegal](https://github.com/SenegalLang/Senegal) - Senegal is a powerful, small-but-fast, concurrent, class-based, and dynamically-typed programming language with a modern syntax.
 - [SharpTS](https://github.com/nickna/SharpTS) - SharpTS is an implementation of a TypeScript which runs in the .net virtual machine.
 - [shc](https://web.archive.org/web/20060205004344/http://www.datsi.fi.upm.es:80/~frosal/frosal.html) - shc - Generic shell script compiler
