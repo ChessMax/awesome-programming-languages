@@ -873,6 +873,7 @@ of the code.
 <a name="N"></a>
 # N (30):
 - [NAAb](https://github.com/b-macker/NAAb) - NAAb is a polyglot programming language that integrates Python, JavaScript, Rust, C++, Go, C#, Ruby, PHP, Shell, Nim, Zig, and Julia through an innovative block system. Write the best language for each task in a single file with automatic variable flow between languages. Features a built-in LLM governance engine with 50+ checks, 12 stdlib modules, lambda expressions, pattern matching, and a recursive descent parser built on 15,000+ lines of C++17. [AI]
+- [Nudge](https://github.com/NekomyaDev/nudge) - A typed, replayable, budget-aware programming language for LLM agents. Compiles to Python & TypeScript. Features typed LLM calls with schema validation, deterministic replay, budget contracts, effect system, and native parallelism.
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
   - "Normal" OOP syntax
