@@ -1229,13 +1229,14 @@ readable, so you can focus on problems rather than ceremony.
 - [Vortex](http://projectsweb.cs.washington.edu/research/projects/cecil/www/vortex.html) - Vortex is a language-independent optimizing compiler infrastructure for object-oriented and other high-level languages, written entirely in Cecil. It primarily operates as a whole-program optimizer, performing aggressive analyses and optimizations given the whole program. It has front-ends for Cecil, Diesel, Smalltalk, Java, C++, and Modula-3. These front-ends translate into the Vortex RTL intermediate language. Vortex produces either portable C++ code or SPARC assembly code.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies.
 <a name="W"></a>
-# W (14):
+# W (15):
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wak](https://sr.ht/~geb/wak/) - Stack-based text-processing language
 - [Wasp](https://github.com/wasp-lang/wasp) - Wasp (Web Application Specification) is a Rails-like framework for React, Node.js, and Prisma. Build your app in a day and deploy it with a single CLI command!
   - 🚀 Quick start: Due to its expressiveness, you can create and deploy a production-ready web app from scratch with very few lines of concise, consistent, declarative code.
   - 😌 No boilerplate: By abstracting away complex full-stack features, there is less boilerplate code. That means less code to maintain and understand! It also means easier upgrades.
   - 🔓 No lock-in: You can deploy the Wasp app anywhere you like. There is no lock-in into specific providers; you have full control over the code (and can actually check it out in .wasp/ dir if you are interested ).
+- [Wave](https://wave-lang.dev/) - A statically typed, compiled general-purpose programming language for building native software.
 - [Wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀.
 - [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
