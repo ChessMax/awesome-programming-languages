@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **960** programming languages that you might be interested in.
+The list of **961** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -871,7 +871,7 @@ of the code.
 - [Myrddin](https://eigenstate.org/myrddin) - Myrddin is a programming language. It aims for control and simplicity. It features strong type checking, generics, type inference, closures, and traits. It aims to fit into a similar niche as C, but with fewer bullets in your feet. Myrddin does not aim to explore the forefront of type theory or compiler technology. It does not focus on guaranteeing perfect safety. It is satisfied to be a practical, small language.
 - [μC++](https://plg.uwaterloo.ca/~usystem/uC++.html) -  The μC++ project extends C++ with new constructs providing advanced control-flow including light-weight concurrency on shared-memory uni- and multi-processor computers running UNIX and Linux operating systems. μC++ accomplishes this by providing new kinds of classes: coroutines, which have independent execution states; tasks, which have their own threads; and monitors, which allow for safe communication among tasks. These new classes can take part in inheritance, overloading, and templates, just like other classes. As well, C++ exception handling is extended, allowing exceptions to propagate among coroutines and tasks. Additional capabilities include: clustering of tasks and processors, object-oriented non-blocking I/O for files and sockets, and support for real-time programming. True parallelism is achieved utilizing operating-system kernel-threads. μC++ clarifies and extends object-oriented concurrency providing generality and functionality that surpasses languages like Ada, Java, and C#.
 <a name="N"></a>
-# N (30):
+# N (31):
 - [NAAb](https://github.com/b-macker/NAAb) - NAAb is a polyglot programming language that integrates Python, JavaScript, Rust, C++, Go, C#, Ruby, PHP, Shell, Nim, Zig, and Julia through an innovative block system. Write the best language for each task in a single file with automatic variable flow between languages. Features a built-in LLM governance engine with 50+ checks, 12 stdlib modules, lambda expressions, pattern matching, and a recursive descent parser built on 15,000+ lines of C++17. [AI]
 - [Nasal](https://web.archive.org/web/20140626001245/http://www.plausible.org/nasal/) - Nasal: Not another scripting language!
   - Vectors, Hashes and Scalars (number/strings)
@@ -912,6 +912,7 @@ of the code.
 - [Nix](https://nixos.wiki/wiki/Nix_Expression_Language) - Expression language for the Nix package manager. The Nix expression language is a pure, lazy, functional language.
 - [Noja](https://github.com/cozis/Noja) - Noja is a high level language with dynamic typing inspired from CPython, which features an import system, type assertions, multiple return values and more!
 - [North-Hollywood Python](https://github.com/TheRealMichaelWang/NoHoPython) - A strongly-typed, memory-safe, compiled dialect of Python, that transpiles to human-readable C.
+- [NOVA](https://github.com/ieeecsopen/NOVA) - NOVA is a constraint-native research-preview language unifying object-capability security and row-typed effect systems: authority to touch the outside world is an unforgeable token passed explicitly, and a function's effects are part of its checked type signature, so a closure cannot silently launder captured capability into a context that expects a pure function.
 - [Nosica](http://nosicalanguage.free.fr/) - Nosica is an Object-Oriented language, with a syntax similar to Java or C++, and with advanced high level features such as a strong type system, automatic memory management, and global code optimisation. Nosica is developped in Java(gcj) and is GPLed. The compiler is not very usable yet even if you can write non trivial programs. For example, the Nosica standard library already contains generic containers like Vector, or Map. The compiler translates Nosica source code into C and calls gcc to compiles the result in an executable.
 - [notc](https://github.com/dbetz/notc) - This is a simple interpreter with c-like syntax.
 - [Nox](https://codeberg.org/nox-language/nox) - Nox is a programming language written in Rust. Memory and thread safety without compromising performance are the most important goal. Performance is also the most important goal. The language should be as simple as it possibly can given the above goals.
