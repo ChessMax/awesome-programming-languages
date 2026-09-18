@@ -936,7 +936,7 @@ The script has the following characteristics:
   - Large standard library provided by NumFu's python bindings
   - Minimal complexity by only having four types
 <a name="O"></a>
-# O (24):
+# O (25):
 - [Oak](https://github.com/adam-mcdaniel/oakc) - A portable programming language with an incredibly compact backend.
 - [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) - Oberon is a general-purpose programming language first published in 1987 by Niklaus Wirth and the latest member of the Wirthian family of ALGOL-like languages (Euler, ALGOL W, Pascal, Modula, and Modula-2).
 - [Oberon+](https://github.com/rochus-keller/Oberon) - Oberon+ is a general-purpose, procedural and object-oriented programming language in the tradition of Oberon-07 and Oberon-2. The most important features of Oberon+ are block structure, modularity, separate compilation, static typing with strong type checking, generic programming, garbage collection, and type extension with type-bound procedures.
@@ -960,6 +960,7 @@ The script has the following characteristics:
 - [Odin](https://github.com/odin-lang/Odin) - The Odin programming language is designed with the intent of creating an alternative to C.
 - [Oil](https://github.com/oilshell/oil) - Oil is a new Unix shell. It's our upgrade path from bash to a better language and runtime.
 - [Okta](https://github.com/mikelma/oktac) - Okta is a new open source, general-purpose programming language that, although it's still in its childhood, aims to provide a simple platform to create low level, efficient software.
+- [Oli-Nat](https://github.com/NateTheGrappler/OliNat-Programming-Language) - A statically-typed programming language with its own hand-written bytecode compiler and virtual machine, built in C from scratch with no external dependencies, including a custom garbage collector.
 - [One](https://github.com/One-Language/One) - It is an open source, self-hosted, bootstrapping system programming language which makes it easy to build reliable and efficient software. One is a programming language that makes it easy to build reliable, efficient and performant software. [system]
 - [Onyx](https://onyxlang.io/) - A data-oriented, expressive, and modern programming language
 - [OpenComal](https://www.josvisser.nl/opencomal/) - OpenComal is a portable and free implementation of the Comal programming language written by moi. Currently supported platforms are Unix, MsDos and Win32 (95, 98, NT, 2000, XP and whatever they come up with next :-) Comal is a crossover between Basic and Pascal, with the best features of both and none of the drawbacks of either.
