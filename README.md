@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **961** programming languages that you might be interested in.
+The list of **963** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -684,7 +684,7 @@ enables you to:
 - [KPHP](https://vkcom.github.io/kphp/) - KPHP takes your PHP source code and converts it to a C++ equivalent, then compiles the generated C++ code and runs it within an embedded HTTP server. You could call KPHP a transpiler, but we call it a compiler.
 - [Ksi Scheme](https://sourceforge.net/projects/ksi/) - Ksi is a portable, embeddable Scheme implementation written in C.
 <a name="L"></a>
-# L (74):
+# L (75):
 - [L](https://l-lang.org/) - L is a high-level, open-source, general-purpose and system programming language which emphasizes readability, simplicity, extensibility, conciseness and performance. The L compiler features native code generation through LLVM, and is fully documented in a literate programming style. The language and compiler are usable, but are under heavy development as new features are being implemented.
 - [L](https://web.archive.org/web/20181108232826/http://home.cc.gatech.edu/tony/61) - L is both a language and an operating environment, like Smalltalk. It is capability-secure and distributed, like E. The language is a derivative of lambda calculus, hence it is small, block-structured, dynamically-typed, and functional. State is implicitly threaded through all function calls and returns, allowing simulation of dynamic scope and side-effects. Each thread runs in its own transaction, upon completion its state changes are committed. Any concurrent threads that conflict are aborted and re-executed at a higher priority. Each commited state change is an event. Event handlers spawn new threads (repeating the cycle).
 - [L+](https://code.google.com/archive/p/lpcompiler/) - The language our compiler takes as input, called L+, supports most constructs from C (variables, branches, loops, functions, recursion and I/O) albeit with some limitations and some additions. The L+ compiler generates Java Bytecode. L+ programs can be run on any platform with a Java VM installed.
@@ -694,6 +694,7 @@ enables you to:
 - [Laby](https://sgimenez.github.io/laby/) - Your robot ant can be programmed in many languages: OCaml, Python, C, C++, Java, Ruby, Lua, JavaScript, Pascal, Perl, Scheme, Vala, Prolog. Experienced programmers may also add their own favorite language.
 - [Lahlang](https://lahlang.dev) - Lahlang is a fun, expressive programming language inspired by Singlish and Singaporean culture, designed for learning and experimentation.
 - [Lake](https://sr.ht/~lieks/lake/) - The Lake programming language: C but sweeter
+- [λanguage](https://github.com/Megapixel99/lambda-language) - λanguage is a dynamically typed functional language that compiles through CPS to JavaScript, packaged with lm, a low-level language sharing the same minimal syntax and targeting four independent backends: C, WebAssembly, ARM64 and a bytecode VM. A single program can be sent through all four backends and timed against them.
 - [Lang5](https://sourceforge.net/projects/lang5/) - A Perl based interpreter for a language which is a blend of Forth and APL. The power of lang5 stems from its arrays operations in conjunction with the underlying Forth programming paradigm of bottom up programming.
 - [language machine](https://languagemachine.sourceforge.net/) - The language machine is an efficient and usable toolkit for language and grammar. It aims to be directly and immediately useful, and it embodies a powerful model of language. This requires a paradigm shift but it comes with a diagram which explains how it works. In the documentation you will find numerous examples including the metalanguage compiler frontend and the rules that generate these pages. There is also a demonstration that the language machine can very directly represent and evaluate the lambda calculus, and an outline of its place in relation to theory.
 - [Language Processor ](https://sourceforge.net/projects/languageprocess/) - I did what any real geek would do; I have written a compiler compiler. It is called Language Processor. A software that you can feed in a language definition with its semantic and you get an object that can run your program in your defined language.
@@ -1230,13 +1231,14 @@ readable, so you can focus on problems rather than ceremony.
 - [Vortex](http://projectsweb.cs.washington.edu/research/projects/cecil/www/vortex.html) - Vortex is a language-independent optimizing compiler infrastructure for object-oriented and other high-level languages, written entirely in Cecil. It primarily operates as a whole-program optimizer, performing aggressive analyses and optimizations given the whole program. It has front-ends for Cecil, Diesel, Smalltalk, Java, C++, and Modula-3. These front-ends translate into the Vortex RTL intermediate language. Vortex produces either portable C++ code or SPARC assembly code.
 - [Vox](https://github.com/MrSmith33/vox) - Vox is a multiparadigm programming language inspired by D (60%), Jai (30%), and Zig (10%). Vox language compiler. AOT / JIT / Linker. Zero dependencies.
 <a name="W"></a>
-# W (14):
+# W (15):
 - [Wa](https://github.com/wa-lang/wa) - Wa is a general-purpose programming language designed for developing robustness and maintainability WebAssembly software. Instead of requiring complex toolchains to set up, you can simply go install it - or run it in a browser.
 - [Wak](https://sr.ht/~geb/wak/) - Stack-based text-processing language
 - [Wasp](https://github.com/wasp-lang/wasp) - Wasp (Web Application Specification) is a Rails-like framework for React, Node.js, and Prisma. Build your app in a day and deploy it with a single CLI command!
   - 🚀 Quick start: Due to its expressiveness, you can create and deploy a production-ready web app from scratch with very few lines of concise, consistent, declarative code.
   - 😌 No boilerplate: By abstracting away complex full-stack features, there is less boilerplate code. That means less code to maintain and understand! It also means easier upgrades.
   - 🔓 No lock-in: You can deploy the Wasp app anywhere you like. There is no lock-in into specific providers; you have full control over the code (and can actually check it out in .wasp/ dir if you are interested ).
+- [Wave](https://wave-lang.dev/) - A statically typed, compiled general-purpose programming language for building native software.
 - [Wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C++, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀.
 - [Well](https://github.com/wellang/well) - Well lang is somewhat functional kinda stack based language. This language includes your normal things like variables, mathamatics, loops, etc. It compiles directly to assembly (NASM).
 - [Wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
