@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **963** programming languages that you might be interested in.
+The list of **964** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -146,7 +146,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
 <a name="C"></a>
-# C (77):
+# C (78):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -223,6 +223,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Component Pascal](https://en.wikipedia.org/wiki/Component_Pascal) - Component Pascal is a programming language in the tradition of Niklaus Wirth's Pascal, Modula-2, Oberon and Oberon-2. It bears the name of the language Pascal and preserves its heritage, but is incompatible with Pascal. Instead, it is a minor variant and refinement of Oberon-2 with a more expressive type system and built-in string support.
 - [Concurnas](https://concurnas.com/) - Concurnas is an open source JVM programming language designed for building reliable, scalable, high performance concurrent, distributed and parallel systems
 - [Cone](https://github.com/jondgoodwin/cone) - Cone is a fast, fit, friendly, and safe systems programming language. Ideal for complex, data-rich programs requiring responsive performance (e.g., 3D).
+- [Conflate](https://github.com/Hacker-lot/conflate) - An experimental polyglot language for composing Python, C++, Rust, Java, and Go in one file, with typed block boundaries and optional command-manifest integrations. [AI]
 - [Coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Core](https://codeberg.org/core-lang/core) - A modern, minimal programming language. In a world in which languages add features until they collapse under their own weight, build a language that is content with itself.
 - [Cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpile into POSIX sh
