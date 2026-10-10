@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **965** programming languages that you might be interested in.
+The list of **966** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -448,7 +448,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Fuzion](https://github.com/tokiwa-software/fuzion) - A language with a focus on safety and performance. It unifies concepts found in other programming languages to improve productivity and shall provide tools for performance and correctness.
 - [Fuzuli](http://stdioe.blogspot.com/search/label/fuzuli) - JFuzuli is the JVM implementation of our programming language Fuzuli which is based on LISP syntax and Algol family programming logic. Fuzuli is a modern collaboration of these two separate family of languages.
 <a name="G"></a>
-# G (47):
+# G (48):
 - [G](https://github.com/pouyathe/glang) - A fast, easy syntex, tiny footprint (about 2.4MB) and script language.
 - [GALA](https://github.com/martianoff/gala) - GALA (Go Alternative Language) is a functional programming language that transpiles to Go, adding sealed types, exhaustive pattern matching, immutability by default, monads (Option, Either, Try, Future), and immutable collections. [functional, transpiler, go, pattern-matching]
 - [GALATEA](https://galatea.sourceforge.net/Home.htm) - Glider with Autonomous, Logic-based Agents, TEmporal reasoning and Abduction. GALATEA is software to model and simulate multi-agent systems. It is the product of two lines of research: simulation languages based on Zeigler's theory of simulation and logic-based agents. There is, in GALATEA, a proposal to integrate, in the same simulation platform, conceptual and concrete tools for multi-agent, distributed, interactive, continuous and discrete event simulation. 
@@ -502,6 +502,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Gofolio](http://www.bitpilot.de/ENGLISH.HTM#nr1) - the programming language for the ATARI portfolio
 - [Gofra](https://gofralang.github.io/) - Concatenative programming language
 - [Golo](https://golo-lang.org/) - The world didn’t need another JVM language. So we built yet another one. A simple one.
+- [Gooo](https://github.com/kimjooyoon/meta-ontology-go) - An experimental metaprogramming language with typed entities and activities, a bounded Go code-generation profile, and replayable execution records. [AI]
 - [Gosu](https://github.com/gosu-lang/gosu-lang) - Gosu is a pragmatic programming language for the JVM. It has been designed with Java developers in mind by providing a set of features that allow them to be more productive without sacrificing the benefits of Java's simple syntax and type-safety. Gosu is an object oriented language with a sprinkle of functional programming features.
 - [GPP](https://logological.org/gpp) - GPP is a general-purpose preprocessor with customizable syntax, suitable for a wide range of preprocessing tasks. Its independence from any one programming language makes it much more versatile than the C preprocessor (cpp), while its syntax is lighter and more flexible than that of GNU m4. There are built-in macros for use with C/C++, LaTeX, HTML, XHTML, and Prolog files.
 - [GrADS](https://web.archive.org/web/20150914043753/http://iges.org/grads/) - The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data. GrADS has two data models for handling gridded and station data. GrADS supports many data file formats, including binary (stream or sequential), GRIB (version 1 and 2), NetCDF, HDF (version 4 and 5), and BUFR (for station data). GrADS has been implemented worldwide on a variety of commonly used operating systems and is freely distributed over the Internet. 
