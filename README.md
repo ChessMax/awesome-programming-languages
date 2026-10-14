@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **968** programming languages that you might be interested in.
+The list of **969** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1108,7 +1108,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 <a name="S"></a>
-# S (56):
+# S (57):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
 - [Sapphire](https://github.com/foxzyt/Sapphire) - A high-performance hybrid programming language designed for simplicity and efficiency. 
 Sapphire operates on a custom Virtual Machine (VM) with an optimized Garbage Collector (GC) to ensure stable memory management.
@@ -1168,6 +1168,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Stroscot](https://github.com/Mathnerd314/stroscot) - Stroscot is an imperative programming language designed for modern processors.
 - [Stroyent](https://github.com/JohnEarnest/Mako/tree/master/tools/Stroyent) - Stroyent is an infix, procedural systems programming language targeting MakoVM. Stroyent syntax superficially resembles that of C, but there are many important differences in the semantics of these languages.
 - [SubC](https://t3x.org/subc/index.html) - SubC is a fast and simple public domain compiler for a clean subset of the C programming language. It can compile itself and passes gcc -Wall -pedantic.
+- [Suji](https://suji-lang.org/) - Suji is a small, dynamically but strongly typed scripting language featuring higher-order functions, pattern matching, string interpolation, regex, shell integration, and both shell-style (|) and functional (|>, <|) pipes.
 - [Sunder](https://sr.ht/~ashn/sunder/) - a modest systems programming language for Unix-like platforms.
 - [Suneido](https://suneido.com/) - Suneido™ is a complete, integrated application platform – a system for developing and deploying applications without the frustrations of integrating multiple different products. Suneido incorporates an object-oriented programming language, client-server relational database software, and application frameworks and components. It includes the integrated development environment (IDE) used to create applications as well as the client and server required to run applications across networks. Suneido is Open Source – it is provided free, with complete source code.
 - [Superx++](https://xplusplus.sourceforge.net/) - Superx++ is an object-oriented language that is entirely based on XML's syntactical structure. Superx++ conforms with the XML version 1.0 specification as published on the W3C web site. Programming in XML itself has great potential and Superx++ pushes the envelope!
