@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **965** programming languages that you might be interested in.
+The list of **966** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -761,7 +761,7 @@ inspiration: self; smallTalk; Eiffel; C (for hardware support)
 - [Loko](https://github.com/JohnEarnest/Mako/tree/master/demos/Loko) - Loko is an interactive interpreter for the Logo programming language targeting MakoVM, an extremely simple stack-based virtual machine intended for the creation of video games. Logo is best known for beginner-oriented "Turtle Graphics" functionality, but internally the language is actually a dynamically-scoped member of the Lisp family. As such, Logo provides sophisticated list manipulation facilities and support for higher-order functions.
 - [Lola-2](https://people.inf.ethz.ch/wirth/Lola/index.html) - A Logic Description Language
 - [LOLCODE](https://web.archive.org/web/20130129050712/http://lolcode.com/) - This is a love letter to very clever people who are slightly bored. I had no idea there were so many of us out there. (from the FAQ)
-- [Loment](https://github.com/FujoJTOP/loment) - Loment is a systems programming language that compiles to native x86-64 (Linux ELF, Windows PE, or a freestanding object for bare metal) with no runtime and no libc by default, and its compiler driver is written in the language itself.
+- [Loment](https://github.com/FujoJTOP/loment) - Loment is a systems programming language that compiles to native x86-64 (Linux ELF, Windows PE, or a freestanding object for bare metal) with no runtime and no libc by default, and its compiler driver is written in the language itself. [AI, System].
 - [Looking Glass](https://lookingglass.wustl.edu/) - Looking Glass is a programming environment for ages 10 and up. With Looking Glass, you can create and share animated stories, simple games, and even virtual pets.
 - [Loop](https://looplang.org/) - Our vision of Loop is to provide new infrastructure specialists with a “one-stop shop” for most of the software-defined infrastructure tools that are used in home environments, and cloud services. Think of Load balancers, Infrastructure as Code, monitoring, and containerization. These tools exist individually; However, having one language that handles different aspects of virtual infra all while having your application besides it is new. We like to call it infrastructure with code.
 - [Lox](https://github.com/munificent/craftinginterpreters) - jlox & clox implementations of educational Lox language from great book "Crafting Interpreters".
