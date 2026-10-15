@@ -1189,7 +1189,6 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Teal](https://github.com/creichen/teal) - Teal is a simplified language for teaching program analysis concepts.
 - [Teal](https://github.com/teal-language) - A typed dialect of Lua
 - [Terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
-
 - [Terse](https://github.com/bloriner/terse) - Terse is an AI-native code language: a machine-designed prefix IR for AI coding agents that measures 0.60–1.00× Python tokens, with a tree-walking interpreter, Python transpiler, and MCP server.
 - [ThinBasic](https://www.thinbasic.com/) - Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
 - [Thistle](https://alycesrestaurant.com/thistle) - Thistle is a programming language and compiler, suitable for introductory programming instruction. It creates a single file, compiled executable application. Thistle comes with a code editor, helpfile, sample code, and the FASM assembler. There are two versions of Thistle. Thistle creates a console application. Thistle-Win creates a Windows application.
