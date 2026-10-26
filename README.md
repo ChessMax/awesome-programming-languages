@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **969** programming languages that you might be interested in.
+The list of **970** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -637,9 +637,10 @@ enables you to:
 - [Juliet](https://www.kevinalbrecht.com/code/juliet/index.html) - A general purpose programming language.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
 <a name="K"></a>
-# K (41):
+# K (42):
 - [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
 - [KAGSA](https://github.com/kagsa/kagsa) - KAGSA is a new Interpreted programming language based on Python, the language will be practical and reliable in your projects.
+- [Kaikai](https://kaikai-lang.org/en/) - A functional, statically typed language with algebraic effects, isolated fibers and Perceus reference counting (no garbage collector, no borrow checker). Self-hosted, compiles to native code, and designed so people and LLM agents can write it together: the compiler answers typed holes with precise data.
 - [Kal](http://rzimmerman.github.io/kal/) - Kal is a highly readable, easy-to-use language that compiles to JavaScript. It's designed to be asynchronous and can run both on node.js and in the browser. Kal makes asynchronous programming easy and clean by allowing functions to pause and wait for I/O, replacing an awkward callback syntax with a clean, simple syntax.
 - [Kalaam](https://github.com/Kalaam-Programming-Language/Kalaam) - Kalaam is the first-ever programming language in Hindi and has all the basic functionalities of a modern programming language. From for loops to while loops and from functions to conditional statements.
 - [kalimat](http://web.archive.org/web/20110610183709/https://code.google.com/p/kalimat/) - Kalimat is an educational programming language for Arabic-speaking children. It aims for readability and an easy to understand syntax while providing enough features to allow for complex, interesting and fun programs.
