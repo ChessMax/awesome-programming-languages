@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **976** programming languages that you might be interested in.
+The list of **978** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -688,7 +688,7 @@ enables you to:
 - [KPHP](https://vkcom.github.io/kphp/) - KPHP takes your PHP source code and converts it to a C++ equivalent, then compiles the generated C++ code and runs it within an embedded HTTP server. You could call KPHP a transpiler, but we call it a compiler.
 - [Ksi Scheme](https://sourceforge.net/projects/ksi/) - Ksi is a portable, embeddable Scheme implementation written in C.
 <a name="L"></a>
-# L (77):
+# L (78):
 - [L](https://l-lang.org/) - L is a high-level, open-source, general-purpose and system programming language which emphasizes readability, simplicity, extensibility, conciseness and performance. The L compiler features native code generation through LLVM, and is fully documented in a literate programming style. The language and compiler are usable, but are under heavy development as new features are being implemented.
 - [L](https://web.archive.org/web/20181108232826/http://home.cc.gatech.edu/tony/61) - L is both a language and an operating environment, like Smalltalk. It is capability-secure and distributed, like E. The language is a derivative of lambda calculus, hence it is small, block-structured, dynamically-typed, and functional. State is implicitly threaded through all function calls and returns, allowing simulation of dynamic scope and side-effects. Each thread runs in its own transaction, upon completion its state changes are committed. Any concurrent threads that conflict are aborted and re-executed at a higher priority. Each commited state change is an event. Event handlers spawn new threads (repeating the cycle).
 - [L+](https://code.google.com/archive/p/lpcompiler/) - The language our compiler takes as input, called L+, supports most constructs from C (variables, branches, loops, functions, recursion and I/O) albeit with some limitations and some additions. The L+ compiler generates Java Bytecode. L+ programs can be run on any platform with a Java VM installed.
@@ -748,6 +748,7 @@ security: strong type; design by contract; genericity
 accessible: small; embeddable; open source
 inspiration: self; smallTalk; Eiffel; C (for hardware support)
 - [LispE](https://github.com/naver/lispe) - A _Lisp_ implementation with _Data Structure_, _Arithmetic Type_, _Array Instructions_, _Pattern Matching_ and many many different instructions and libraries. _LispE_ is a mix of functional and array languages.
+- [Lispex](https://www.lispex.com) - A safe language for business rules
 - [LITTLE](http://www.thalion-graphics.de/little/) - LITTLE is a new programming language, looking like LISP, but pure Object-Oriented.
 - [Little](https://wiki.tcl-lang.org/page/Little?R=0&O=The+L+Programming+Language&W=) - Little is a statically-typed scripting language that combines C syntax and types with Perl's regexes and associative arrays, and dynamically compiles the whole lot to Tcl byte-codes. All Tcl/Tk facilities are available to Little, and source files can interleave Little and Tcl code that call each other.
 - [Little](http://www.little-lang.org/) - Little is a statically typed, C-like scripting language. 
@@ -1180,7 +1181,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Swallow](https://git.sr.ht/~muqiu_han/swallow) - A minimalist functional programming language
 - [Sylvan](https://sr.ht/~remexre/sylvan/) - A general-purpose programming language that aspires to have support for attribute grammars, managed effects, and efficient pure functional programming.
 <a name="T"></a>
-# T (31):
+# T (32):
 - [T3X](https://t3x.org/t3x/) - T3X is a small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language. Its syntax is similar to Pascal, its semantics resembles BCPL's.
 - [T3XFORTH](https://t3x.org/t3xforth/index.html) - T3XFORTH is an old-school, plain vanilla FORTH system that is mostly compatible to FORTH-79 with some parts borrowed from FIG FORTH, FORTH-83, and EFORTH, and taking some inspiration from Leo Brodie's (classic, 1983) book, "Starting FORTH". T3XFORTH runs on 8086 processors under DOS on an IBM PC, or stand-alone using the PC BIOS. It can also run on 32-bit Unix systems using a T3XFORTH VM emulator. 
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
@@ -1208,6 +1209,7 @@ The language is not compatible with any known existing Forth implementation, alt
 The implementation was designed to be easily portable between Unix-like systems
 - [Tokay](https://github.com/tokay-lang/tokay) - Tokay is a programming language to quickly implement solutions for text processing problems. This can either be just simple data extractions, but also parsing entire structures or parts of it, and turning information into structured parse trees or abstract syntax trees for further processing. Therefore, Tokay is both a tool and language for simple one-liners, but can also be used to implement code-analyzers, refactoring tools, interpreters, compilers or transpilers. Actually Tokay's own language parser is implemented in Tokay itself.
 - [ToonTalk](http://www.toontalk.com/) - ToonTalk is an interpreter for a concurrent constraint programming language. Concurrent constraint programming is a synthesis of concurrent logic programming and constraint logic programming. (See, for example, Saraswat). The class of languages for which programs are roughly interchangeable with ToonTalk programs include Oz, E-Lang, Janus, Flat Guarded Horn Clauses, KL1/KLIC, Flat Concurrent Prolog, Parlog, and Strand. The syntax of all these languages is textual while ToonTalk has an action-oriented video game animation syntax. The programming environment is completely different as well. In ToonTalk, the process of constructing, testing, and debugging programs closely resembles playing a video game. "From Prolog and Zelda to ToonTalk" is a paper discussing these ideas in detail.
+- [Topaz](https://topaz.ooo) - A general-purpose programming language with typesetting built in
 - [Toy](https://github.com/0xd34df00d/refinedt/tree/master/toy) - Refinement types + dependent types = ❤️. A Toy proof-of-concept implementation of a language with refinement types that compiles to Idris.
 - [Toy](https://github.com/Ratstail91/Toy) - The Toy programming language interpreter, written in C.
 - [TwinBasic](https://twinbasic.com/) - TwinBasic: a modern, BASIC programming language, aiming for 100% backwards compatibility with existing VB6/VBA projects. A complete replacement development environment offering significant new features and improvements over the VB6 IDE.
