@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **980** programming languages that you might be interested in.
+The list of **981** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -273,7 +273,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Céu](https://github.com/ceu-lang/ceu) - Céu is a reactive language that aims to offer a higher-level and safer alternative to C.
 - [C∀](https://github.com/cforall/cforall) - C? (Cforall) is a language design extending ISO C. The purpose of the project is to engineer modern language features into C in an evolutionary rather than revolutionary way. Java is an example of the revolutionary approach of modernizing C/C++, resulting in a new language rather than an extension of its descendents. C++, Fortran 95 and Cobol 9X are examples of the evolutionary approach where modern language features are added and problems fixed within the framework of an existing language.
 <a name="D"></a>
-# D (30):
+# D (31):
 - [D](https://github.com/dlang/dmd) - General-purpose programming language with static typing, systems-level access, and C-like syntax.
 - [Dachs](https://github.com/rhysd/Dachs) - Dachs is a general-purpose programming language designed to be enjoyable, statically-typed and dog-friendly. Dachs is intended to be used for efficient applications and tools development, not for system programming.
 - [Dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-ready programming language. As you type in your program, Dafny's verifier constantly looks over your shoulder, flags any errors, shows you counterexamples, and congratulates you when your code matches your specifications. When you're done, Dafny can compile your code to C#, Java, JavaScript or Go (more to come!), so it can integrate with your existing workflow.
@@ -313,6 +313,7 @@ then it's place for you. Here you can find interesting programming languages tha
   - Unicode 8 support
 - [DML](https://dmlbuild.sourceforge.net/) - DML is a simple templating language designed for managing web sites based in static HTML files (no CGI, SSI, etc.). It has been obsoleted by DML2 which has in turn been obsoleted by XSLT.
 - [DML2](https://dml2.sourceforge.net/) - DML2 is an object-oriented content storage and document formatting framework. Using a fairly simple, object-oriented language and a few templates, generating different types of media from the same source content is made easy. This tool has been obsoleted by XSLT.
+- [DnyScript](https://github.com/danielbrendel/dnyScriptInterpreter) - dnyScript is useful as a configuration and scripting engine used in C++ projects.
 - [Draak](https://draak.sourceforge.net/) - Draak is a Multilanguage Macro compiler. What does that mean? Draak is a compiler that has the ablity to compile any language for any platform by being a generic compiler. It reads in a language description file and uses it to compile a program. It has two parts: parser and macros. The parser replaces Yacc and Lex, and the macros replaces the code generation for traditional compilers.
 - [Draco](https://github.com/Draco-lang/Compiler) - a new .NET programming language under development. If you want further details on the language itself or want to contribute ideas, head over to the [language suggestions repository](https://github.com/Draco-lang/Language-suggestions).
 - [Dragon](https://dragon-lang.org/) - The Dragon is an innovative and practical general-purpose language. The supported programming paradigms are imperative, object-oriented, declarative using nested structures, functional and natural programming. The language is portable (Windows, Linux, macOS, etc.) and can be used to create Console and GUI. The language is designed to be simple, small, flexible and fast.
