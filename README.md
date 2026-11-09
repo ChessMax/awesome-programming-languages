@@ -1,6 +1,5 @@
 # Awesome programming languages
-The list of **979** programming languages that you might be interested in.
-master
+The list of **980** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -513,6 +512,7 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Gren](https://github.com/gren-lang/compiler) - Gren is a pure functional programming language that is easy to learn, but powerful in use.
 - [Gri](https://gri.sourceforge.net/) - Gri is a language for scientific graphics programming. The word "language" is important: Gri is command-driven, not point/click. Gri can make x-y graphs, contour graphs, and image graphs, in PostScript and (someday) SVG formats. Control is provided over all aspects of drawing, e.g. line widths, colors, and fonts. A TeX-like syntax provides common mathematical symbols.
 - [Groovy](https://github.com/apache/groovy) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
+- [Gill](https://github.com/Iconictacoma/gill/) - Gill is a general-purpose, functional, procedural, systems programming language for those who are frustrated with C++, focusing on memory safety. It is directly inspired by C3, Rust, and D.
 - [Gui4Cli](https://www.gui4cli.org/description.html) - Gui4Cli is an interpreted, untyped, procedural programming language for easily creating Windows apps. It has a wide set of commands, it can be easily extended and can create self-standing executables. It is Event-driven, and intuitive and geared to creating stand-alone guis or interfaces for other, console driven programs (as it's name implies). The new version can also handle Unicode.
 - [Guile](https://www.gnu.org/software/guile/) - Guile is designed to help programmers create flexible applications that can be extended by users or other programmers with plug-ins, modules, or scripts. With Guile you can create applications and games for the [desktop](https://www.gnu.org/software/guile/#apps-using-guile), the [Web](https://www.gnu.org/software/guile/#apps-using-guile), the [command-line](https://www.gnu.org/software/guile/#apps-using-guile), and more.
 - [gura](http://www.gura-lang.org/) - A programming language that comes with powerful operation on iterators. 
