@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **975** programming languages that you might be interested in.
+The list of **976** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1180,7 +1180,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Swallow](https://git.sr.ht/~muqiu_han/swallow) - A minimalist functional programming language
 - [Sylvan](https://sr.ht/~remexre/sylvan/) - A general-purpose programming language that aspires to have support for attribute grammars, managed effects, and efficient pure functional programming.
 <a name="T"></a>
-# T (30):
+# T (31):
 - [T3X](https://t3x.org/t3x/) - T3X is a small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language. Its syntax is similar to Pascal, its semantics resembles BCPL's.
 - [T3XFORTH](https://t3x.org/t3xforth/index.html) - T3XFORTH is an old-school, plain vanilla FORTH system that is mostly compatible to FORTH-79 with some parts borrowed from FIG FORTH, FORTH-83, and EFORTH, and taking some inspiration from Leo Brodie's (classic, 1983) book, "Starting FORTH". T3XFORTH runs on 8086 processors under DOS on an IBM PC, or stand-alone using the PC BIOS. It can also run on 32-bit Unix systems using a T3XFORTH VM emulator. 
 - [TableM](https://github.com/Tablam/TablaM) - A relational language.
@@ -1193,7 +1193,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Tcl](https://en.wikipedia.org/wiki/Tcl) - Tcl is a high-level, general-purpose, interpreted, dynamic programming language. Tcl supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It is commonly used embedded into C applications for rapid prototyping, scripted applications, GUIs, and testing.
 - [Teal](https://github.com/creichen/teal) - Teal is a simplified language for teaching program analysis concepts.
 - [Teal](https://github.com/teal-language) - A typed dialect of Lua
-- [Tersalang](https://github.com/kevindm-design/tersalang) - A small word-based language designed to be written by LLMs and scored by RL harnesses, with declared effects, runtime contracts, stable JSON diagnostics and a GBNF grammar export.
+- [Tersalang](https://github.com/kevindm-design/tersalang) - A small word-based language designed to be written by LLMs and scored by RL harnesses, with declared effects, runtime contracts, stable JSON diagnostics and a GBNF grammar export. [AI]
 - [Terra](https://github.com/terralang/terra) - Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language
 - [Terse](https://github.com/bloriner/terse) - Terse is an AI-native code language: a machine-designed prefix IR for AI coding agents that measures 0.60–1.00× Python tokens, with a tree-walking interpreter, Python transpiler, and MCP server. [AI]
 - [ThinBasic](https://www.thinbasic.com/) - Very fast "BASIC like" programming language useful to Beginners and to Gurus. BASIC interpreter for Windows able to create console and gui applications with most of the user interface controls, automate process, automate data exchange, connect to databases, send mails, connect to ftp sites, rest api, parsing strings, tokenizing, traversing xml, handling files, Windows Registry, OpenGl, graphics, sound, printing ... and much more.
