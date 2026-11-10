@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **981** programming languages that you might be interested in.
+The list of **982** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1117,7 +1117,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 <a name="S"></a>
-# S (57):
+# S (58):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
 - [Sapphire](https://github.com/foxzyt/Sapphire) - A high-performance hybrid programming language designed for simplicity and efficiency. 
 Sapphire operates on a custom Virtual Machine (VM) with an optimized Garbage Collector (GC) to ensure stable memory management.
@@ -1154,6 +1154,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 - [Soul](https://github.com/egel-lang/soul) - Soul is an esoteric concatenative one-stack language, a small explorative language with an interpreter written in a day. Most concatenative languages work on a state, often that's another stack. For example, Forth has a data and return stack and Postscript has an extra stack outputting to a page. Soul is a minimalist language that provides one thing, and one thing only, the one sole stack.
 - [SOUL](https://github.com/soul-lang/SOUL) - The SOUL language is a small, carefully crafted DSL for writing real-time DSP code. Its design goals are to be fast, secure, safe, and simple for even beginners to learn. The SOUL runtime is a collection of tools and technologies for running SOUL code with very high efficiency, on heterogeneous CPUs and DSPs, both locally and remotely.
+- [Sounio](https://souniolang.org) - Sounio 3.0 (pre-release) is a research language for scientific computing with physical units, epistemic uncertainty types and declared effects, powered by a self-hosted compiler. [Source](https://github.com/Sounio-lang/sounio). [AI]
 - [SPA](https://spa.sourceforge.net/) - A simple interpreter of a pseudo assembler language.
 - [sparcl](https://github.com/kztk-m/sparcl) - Sparcl: A Language for Partially-Invertible Computation. This is an implementation of a system presented in the paper: Kazutaka Matsuda and Meng Wang: Sparcl: A Language for Partially-Invertible Computation, ICFP 2020. 
 - [SPARK](http://pages.cpsc.ucalgary.ca/~aycock/spark/) - SPARK stands for the Scanning, Parsing, and Rewriting Kit. It formerly had no name, and was referred to as the "little language framework." The first version (circa 1998) was described in the paper Little Languages in Python at the 7th International Python Conference.
