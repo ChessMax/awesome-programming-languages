@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **981** programming languages that you might be interested in.
+The list of **982** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1117,7 +1117,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
 <a name="S"></a>
-# S (57):
+# S (58):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
 - [Sapphire](https://github.com/foxzyt/Sapphire) - A high-performance hybrid programming language designed for simplicity and efficiency. 
 Sapphire operates on a custom Virtual Machine (VM) with an optimized Garbage Collector (GC) to ensure stable memory management.
@@ -1149,6 +1149,7 @@ advanced Math functions (lerp, clamp, trig), and full System/IO integration, all
 - [SISC](http://sisc-scheme.org/) - SISC is an extensible Java based interpreter of the algorithmic language Scheme. SISC uses modern interpretation techniques, and handily outperforms all existing JVM interpreters (often by more than an order of magnitude).
 - [Slang](https://github.com/slang-lang/slang) - Statically typed scripting language... syntax errors should be catched at design time!
 - [Slang](https://www.jedsoft.org/slang/) - S-Lang is a multi-platform programmer's library designed to allow a developer to create robust multi-platform software. It provides facilities required by interactive applications such as display/screen management, keyboard input, keymaps, and so on. The most exciting feature of the library is the slang interpreter that may be easily embedded into a program to make it extensible. While the emphasis has always been on the embedded nature of the interpreter, it may also be used in a stand-alone fashion through the use of slsh, which is part of the S-Lang distribution. 
+- [SlowLang](https://github.com/sebin-gg/slowlang) - SlowLang (also called TortoiseLang) is a Python-based esoteric programming language and IDE that enforces a ~30 WPM typing speed limit. Typing faster triggers an angry ASCII turtle, a 2-second lockout, and error messages written as sarcastic haikus. It also demands a `please()` call at random intervals and lazily refuses ~10% of perfectly valid runs. It won first place at TinkerHub's Useless Projects 2.0 hackathon.
 - [SMAL](http://homepage.divms.uiowa.edu/~jones/cross/#SMAL) - The machine independant SMAL assembler and linker supports conditional and macro assembly and all linkage editing operations commonly associated with languages such as FORTRAN and C. It comes with a user's manual that also explains how to customize it to support a variety of machine instruction sets.
 - [SmallBASIC](https://github.com/smallbasic/SmallBASIC) - SmallBASIC is a fast and easy to learn BASIC language interpreter ideal for everyday calculations, scripts and prototypes. SmallBASIC includes trigonometric, matrices and algebra functions, a built in IDE, a powerful string library, system, sound, and graphic commands along with structured programming syntax.
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
