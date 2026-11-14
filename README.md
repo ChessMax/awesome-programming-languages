@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **981** programming languages that you might be interested in.
+The list of **982** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -642,7 +642,7 @@ enables you to:
 - [Juliet](https://www.kevinalbrecht.com/code/juliet/index.html) - A general purpose programming language.
 - [Juvix](https://github.com/metastatedev/juvix) - A more elegant language for a more civilized age. Juvix synthesizes a high-level frontend syntax, dependent-linearly-typed core language, whole-program optimisation system, and backend-swappable execution model into a single unified stack for writing formally verifiable, efficiently executable smart contracts which can be deployed to a variety of distributed ledgers.
 <a name="K"></a>
-# K (42):
+# K (43):
 - [K](https://en.wikipedia.org/wiki/K_(programming_language)) - A proprietary array processing programming language developed by Arthur Whitney and commercialized by Kx Systems. The language serves as the foundation for kdb+, an in-memory, column-based database, and other related financial products. The language, originally developed in 1993, is a variant of APL and contains elements of Scheme. Advocates of the language emphasize its speed, facility in handling arrays, and expressive syntax.
 - [KAGSA](https://github.com/kagsa/kagsa) - KAGSA is a new Interpreted programming language based on Python, the language will be practical and reliable in your projects.
 - [Kaikai](https://kaikai-lang.org/en/) - A functional, statically typed language with algebraic effects, isolated fibers and Perceus reference counting (no garbage collector, no borrow checker). Self-hosted, compiles to native code, and designed so people and LLM agents can write it together: the compiler answers typed holes with precise data. [AI]
@@ -667,6 +667,7 @@ enables you to:
 - [Kew](https://kew.sourceforge.net/) - Kew is a powerful but small object-oriented programming language that offers many advanced features, including proper closures, first-class variables, relations, continuations, exceptions, dynamic variables, security, transactions, persistence.... 
 - [Key](http://web.archive.org/web/20041012094909/http://www.webkool.net/wk/About/Key$QQjEPgoCBwsAAEYyAP0AAP$0) - a dynamic language that allowed both class abstraction and object description.
 - [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Keysharp is a fork and improvement of the abandoned IronAHK project, which itself was a C# re-write of the C++ AutoHotkey project. The intent is for Keysharp to run on Windows, Linux and eventually Mac. For now, only Windows is supported.
+- [Kilat](https://github.com/juw12/kilat) - A small programming language for engineering calculations and safe scripts. Units and types are checked before a program runs, so 2 m + 3 kg is refused instead of printing a number. One 1.3 MB program with no dependencies; it also runs in a web page and inside Python.
 - [Kin](https://github.com/kin-lang/kin) - Kin is a straightforward programming language created with the purpose of aiding Kinyarwanda speakers in easily learning programming.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Kind](https://github.com/HigherOrderCO/Kind) - Kind is a pure functional programming language and proof assistant.
