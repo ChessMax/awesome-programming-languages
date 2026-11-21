@@ -145,6 +145,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Burro](https://sr.ht/~reesmichael1/burro/) - A digital typesetting language
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
+- [ByteC](https://github.com/ByteCompilier/ByteC/) - A lightweight low-level programming language emulating a 64-bit virtual processor, written in pure C11 with its own package manager (`bpm`) and web registry.
 <a name="C"></a>
 # C (78):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
