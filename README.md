@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **981** programming languages that you might be interested in.
+The list of **982** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1059,7 +1059,7 @@ Furthermore you can use the Pizza compiler embedded into other applications.
 - [Pyret](https://github.com/brownplt/pyret-lang) - Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming. It's under active design and development, and free to use or modify.
 - [Pyretic](http://frenetic-lang.org/pyretic/) - Python + Frenetic = Pyretic. Pyretic is one member of the Frenetic family of SDN programming languages.  As such Pyretic enables network programmers and operators to write succinct modular network applications by providing powerful abstractions.  Pyretic is both a programmer-friendly domain-specific language embedded in Python and the runtime system that implements programs written in the Pyretic language on network switches.
 <a name="Q"></a>
-# Q (7):
+# Q (8):
 - [Q](https://q-lang.sourceforge.net/) - Q is an interpreted, dynamically typed functional programming language based on term rewriting which allows you to define functions using symbolic equations. It works on (32 bit) Linux, OS X, Unix and Windows, and comes with a bunch of useful libraries which turn it into a practical programming tool. The Q programming system is free software distributed under the GPL.
 - [Qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 - [Qogo](http://qs.co.nz/Tcl/Qogo/) - This application was developed to teach 5 to 10 year olds the principles of  programming via the venerable "Turtle Graphics" paradigm. It is written in TCL so it runs on all computer platforms.
@@ -1072,6 +1072,7 @@ It features a full IDE with undo support and interactive construction as well as
   - Programming  language with functions, classes, full dll/API/COM support.
   - You can  create programs for various purposes. Run in  Quick Macros  or as  exe files.
 - [Quil](https://github.com/quil-lang/quil) - A Portable Quantum Instruction Language.
+- [Quill](https://github.com/aaryanbindage/Quill) - A small statically typed, class-only language with Python-style syntax. Every function lives in a class; the compiler emits LLVM IR and builds native binaries. Comes with its own IDE (Quill IDE, a Code - OSS fork).
 - [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
 <a name="R"></a>
